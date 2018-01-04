@@ -1,0 +1,114 @@
+{
+	"tab": {
+		"lookup": "adminxml_plus",
+		"label": "AdminXML Plus",
+		"version": "0.1",
+		"enableCodeDisplay":false,
+		"enableReset": true
+	},
+	"settings": [
+		{
+			"lookup": "section_primary",
+			"type": "section-title",
+			"label": "Primary colors"
+		},
+		{
+			"lookup": "primary_0",
+			"value": "#0E1316",
+			"type": "color",
+			"access": "normal",
+			"label": "Tab hover background, link hover",
+			"default": "#0E1316"
+		},
+		{
+			"lookup": "primary_1",
+			"value": "#182227",
+			"type": "color",
+			"access": "normal",
+			"label": "Non-active tab background, active main tab text hover",
+			"default": "#182227"
+		},
+		{
+			"lookup": "primary_2",
+			"value": "#283840",
+			"type": "color",
+			"access": "normal",
+			"label": "Header bottom fade color",
+			"default": "#283840"
+		},
+		{
+			"lookup": "primary_3",
+			"value": "#415A66",
+			"type": "color",
+			"access": "normal",
+			"label": "Separators, active main tab text",
+			"default": "#415A66"
+		},
+		{
+			"lookup": "primary_4",
+			"value": "#618899",
+			"type": "color",
+			"access": "normal",
+			"label": "Header top fade color",
+			"default": "#618899"
+		},
+		{
+			"lookup": "primary_5",
+			"value": "#E8EDF0",
+			"type": "color",
+			"access": "normal",
+			"label": "Site name link color",
+			"default": "#E8EDF0"
+		},
+		{
+			"lookup": "primary_6",
+			"value": "#AFC5CF",
+			"type": "color",
+			"access": "normal",
+			"label": "Non-active tab text, separators",
+			"default": "#AFC5CF"
+		},
+		{
+			"lookup": "section_secondary",
+			"type": "section-title",
+			"label": "Secondary colors"
+		},
+		{
+			"lookup": "secondary_0",
+			"value": "#9F2C04",
+			"type": "color",
+			"access": "normal",
+			"label": "Side tab active shadow",
+			"default": "#9F2C04"
+		},
+		{
+			"lookup": "secondary_1",
+			"value": "#CF3805",
+			"type": "color",
+			"access": "normal",
+			"label": "Side tab active background, page subtitles",
+			"default": "#CF3805"
+		},
+		{
+			"lookup":"theme_gen_author",
+			"type":"text",
+			"access":"hidden",
+			"label":"Author",
+			"value":""
+		},
+		{
+			"lookup":"theme_gen_link",
+			"type":"text",
+			"access":"hidden",
+			"label":"Author URL",
+			"value":""
+		},
+		{
+			"lookup":"plugin_lang",
+			"type":"text",
+			"access":"hidden",
+			"label":"Choose an existing theme;by;Set;Export current theme;Theme name;Author;Author URL;Export admin.xml;This is just a preview, don't forget to save updates to confirm.",
+			"value":""
+		}
+	]
+}

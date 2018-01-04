@@ -1,0 +1,15 @@
+{
+	"tab": {
+		"lookup": "nouvel_onglet",
+		"label": "Sandbox",
+		"type": "plugin"
+	},
+	"settings": [
+		{
+			"lookup": "test",
+			"label": "test",
+			"type": "textarea",
+			"access": "normal"
+		}
+	]
+}

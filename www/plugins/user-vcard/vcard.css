@@ -1,0 +1,39 @@
+.vcard{ 
+     min-height:100px;
+     height:auto !important;
+     height:100px;
+     border:1px solid #c8c8c8;
+
+     -moz-box-shadow: 2px 1px 10px rgba(0,0,0, .07);
+     -webkit-box-shadow: 2px 1px 10px rgba(0,0,0, .07);
+     box-shadow: 2px 1px 10px rgba(0,0,0, .07);
+     padding:20px;
+}
+
+.vcard_photo {
+  margin:3px;
+  border:2px solid #0F0F0F;
+  -moz-box-shadow: 2px 1px 10px rgba(0,0,0, .7);
+  -webkit-box-shadow: 2px 1px 10px rgba(0,0,0, .7);
+  box-shadow: 2px 1px 10px rgba(0,0,0, .7);
+}      
+
+.vcard_title {
+ font-style: italic;
+ color: #FF3040;
+}
+
+.vcard_email {
+}
+
+.vcard_off_tel {
+}
+
+.vcard_cell_tel {
+}
+
+.vcard_cell_fax {
+}
+
+.vcard_link {
+}

@@ -1,0 +1,17 @@
+<!-- CSS for MLD Newsletter plugin -->
+label.mld_label {
+	display:inline-block;
+	width:40px;
+}
+p.mld_succes {
+	color: #80FF80;
+}
+p.mld_failure	{
+	color: #FF0000;
+}
+div.mld_newsletterpreview {
+    width: 500px;
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #222222;
+}

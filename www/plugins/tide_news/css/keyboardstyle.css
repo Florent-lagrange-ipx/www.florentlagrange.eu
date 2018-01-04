@@ -1,0 +1,197 @@
+/* Main style sheet for jQuery Keypad v1.4.2. */
+button.keypad-trigger {
+	width: 25px;
+	padding: 0px;
+}
+img.keypad-trigger {
+	margin: 2px;
+	vertical-align: middle;
+}
+.keypad-popup, .keypad-inline, .keypad-key, .keypad-special {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 14px;  
+
+}
+.keypad-popup {
+	display: none;
+	z-index: 10;
+	margin: 0 0 0 -200px;
+	padding: 10px;
+	background-color: #fff;
+	color: #000;
+	border: 1px solid #888;
+	border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+  ;
+}
+.keypad-keyentry {
+	display: none;
+}
+.keypad-inline {
+	background-color: #fff;
+	border: 1px solid #888;
+	border-radius: 0.25em;
+	-moz-border-radius: 0.25em;
+	-webkit-border-radius: 0.25em;
+}
+.keypad-disabled {
+	position: absolute;
+	z-index: 100;
+	background-color: white;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+.keypad-rtl {
+	direction: rtl;
+}
+.keypad-prompt {
+	padding: 10px;
+        font-weight: bold;
+        font-size: 15px;
+	text-align: center;
+}
+.keypad-prompt.ui-widget-header {
+	margin: 0.125em;
+}
+.keypad-row {
+	clear: both;
+	float: left;
+
+}
+.date_view{
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 15px;
+    color: #bb0010;
+    
+}
+.keypad-space {
+	float: left;
+	margin: 0.125em;
+	width: 2em;
+}
+* html .keypad-space { /* IE6 */
+	margin: 0em;
+	width: 2.25em;
+}
+.keypad-half-space {
+	float: left;
+	margin: 0.125em 0.0625em;
+	width: 1em;
+}
+* html .keypad-half-space { /* IE6 */
+	margin: 0em;
+	width: 1.125em;
+}
+/*.keypad-key, .keypad-special {
+	float: left;
+	margin: 0.125em;
+	padding: 0em;
+	width: 100px;
+        order: 1px solid #ccc;
+	border-radius: 0.25em;
+	-moz-border-radius: 0.25em;
+	-webkit-border-radius: 0.25em;
+	text-align: center;
+	cursor: pointer;
+}*/
+
+.keypad-key {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:2px 5px;
+        margin: 0 5px;
+        min-width: 100px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528ecc;
+}
+.keypad-key:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}
+.keypad-key:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+.keypad-key[disabled] {
+	border: 0.125em outset;
+}
+.keypad-key-down {
+}
+.keypad-special {
+	width: 4.25em;
+}
+.keypad-spacebar {
+	width: 380px;
+         padding:2px 5px;
+}
+.keypad-tab {
+	width: 2em;
+}
+.keypad-clear, .keypad-back, .keypad-close, .keypad-shift {
+
+        display:inline-block;
+        text-decoration:none;
+        padding:2px 5px;
+        min-width: 100px;
+        margin-top: 10px;
+}
+.keypad-clear {
+	
+}
+.keypad-sep{
+    width: 20px;
+}
+.keypad-back {
+	
+}
+.keypad-close {
+	
+}
+.keypad-shift {
+	
+}
+.keypad-cover {
+	display: none;
+	display/**/: block;
+	position: absolute;
+	z-index: -1;
+	filter: mask();
+	top: -4px;
+	left: -4px;
+	width: 125px;
+	height: 300px;
+}
+.keypad_title{   
+    width: 150px;
+    background-color: #ddd;
+    padding: 2px;
+    float: left;
+    border: none;
+    clear: both;
+
+    
+}

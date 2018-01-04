@@ -1,0 +1,55 @@
+{
+	"tab": {
+		"lookup": "Bibliographie",
+		"label": "Nouvel onglet",
+		"type": "plugin"
+	},
+	"settings": [
+		{
+			"lookup": "auteur",
+			"label": "auteur",
+			"type": "textarea",
+			"access": "normal",
+			"value": "dsqdsqdqsdqsdqsdsq",
+			"i18n": [
+				"dsqdsqdqsdqsdqsdsq"
+			]
+		},
+		{
+			"lookup": "nouveau_parametrevv",
+			"label": "aaa",
+			"type": "color",
+			"descr": "Cccffff",
+			"access": "normal",
+			"i18n": [
+				"",
+				""
+			],
+			"options": [
+				"Ddd"
+			]
+		},
+		{
+			"lookup": "nouveaufff_parametre",
+			"label": "Nouveau paramètreeee",
+			"type": "radio",
+			"access": "normal",
+			"i18n": [
+				"",
+				""
+			]
+		},
+		{
+			"lookup": "nouveau_parametre",
+			"label": "Nouveau paramètre",
+			"type": "switch",
+			"descr": "fdsfsdfsd",
+			"access": "normal",
+			"value": "Admin",
+			"i18n": [
+				"Admin",
+				"Admin"
+			]
+		}
+	]
+}

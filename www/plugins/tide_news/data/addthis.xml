@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <share_code_1><![CDATA[&lt;div class=&quot;addthis_toolbox addthis_default_style &quot;&gt;
+&lt;a class=&quot;addthis_button_facebook_like&quot; fb:like:layout=&quot;button_count&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_tweet&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_pinterest_pinit&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_counter addthis_pill_style&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;]]></share_code_1>
+    <share_code_2><![CDATA[&lt;div class=&quot;addthis_toolbox addthis_default_style addthis_32x32_style&quot;&gt;
+&lt;a class=&quot;addthis_button_preferred_1&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_2&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_3&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_4&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_compact&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_counter addthis_bubble_style&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;]]></share_code_2>
+    <share_code_3><![CDATA[&lt;div class=&quot;addthis_toolbox addthis_default_style &quot;&gt;
+&lt;a class=&quot;addthis_button_preferred_1&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_2&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_3&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_4&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_compact&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_counter addthis_bubble_style&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;]]></share_code_3>
+    <share_code_4><![CDATA[&lt;a class=&quot;addthis_button&quot; href=&quot;http://www.addthis.com/bookmark.php?v=250&amp;amp;pubid=bogyvet&quot;&gt;&lt;img src=&quot;http://s7.addthis.com/static/btn/v2/lg-share-en.gif&quot; width=&quot;125&quot; height=&quot;16&quot; alt=&quot;Bookmark and Share&quot; style=&quot;border:0&quot;/&gt;&lt;/a&gt;]]></share_code_4>
+    <share_code_5><![CDATA[&lt;div class=&quot;addthis_toolbox addthis_floating_style addthis_counter_style&quot; style=&quot;left:50px;top:50px;&quot;&gt;
+&lt;a class=&quot;addthis_button_facebook_like&quot; fb:like:layout=&quot;box_count&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_tweet&quot; tw:count=&quot;vertical&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_google_plusone&quot; g:plusone:size=&quot;tall&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_counter&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;]]></share_code_5>
+    <share_code_6><![CDATA[&lt;div class=&quot;addthis_toolbox addthis_floating_style addthis_32x32_style&quot; style=&quot;left:50px;top:50px;&quot;&gt;
+&lt;a class=&quot;addthis_button_preferred_1&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_2&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_3&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_4&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_compact&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;]]></share_code_6>
+    <share_code_7><![CDATA[&lt;div class=&quot;addthis_toolbox addthis_floating_style addthis_16x16_style&quot; style=&quot;left:50px;top:50px;&quot;&gt;
+&lt;a class=&quot;addthis_button_preferred_1&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_2&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_3&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_preferred_4&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;addthis_button_compact&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;]]></share_code_7>
+</item>

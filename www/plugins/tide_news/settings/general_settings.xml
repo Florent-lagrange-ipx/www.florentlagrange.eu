@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><news_page_number>5</news_page_number><all_news_page>latest-news</all_news_page><news_summary>textarea</news_summary><slug_separator>-</slug_separator><duplicate_name>checked</duplicate_name><language>english</language><date_format>%d %b %Y</date_format><time_format>%H:%M:%S</time_format><navigation_type>paginate</navigation_type><old_master_page>latest-news</old_master_page><external_comments/><shortcodes_use/></item>

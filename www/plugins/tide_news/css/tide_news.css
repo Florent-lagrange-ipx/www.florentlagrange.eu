@@ -1,0 +1,396 @@
+/*Share Services - AddThis, ShareThis*/
+/*Addthis - You can individualy style every menu depending of code he use.*/
+.tide_addthis{}
+
+.tide_addthis_share_code_1{
+    float: right;
+    margin: 15px;
+}
+.tide_addthis_share_code_2{}
+.tide_addthis_share_code_3{}
+.tide_addthis_share_code_4{}
+.tide_addthis_share_code_5{}
+.tide_addthis_share_code_6{}
+.tide_addthis_share_code_7{}
+
+
+/*ShareThis - You can individualy style every menu depending of code he use.*/
+.tide_sharethis{}
+
+.tide_sharethis_share_code_1{}
+.tide_sharethis_share_code_2{}
+.tide_sharethis_share_code_3{}
+.tide_sharethis_share_code_4{}
+.tide_sharethis_share_code_5{}
+.tide_sharethis_share_code_6{}
+.tide_sharethis_share_code_7{}
+
+
+/*Archive Page - Direct access.*/
+#tide_archive {
+    margin:20px 10px;
+    padding: 25px 10px;
+    height:100%;
+    min-height:200px;
+}
+#tide_archive .rightopt {float:right;width:48%;}
+#tide_archive .leftopt {float:left;width:48%;}
+
+
+/*External Comments - When you use External Commenting Plugin.*/
+
+.tide_news_comments{
+    position:relative;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    color:inherit;
+    margin-bottom: 20px; 
+    margin-top: 20px;
+    overflow:hidden;    
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+}
+
+.tide_news_comments_title{
+    font-size: 18px;
+    padding-bottom: 5px;
+    color: #999;
+}
+div.tide_news_comments a img{
+    text-decoration: none;
+    border: 0 none;
+    width: 60px; 
+    height: 18px;
+} 
+
+/*Navigation Older/ Newer*/
+
+.tide_navigation_default{
+    padding: 20px 10px; 
+}
+
+.tide_right {
+    float : right;
+}
+.tide_left {
+    float : left;
+}
+div.tide_left a , div.tide_right a {
+    font-size : 16px;
+    font-weight : bold;
+    text-decoration: none;
+}
+.tide_arrow {
+    font-size : 18px;
+    font-weight : bold;
+}
+
+/*Navigation Drop Down*/
+
+.tide_navigation_drop{
+   border-top: 1px solid #ccc; 
+   border-bottom: 1px solid #ccc; 
+   padding: 5px;
+   text-align: center;
+}
+
+
+/*Navigation Paginate*/
+
+.tide_navigation_paginate {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    font-weight:bold;
+    text-align:center;
+    padding:10px 0;
+}
+.tide_navigation_paginate a, .tide_navigation_paginate span {
+    min-width: 20px;
+    display: inline-block;
+    padding:2px 6px 2px 6px;
+    color: #999;
+    margin: 0 2px;
+}
+.tide_prew_page{
+    width: 80px;
+}
+.products_paginate a:hover {
+    color:#ccc;
+
+}
+.tide_current {
+    color:#ccc;
+    cursor:default;
+    text-decoration: underline;
+}
+.tide_inactive {
+    color: #ccc;
+    text-decoration: underline;
+}
+
+/*News Summary*/
+
+.tide_news_summary{
+    margin: 15px 0;
+}
+.tide_news_title{
+    font-size: 22px;
+    padding: 8px;
+    overflow:hidden;    
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.tide_news_title a:link{
+    text-decoration: none;
+}
+
+.tide_news_title a:hover{
+    text-decoration: none;
+    color: #999;
+}
+.tide_news_title a:visited{
+    text-decoration: none;
+    color: #ccc;
+}
+
+.tide_news_date{
+    text-align: right;	
+    font-size: 12px;
+    margin-right: 15px;
+    padding-top: 3px;
+}
+
+.tide_news_content{
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 22px;
+    background-color: #fff;
+    word-wrap:break-word;
+}
+
+.tide_read_more{
+    text-align: right;
+    padding: 20px 20px 0 0;
+    font-size: 16px;
+}
+div.tide_read_more a{
+    text-decoration: none;
+}
+
+/*News Extended*/
+
+.tide_news_extended{
+    margin: 15px 0;
+}
+
+.tide_news_permanent_link{
+    padding: 10px 0;
+}
+
+.tide_news_permanent_link_pre{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.tide_news_permanent_link_content{
+    font-size: 9px;
+}
+
+.tide_news_content_modified{
+    text-align: right;
+}
+
+.tide_news_content_modified_pre{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.tide_news_content_modified_date{
+    font-size: 10px;
+    color: #999;
+}
+
+.tide_news_private_news{}
+
+.tide_news_private_info{}
+
+#tide_no_news{
+    font-size: 28px;
+    color: #999;
+    padding: 50px 10px 10px 10px;
+}
+
+#tide_no_news_info{
+    font-size: 18px;
+    color: #cc0000;
+     padding: 10px;
+}
+/*News Tags*/
+
+.tide_news_tags_holder{}
+
+.tide_news_tags_pre{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.tide_news_single_tag{}
+
+em.tide_news_single_tag a{
+   text-decoration: none; 
+   color: #999;   
+}
+
+/*Latest News Menu*/
+
+
+.tide_news_menu{
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.tide_news_menu_content{
+
+}
+.tide_news_menu_item{
+    padding: 5px 10px;
+      border-top: 1px solid #ccc;
+}
+.tide_news_menu_item_title{
+  
+}
+.tide_news_menu_category{
+    float: right;
+     font-size: 10px;
+     color: #999;
+}
+
+div.tide_news_menu_item_title a{
+    font-weight: bold;
+    margin: 5px 0;
+   
+}
+.tide_news_menu_summary{
+    padding: 5px;
+    font-size: 12px;
+}
+
+.tide_news_menu_posted{
+    text-align: right;
+     padding: 5px;
+     font-size: 10px;
+}
+
+.tide_news_menu_all{
+    float: right;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+div.tide_news_menu_all a{
+    text-decoration: none;   
+}
+
+/*Breadcrumbs*/
+
+.tide_breadcrumbs_holder{}
+
+.tide_breadcrumbs{
+    float: left;
+    margin: 0;
+}
+
+div.tide_breadcrumbs a{
+    text-decoration: none;
+}
+
+/*Tags Menu*/
+
+.tide_tags_menu_holder{}
+
+
+.tagcloud {
+    width: 90%;
+    height: auto;
+    min-height:100px;
+    background: #FFFFFF;
+    color:#0066FF;
+    padding: 10px;
+     border: 1px solid #999;
+    text-align:center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.tagcloud a:link, .tagcloud a:visited {
+    text-decoration:none;
+    cursor: pointer;
+    padding: 3px;
+    margin: 3px;
+}
+
+.tagcloud a:hover {
+    text-decoration: none;
+    background: #fff;
+     border: 2px solid #999;
+    text-align:center;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.tagcloud span {
+    margin: 2px 5px;
+    padding: 2px;
+    line-height: 20px;
+    display: inline-block;
+}
+
+/*RSS Feed Menu*/
+
+.tide_news_rss_menu{
+    border: 1px solid #ccc; 
+    padding: 5px;
+}
+
+.tide_news_rss_menu_title{
+    font-size: 16px;
+    font-weight: bold;
+    color: #cc0000;
+    padding: 3px;
+}
+
+.tide_news_rss_menu_img{
+    float: left;
+    padding: 3px;
+}
+
+.tide_news_rss_menu_desc{
+    float: left;
+    padding: 5px 15px 5px 5px;
+}
+
+/*Private category template*/
+
+#tide_category_private{
+    font-size: 28px;
+    color: #999;
+    padding: 50px 10px 10px 10px;
+}
+
+#tide_category_private_info{
+    font-size: 18px;
+    color: #cc0000;
+     padding: 10px;
+}
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; visibility: hidden; }
+.clearfix:after { clear: both; }
+.clearfix {zoom:1;}
+

@@ -1,0 +1,82 @@
+.search-widgets .col-md-4 {
+    background: none;
+    border: none;
+    border-radius: 0;
+    margin-top: 0;
+    color: inherit;
+}
+
+/********* JPList Filter Bundle **********/
+.lato{font-family:'Lato',sans-serif}
+.jplist-panel .jplist-group{float:left;height:30px;box-shadow:0 0 1px #fff;background:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;border:1px solid #dbdbdb;border-radius:3px;text-shadow:1px 1px 1px #fff;color:#27252a;margin:10px 10px 0 0;padding:0 0 0 5px;height:auto}
+.jplist-panel .jplist-group input,.jplist-panel .jplist-group label{height:28px;line-height:30px}
+.jplist-panel .jplist-group ul{list-style:none;padding:0;margin:0 0 0 10px;line-height:28px}
+.jplist-panel .jplist-group ul li{float:left;margin-right:15px;overflow:hidden;height:28px;line-height:30px}
+.radio-filters{float:left;margin:5px 15px 0 0}
+.radio-filters input{vertical-align:baseline}
+.radio-filters label{margin-right:10px}
+.radio{float:left}[data-control-type="range-filter"]{cursor:pointer}
+.sa-search .jplist-drop-down {float:none}
+
+/********* JPList Filter Box **********/
+.text-filter-box{height:30px;float:left;margin:10px 10px 0 0}
+.jplist-panel .text-filter-box .jplist-icon{background:#e8eff9}
+.jplist-panel .text-filter-box .jplist-label{margin:0;border-right:0;background:#f1f1f1}
+.jplist-panel .text-filter-box button{margin:0;border-left:0;padding:0 10px}
+.text-filter-box .jplist-icon {background: #e8eff9;}
+.text-filter-box input[type="text"] {
+    float: left;
+    height: 30px;
+    box-shadow: 0 0 1px #fff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+    text-shadow: 1px 1px 1px #fff;
+    color: #27252a;
+    width: 190px;
+    text-indent: 5px;
+    background: #fff;
+}
+
+/********* JPList Pagination Bundle **********/
+.jplist-panel .jplist-pagination{cursor:pointer;float:left;line-height:30px}
+.jplist-panel .jplist-pagination button{display:inline-block;color:#0381bb;height:30px;line-height:30px;padding:0 10px}
+.jplist-panel .jplist-pagination .jplist-current{font-weight:bold;color:#f03800}
+.jplist-panel .jplist-pagination .jplist-pagingprev,.jplist-panel .jplist-pagination .jplist-pagingmid,.jplist-panel .jplist-pagination .jplist-pagingnext{float:left}
+.jplist-panel .jplist-pagination .jplist-pagingprev button,.jplist-panel .jplist-pagination .jplist-pagingnext button{font-size:20px;font-family:"Courier New",Courier,monospace}
+.jplist-one-page{display:none}
+.jplist-empty{display:none}
+
+/********* JPList UI Bundle **********/
+.jplist-date-picker-range{float:left;margin-top:10px}
+.jplist-date-picker-range .gap{float:left;display:block;margin-right:5px}
+.date-picker{float:left;border:1px solid #dbdbdb;margin-right:5px;width:100px}
+.jplist-range-slider{margin-bottom: 40px;margin-top:15px}
+.jplist-range-slider .value{float:left;font-size:18px}
+.jplist-range-slider .value.prev{margin: 0 15px 0 0}
+.jplist-range-slider .value.next{margin: 0 0 0 15px}
+.jplist-range-slider .ui-slider{float:left;width:130px}
+.ui-slider{margin-top:5px}
+
+.sort-widget {
+    float: right !important;
+}
+.search-widgets {
+    clear: both;
+}
+.jplist-no-results {
+    float: left;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    margin-left: 30px;
+    font-size: 18px;
+}
+.special-page .jplist-no-results {
+	display: none;
+}
+.jplist-reset-btn .fa {
+    padding-left: 6px;
+}

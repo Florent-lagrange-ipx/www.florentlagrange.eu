@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <salt>your_unique_phrase</salt>
+    <custom_salt>your_new_salt_value_here</custom_salt>
+    <thumbnail_width>200</thumbnail_width>
+    <admin_folder>admin</admin_folder>
+    <debug_mode>FALSE</debug_mode>
+    <sitemap_ping>1</sitemap_ping>
+    <csrf>TRUE</csrf>
+    <chmod>0755</chmod>
+    <canonical>1</canonical>
+    <uploadify>1</uploadify>
+    <editor_height>500</editor_height>
+    <editor_toolbars>advanced</editor_toolbars>
+    <editor_language>en</editor_language>
+    <editor_options></editor_options>
+    <email>noreply@get-simple.info</email>
+    <autosave>900</autosave>
+    <external_api>1</external_api>
+    <php_locale>en_US</php_locale>
+    <cdn_disable>true</cdn_disable>
+</item>

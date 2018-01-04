@@ -1,0 +1,1 @@
+<p class="error-msg-wrapper">[[msg]]</p>

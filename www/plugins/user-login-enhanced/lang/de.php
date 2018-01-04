@@ -1,0 +1,33 @@
+<?php
+$i18n = array(
+	'USERNAME' => "Benutzername:",
+	'PASSWORD' => "Passwort:",
+	'LOGIN' => "Anmelden",
+	'FULLNAME' => "Name:",
+	'EMAIL' => "E-Mail Adresse:",
+	'REGISTER' => "Registrieren",
+	'REGINFO' => "Bitte füllen Sie das Formular komplett aus.",
+	'REGOK' => "Ihr Zugang wurde eingerichtet: ",
+	'NOEMAILSEND' => "Willkommensmail konnte nicht versendet werden.",
+	'USERNOTFOUND' => "Benutzeraccount konnte nicht gefunden werden oder Passwort falsch. Überprüfen Sie Ihre Eingaben.",
+	'WELCOME' => "Willkommen: ",
+	'LOGOUT' => "Ausloggen",
+	'USEREXISTS' => "Benutzername oder E-Mail wird bereits verwendet.",
+	'FORGOTPASS' => "Passwort vergessen?",
+	'FORGOTUSER' => "Benutzername vergessen?",
+	'SEND' => "Senden",
+	'FORGOTPASSTXT' => "Bitte geben Sie Ihre E-Mail-Adresse ein. Ein Überprüfungscode wird Ihnen dann geschickt. Sobald Sie den Code erhalten haben können Sie ein neues Passwort für Ihr Benutzerkonto wählen.",
+	'FORGOTUSERTXT' => "Bitte geben Sie Ihre E-Mail-Adresse ein, die Sie in Ihrem Benuterkonto angegeben haben. Ihr Benutzername wird Ihnen an diese Adresse geschickt.",
+	'EMAILUNKNOWN' => "Eingegebene E-Mail Adresse unbekannt. Bitte überprüfen Sie Ihre Eingabe!",
+	'EMAILPASSSEND' => "E-Mail wurde versendet. Bitte folgen Sie dem Link in der E-Mail um ein neues Passwort einzugeben.",
+	'EMAILUSERSEND' => "E-Mail wurde versendet.",
+	'EMAILFAILURE' => "E-Mail konnte nicht versendet werden. Bitte wenden Sie sich an den Seitenadministrator: dev@tvbrowser.org",
+	'NOACCESS' => "Zugriff unzulässig.",
+	'TIMELIMIT' => "Zeitraum für Änderung überschritten.",
+	'NEWPASSINFO' => "Zum Ändern Ihres Passworts geben Sie ihren Benutzernamen und das neue Passwort ein.",
+	'NEWPASS' => "Neues Passwort:",
+	'NOVERIFICATION' => "Passwort nicht geändert. Sie haben sich nicht korrekt verifiziert.",
+	'PASSCHANGED' => "Passwort erfolgreich geändert.",
+	'ONLYVALIDMAIL' => "Bitte geben Sie eine gültige E-Mail Adresse ein."
+);
+?>

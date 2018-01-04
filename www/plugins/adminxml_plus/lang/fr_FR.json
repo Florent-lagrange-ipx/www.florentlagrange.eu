@@ -1,0 +1,25 @@
+{ "meta": {
+		"Date":  "01 Juin 2015",
+    "Revision": "0",
+    "Version":  "0.1",
+    "traductors":  "Kevin Van Lierde",
+    "package": "GetSimple",
+    "subpackage": "Language"
+	},
+	"strings": {
+		"PLUGIN_TITLE":"Personnalisateur de thème Admin",
+		"PLUGIN_DESCR": "Permet de rapidement changer, prévisualiser, et exporter le fichier de thème admin.xml. Requièrt <a href=\"http://get-simple.info/extend/plugin/gs-custom-settings/913/\">GS Custom Settings 0.4+</a>.",
+		"section_primary_label":"Couleurs primaires",
+		"primary_0_label":"Arrière-plan onglet actif, liens pointés du curseur",
+		"primary_1_label":"Arrière-plan onglets inactifs, texte onglet actif pointé du curseur",
+		"primary_2_label":"Couleur inférieure du dégradé header",
+		"primary_3_label":"Séparateurs, liens inactifs",
+		"primary_4_label":"Couleur supérieure du dégradé header",
+		"primary_5_label":"Lien du site",
+		"primary_6_label":"Couleur texte onglets inactifs, séparateurs",
+		"section_secondary_label":"Couleurs secondaires",
+		"secondary_0_label":"Navigation latérale: ombre de texte onglet actif ",
+		"secondary_1_label":"Navigation latérale: couleur arrière-plan onglet actif, sous-titres de page",
+		"plugin_lang_label":"Choisir un thème existant;par;Activer;Exporter le thème actuel;Nom du thème;Auteur;Lien auteur;Exporter admin.xml;Ceci n'est qu'une prévisualisation, n'oubliez as de sauvegarder pour confirmer les changements."
+	}
+}

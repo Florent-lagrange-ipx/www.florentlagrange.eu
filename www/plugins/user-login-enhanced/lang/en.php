@@ -1,0 +1,33 @@
+<?php
+$i18n = array(
+	'USERNAME' => "Username:",
+	'PASSWORD' => "Password:",
+	'LOGIN' => "Login",
+	'FULLNAME' => "Full Name:",
+	'EMAIL' => "Email Address:",
+	'REGISTER' => "Register",
+	'REGINFO' => "Please fill in the required fields.",
+	'REGOK' => "Your account was successfully created: ",
+	'NOEMAILSEND' => "Unable to send welcome email.",
+	'USERNOTFOUND' => "Sorry, your account could not be found or wrong password. Please try again.",
+	'WELCOME' => "Welcome: ",
+	'LOGOUT' => "Logout",
+	'USEREXISTS' => "User already exists or email already used.",
+	'FORGOTPASS' => "Forgot password?",
+	'FORGOTUSER' => "Forgot Username?",
+	'SEND' => "Send",
+	'FORGOTPASSTXT' => "Please enter the e-mail address for your account. A verification token will be sent to you. Once you have received the token, you will be able to choose a new password for your account.",
+	'FORGOTUSERTXT' => "Please enter the e-mail address associated with your User account. Your username will be e-mailed to the e-mail address on file.",
+	'EMAILUNKNOWN' => "Entered email address unknown. Please check your input!",
+	'EMAILPASSSEND' => "Email was send. Please follow the link in the email to set a new password.",
+	'EMAILUSERSEND' => "Email was send.",
+	'EMAILFAILURE' => "Email could not be send. Please contact the site administrator: dev@tvbrowser.org",
+	'NOACCESS' => "No access for this site.",
+	'TIMELIMIT' => "Time limit exceeded.",
+	'NEWPASSINFO' => "To change your password enter your username and your new password.",
+	'NEWPASS' => "New Password:",
+	'NOVERIFICATION' => "Password not changed. You didn't verificate yourself correctly.",
+	'PASSCHANGED' => "Password was successfully changed.",
+	'ONLYVALIDMAIL' => "Please enter a valid email address."
+);
+?>

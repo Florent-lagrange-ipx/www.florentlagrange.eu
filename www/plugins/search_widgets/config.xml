@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config><parent>search-results</parent><itemClass>search-entry</itemClass><txtget>Intel,Radeon,Core,Pentium,Celeron</txtget><txtwant>Intel®,Radeon™,Core™,Pentium®,Celeron®</txtwant><swJquery>1</swJquery><swJqueryHead>0</swJqueryHead><lazyLoad>1</lazyLoad></config>

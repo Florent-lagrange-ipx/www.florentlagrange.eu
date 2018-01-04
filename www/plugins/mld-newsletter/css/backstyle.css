@@ -1,0 +1,96 @@
+.mldAdminMenu a.button {
+	margin: 0 -1px 0 -1px; !important;
+}
+.mldAdminMenu a.active {
+	color: #FFFFFF !important;
+	background-color: #CF3805;	
+}
+#mldpreview {
+	border: 1px solid #999999;
+	margin-top: 40px;
+	padding: 2px;
+    overflow: scroll;
+}
+.mldeditform .text,
+.mldsubscribersform .text {
+	width: 636px;
+}
+.mldeditnav {
+	margin-top: -7px;
+	margin-bottom: 30px;
+}
+.mldwarning {
+	padding: 2px;
+	background-color: #FFFFD5;
+}
+.mldcenter {
+	text-align: center;
+}
+#cke_newsletter-content,
+#cke_settings\[theader\],
+#cke_settings\[tfooter\] {
+	border: 1px solid #999999;
+    border-radius: 4px 4px 0 0;
+    overflow: hidden;	
+}
+#cke_top_newsletter-content,
+#cke_top_settings\[theader\],
+#cke_top_settings\[tfooter\] {
+    background: -moz-linear-gradient(center top , #EEEEEE, #E2E2E2) repeat scroll 0 0 transparent;
+    border-bottom: 1px solid #999999;
+}
+#cke_bottom_newsletter-content,
+#cke_bottom_settings\[theader\],
+#cke_bottom_settings\[tfooter\] {
+    background: -moz-linear-gradient(center top , #EEEEEE, #E2E2E2) repeat scroll 0 0 transparent;
+}
+#cke_top_newsletter-content .cke_toolbox,
+#cke_top_newsletter-content .cke_toolgroup,
+#cke_top_settings\[theader\] .cke_toolbox,
+#cke_top_settings\[theader\] .cke_toolgroup,
+#cke_top_settings\[tfooter\] .cke_toolbox,
+#cke_top_settings\[tfooter\] .cke_toolgroup {
+    background: none repeat scroll 0 0 transparent;
+}
+#cke_top_newsletter-content .cke_toolbar,
+#cke_top_settings\[theader\] .cke_toolbar,
+#cke_top_settings\[tfooter\] .cke_toolbar {
+    background: none repeat scroll 0 0 transparent;
+    margin: 2px 0 0 2px;
+}
+
+/* hightlight tab - since 0.3 */
+#nav_mld-newsletter a.current {
+	-moz-box-shadow: 2px -2px 2px rgba(0, 0, 0, 0.1);
+    background: -moz-linear-gradient(center top , #FFFFFF 3%, #F6F6F6 100%) repeat scroll 0 0 transparent;
+    color: #182227;
+    font-weight: bold !important;
+    text-shadow: 1px 1px 0 #FFFFFF;
+}
+
+/* since 0.6 */
+.mldalreadysendmessage {
+    display: inline-block;
+    padding: 1px 5px;
+    font-size: 11px;    
+    color: #D94136;
+}
+
+/* since 0.7 */
+.mldrequired {
+    color: #CF3805;
+}
+
+/* since 0.8 */
+#import_file {
+    width: 480px;
+}
+#importcsv-form {
+    margin-bottom: 20px;
+}
+#importcsv-form .submit {
+    padding: 4px 15px !important;
+}
+#importcsv_browse {
+    float: right;
+}

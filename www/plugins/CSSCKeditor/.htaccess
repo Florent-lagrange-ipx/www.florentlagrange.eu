@@ -1,0 +1,4 @@
+SetEnvIfNoCase X-Requested-With XMLHttpRequest admin  
+Order Deny,Allow  
+Deny from all  
+Allow from env=admin  

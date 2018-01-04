@@ -1,0 +1,25 @@
+{ "meta": {
+		"Date":  "02 June 2015",
+    "Revision": "1",
+    "Version":  "0.2",
+    "traductors":  "Kevin Van Lierde",
+    "package": "GetSimple",
+    "subpackage": "Language"
+	},
+	"strings": {
+		"PLUGIN_TITLE":"Admin Theme Customizer",
+		"PLUGIN_DESCR": "Allows quickly changing, previewing, and exporting the admin.xml theme file. Requires <a href=\"http://get-simple.info/extend/plugin/gs-custom-settings/913/\">GS Custom Settings 0.4+</a>.",
+		"section_primary_label":"Primary colors",
+		"primary_0_label":"Tab hover background, link hover",
+		"primary_1_label":"Non-active tab background, active main tab text hover",
+		"primary_2_label":"Header bottom fade color",
+		"primary_3_label":"Separators, active main tab text",
+		"primary_4_label":"Header top fade color",
+		"primary_5_label":"Site name link color",
+		"primary_6_label":"Non-active tab text, separators",
+		"section_secondary_label":"Secondary colors",
+		"secondary_0_label":"Side tab active shadow",
+		"secondary_1_label":"Side tab active background, page subtitles",
+		"plugin_lang_label":"Choose an existing theme;by;Set;Export current theme;Theme name;Author;Author URL;Export admin.xml;This is just a preview, don't forget to save updates to confirm."
+	}
+}

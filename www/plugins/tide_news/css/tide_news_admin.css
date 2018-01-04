@@ -1,0 +1,359 @@
+
+.tide_install_logo {
+    margin-top : 20px;
+}
+#tide_install_holder {
+    padding : 20px;
+}
+.tide_install_button {
+    height : 80px;
+}
+.tide_logo_admin {
+    text-align : right;
+    margin-top : -5px;
+}
+.tide_title_admin {
+    margin-top : -10px;
+    border-bottom : 1px solid #cf3805;
+}
+.tide_admin_h2 {
+    font-style : italic;
+}
+.tide_admin_info_normal {
+    margin : 0 0 5px 0;
+    font-size : 12px;
+    color : #898980;
+}
+.tide_admin_info_small {
+    color : #cf3805;
+    font-style : italic;
+    font-size : 10px;
+    padding : 2px;
+    float : right;
+}
+.tide_admin_label {
+    background-color : #eee;
+    height : 60px;
+    padding : 5px;
+}
+.ch_box {
+    height : 37px;
+}
+.ta {
+    height : 140px;
+}
+.in_drop {
+    height : 35px;
+    padding : 10px;
+}
+.meta_dsc {
+    height : 115px;
+}
+.feed_ico {
+    height : 100px;
+}
+.feed_img {
+    position : relative;
+    top : -50px;
+}
+.show_feed_image {
+    text-align : center;
+    height : auto;
+    padding : 40px 0;
+    position : relative;
+    top : -50px;
+}
+#feed_ico_prew {
+    text-align : center;
+    margin : 10px 45%;
+}
+.rightopt .snav {
+    height : 30px;
+    position : relative;
+    top : -125px;
+    list-style : none;
+}
+.tide_admin_label input[type="checkbox"] {
+    position : relative;
+    top : -40px;
+    left : 120px;
+}
+a#tide_admin_install_finish_btn {
+    border : #999999 solid 1px;
+    padding : 5px 15px;
+    text-decoration : none;
+    text-align : center;
+    border-radius : 20px;
+    margin : 20px;
+}
+label {
+    font-style : italic;
+    padding : 3px;
+}
+input[type="text"], input[type="password"], select, textarea {
+    border-radius : 5px;
+    box-shadow : 0 0 10px #eee inset;
+    border : #ccc solid 1px;
+    padding : 3px;
+}
+input[type="text"]:hover, input[type="text"]:focus, input[type="password"]:hover, input[type="password"]:focus, textarea:hover, textarea:focus {
+    box-shadow : 0 0 10px #ddd inset;
+    border : #999 solid 1px;
+}
+select option {
+    background : transparent;
+    border : none;
+}
+.docking {
+    height : 25px;
+    margin : 5px;
+    padding : 3px;
+    vertical-align : middle;
+    border : #fff solid 1px;
+    white-space : nowrap;
+}
+.docking > div {
+    display : inline-block;
+}
+.tide_cke_simulation {
+    background : none 0% 0% repeat scroll #dddddd;
+    border : #acacac solid 1px;
+    border-radius : 4px 4px 0 0;
+    box-shadow : 0 0 3px rgba(0, 0, 0, 0.06);
+    color : #333333;
+    font : bold 13px Helvetica, Arial, sans-serif;
+    padding : 7px 15px;
+    text-decoration : none;
+}
+#cke_code_area {
+    padding : 10px 5px;
+    margin : 10px 2px;
+}
+textarea#cke_data {
+    font-size : 16px;
+    resizer : none;
+}
+#drop .cke_buttons img, #toolbar_buttons .cke_buttons img {
+    border : #c0c0c0 solid 1px;
+    border-radius : 2px 2px 2px 2px;
+    cursor : pointer;
+    display : inline-block;
+    height : 18px;
+    margin-right : 3px;
+    outline : medium none;
+    padding : 4px;
+    border : white solid 1px;
+    opacity : 1;
+    border : #999999 solid 1px;
+    opacity : 1;
+    text-align : left;
+    cursor : move;
+}
+#toolbar_buttons > div {
+    float : left;
+}
+#docking_area > div {
+    float : left;
+}
+#cke_data {
+    width : auto;
+}
+.tide_new_line {
+    text-align : right;
+    height : 25px;
+    padding : 10px 50px 0 0;
+    margin : 5px 0;
+    border : #acacac solid 1px;
+    background-color : #eee;
+    border-radius : 8px;
+}
+span#dev_area_btn, span#cfg_area_btn, span#summary_btn {
+    border : #c0c0c0 solid 1px;
+    border-radius : 2px 2px 2px 2px;
+    padding : 3px;
+    margin : 3px;
+}
+#maincontent .main pre {
+    font-size : 1.0em;
+    white-space : pre-wrap;
+    word-break : normal;
+    line-height : 1.3em;
+    padding-bottom : 0;
+}
+.CodeMirror {
+    background-color: #fff;
+    width: 150%;
+    height : auto;
+    position: relative;
+    left: -100px;
+}
+.CodeMirror-scroll {
+    height : auto;
+    width: 150%;
+    overflow-y : hidden;
+    overflow-x : auto;
+}
+#tide_editor {
+    text-align : right;
+}
+#tide_editor .submit {
+    width : 100px;
+    height : 30px;
+}
+.tide_editable {
+    height : auto;
+    min-height : 20px;
+    width : auto;
+}
+#editor_textarea {
+    height : 20px;
+    resizer : none;
+}
+i
+.tide_left a, .tide_right a {
+    text-decoration : none;
+    font-size : 14px;
+    font-weight : bold;
+}
+.tide_arrow {
+    font-size : 18px;
+    font-weight : bold;
+}
+.tagcloud {
+    width : 90%;
+    height : auto;
+    min-height : 100px;
+    background : #ffffff;
+    color : #0066ff;
+    padding : 10px;
+    border : #999 solid 1px;
+    text-align : center;
+    border-radius : 4px;
+}
+.tagcloud a:link, .tagcloud a:visited {
+    text-decoration : none;
+    cursor : pointer;
+    padding : 3px;
+    margin : 3px;
+}
+.tagcloud a:hover {
+    text-decoration : none;
+    background : #fff;
+    border : #999 solid 2px;
+    text-align : center;
+    border-radius : 6px;
+}
+.tagcloud span {
+    margin : 2px 5px;
+    padding : 2px;
+    line-height : 20px;
+    display : inline-block;
+}
+
+.tide_rss_choose {
+    width : 45%;
+    border : #ccc solid 1px;
+    padding : 5px;
+    margin : 3px;
+    float : left;
+    text-align : center;
+}
+.clearfix:before, .clearfix:after {
+    content : "\0020";
+    display : block;
+    height : 0;
+    visibility : hidden;
+}
+.clearfix:after {
+    clear : both;
+}
+.tide_category_info {
+    background-color : #eee;
+    padding : 10px;
+}
+.tide_category_info_category_t {
+    width : auto;
+    float : left;
+    text-align : center;
+    font-weight : bold;
+    color : #cf3805;
+}
+.tide_category_info_number_t {
+    width : auto;
+    float : right;
+    text-align : center;
+    font-weight : bold;
+    color : #cf3805;
+}
+.tide_category_info_category {
+    float : left;
+    text-align : center;
+    font-weight : bold;
+    padding : 5px;
+}
+.tide_category_info_number {
+    float : right;
+    text-align : center;
+    font-weight : bold;
+    padding : 5px 40px 5px 5px;
+}
+.borders {
+    border-bottom : 1px solid #ccc;
+}
+
+.tide_share_holder{
+    max-width: 100%;
+    height:auto !important;  
+}
+#addthis_1 {
+  background: url('images/addthis_1.gif') no-repeat; 
+  display: inline-block;
+  width: 282px;
+  height: 27px;
+}
+#addthis_2 {
+  background: url('images/addthis_2.gif') no-repeat; 
+  display: inline-block;
+  width: 254px;
+  height: 40px;
+}
+#addthis_3 {
+  background: url('images/addthis_3.gif') no-repeat; 
+  display: inline-block;
+  width: 144px;
+  height: 20px;
+  
+}
+#addthis_4 {
+  background: url('images/addthis_4.gif') no-repeat; 
+  display: inline-block;
+  width: 131px;
+  height: 23px;
+}
+#addthis_5 {
+  background: url('images/addthis_5.gif')no-repeat;
+  display: inline-block;
+   margin: 0 20px 0 30px;
+  width: 64px;
+  height: 273px;
+
+}
+#addthis_6 {
+  background: url('images/addthis_6.gif') no-repeat; 
+  display: inline-block;
+  margin: 0 20px;
+  width: 40px;
+  height: 183px;
+}
+#addthis_7 {
+  background: url('images/addthis_7.gif') no-repeat; 
+  display: inline-block;
+   margin: 0 20px;
+  width: 21px;
+  height: 101px;
+}
+select#tide_files, select#tide_files option{
+    height: 36px;
+    font-size: 22px;
+    font-weight: bold;
+}
