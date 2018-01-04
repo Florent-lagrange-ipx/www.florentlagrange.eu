@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Vertical Menu</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div id="menu" data-pg-collapsed data-pgc-define="menua" data-pgc-define-description="menua" data-pgc-define-name="menua">
+            <div class="test"></div>
+            <div class="menus vertical-menu">
+                <nav class="menu-1">
+                    <div>
+                        <ul>
+                            <li class="active" data-menu="dashboard">
+                                <a href="#"><span class="item-icon"><i class="fa fa-home"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Dashboard</span></a>
+                            </li>
+                            <li class="" data-menu="email">
+                                <a href="#"><span class="item-icon"><i class="fa fa-envelope-o"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Messages</span></a>
+                            </li>
+                            <li class="" data-menu="something">
+                                <a href="#"><span class="item-icon"><i class="fa fa-font"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Something</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+                <nav class="menu-2">
+                    <div data-menu="dashboard">
+                        <ul>
+                            <li>
+                                <a href="https://www.w3schools.com/html/default.asp" target="content"><span class="item-icon"><i class="fa fa-home"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Dashboard</span></a>
+                            </li>
+                            <li class="">
+                                <a href="https://www.w3schools.com/css/default.asp" target="content"><span class="item-icon"><i class="fa fa-comment"></i><i class="fa fa-exclamation fa-stack-1x item-notification active"></i></span><span class="item-text">Notifications</span></a>
+                            </li>
+                            <li class="active">
+                                <a href="#"><span class="item-icon"><i class="fa fa-user"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Profile</span></a>
+                            </li>
+                            <li class="">
+                                <a href="#"><span class="item-icon"><i class="fa fa-sign-out"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Logout</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="hidden" data-menu="email">
+                        <ul>
+                            <li>
+                                <a href="#"><span class="item-icon"><i class="fa fa-envelope"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Email</span></a>
+                            </li>
+                            <li class="">
+                                <a href="#"><span class="item-icon"><i class="fa fa-comment"></i><i class="fa fa-exclamation fa-stack-1x item-notification active"></i></span><span class="item-text">Chats</span></a>
+                            </li>
+                            <li class="">
+                                <a href="#"><span class="item-icon"><i class="fa fa-calendar"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Calendar</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="hidden" data-menu="something">
+                        <ul>
+                            <li>
+                                <a href="#"><span class="item-icon"><i class="fa fa-film"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Film</span></a>
+                            </li>
+                            <li class="">
+                                <a href="#"><span class="item-icon"><i class="fa fa-folder-open"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Random thing</span></a>
+                            </li>
+                            <li class="">
+                                <a href="#"><span class="item-icon"><i class="fa fa-quote-right"></i><i class="fa fa-exclamation fa-stack-1x item-notification"></i></span><span class="item-text">Stories</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="handle">
+                <div class="handle-table">
+                    <div class="handle-table-cell">
+                        <span class="handle-group"><span class="handle-function handle-collapse active"><i class="fa fa-angle-left" title="Collapse"></i></span><span class="handle-function handle-expand"><i class="fa fa-angle-right" title="Expand"></i></span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="content">
+            <!--<iframe name="content" src="https://www.w3schools.com">-->
+        </div>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+        <script src="js/index.js"></script>
+    </body>
+</html>

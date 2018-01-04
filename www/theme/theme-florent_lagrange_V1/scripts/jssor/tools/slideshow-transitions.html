@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tool - Sldieshow Transition Viewer - Jssor Slider Development KIT</title>
+   <style>
+        .backGreen
+        {
+        	background-color: #27a9e3;
+        	background-color: rgba(39, 169, 227, 0.3);
+        }
+		.backBlue
+        {
+        	background-color: #27a9e3;
+        	background-color: rgba(0, 0, 160, 0.2);
+        }
+		.description
+        {
+            position: relative;
+            margin: 0 auto;
+            padding: 10px;
+            top: 0px;
+            left: 0px;
+        }
+        .descriptiont
+        {
+            position: relative;
+            color: #fff;
+            font-size: 13px;
+            line-height: 16px;
+        }
+    </style>
+    <script type="text/javascript" src="slideshow-transition-builder-controller.min.js"></script>
+</head>
+<body style="background-color: #191919; color:#fff;  margin: 0px; padding:0px;">
+    <div style="text-align: center; font-size: 24px; margin: 10px;">
+            Tool - Sldieshow Transition Viewer
+    </div>
+    
+    <!-- Slideshow Transition Controller Form Begine -->
+    <div style="font-size: 12px; color: #000; background-color: #EEEEEE;">
+        <span>
+			<b>Select Transition</b>
+		</span>
+		<span style="margin: 0px 10px;">
+			<select name="ssTransition" id="ssTransition" style="width: 300px">
+				<option value="">
+			</select>
+		</span>
+		<span>
+			<input type="button" value="Play" id="sButtonPlay" style="width: 110px" name="sButtonPlay" disabled="disabled">
+		</span>
+		<span>
+            <button onclick="parent.jQuery.fancybox.close();" id="trans-choose">Choose</button>
+		</span>
+    </div>
+	<div style="font-size: 12px; color: #000; background-color: silver;">
+        <span style="width: 10%;">
+            <b>Transition Code</b>
+        </span>
+        <span>
+            <input id="stTransition" style="width: 88%; height: 25px; padding-left: 4px;" type="text" name="stTransition">
+        </span>
+    </div>
+    <!-- Slideshow Transition Controller Form End -->
+    <div style="text-align: center; color: #000; background-color: #EEEEEE; padding-top: 20px;">
+    <!-- Jssor Slider Begin -->
+    <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
+                <div style="position: relative; height: 354px; width: 100%;  margin-bottom: 30px;" id="slider1_container">
+
+                    <!-- Loading Screen -->
+                    <div u="loading" style="position: absolute; top: 0px; left: 0px;">
+                        <div style="filter: alpha(opacity=70); opacity:.7; position: absolute; display: block;
+                            background-color: #000000; top: 0px; left: 0px;width: 100%;height:100%;">
+                        </div>
+                        <div style="position: absolute; display: block; background: url(img/loading.gif) no-repeat center center;
+                            top: 0px; left: 0px;width: 100%;height:100%;">
+                        </div>
+                    </div>
+
+                    <div u="slides" style="cursor: move; position: absolute; width: 900px; height: 370px;top:0px;left:0px;overflow:hidden;">
+                        <!-- Slide -->
+                        <div>
+                            <img u="image" src="img/landscape/01.jpg">
+                        </div>
+                        <!-- Slide -->
+                        <div>
+                            <img u="image" src="img/landscape/02.jpg">
+                        </div>
+                        <!-- Slide -->
+                        <div>
+                            <img u="image" src="img/landscape/04.jpg">
+                        </div>
+                        <!-- Slide -->
+                        <div>
+                            <img u="image" src="img/landscape/05.jpg">
+                        </div>
+                    </div>
+                </div>
+                <!-- Jssor Slider End -->
+    <script>
+        slideshow_transition_controller_starter("slider1_container");
+    </script>
+    
+    <div class="backGreen" style="position: relative; margin: 0 auto; padding: 5px;">
+		<div class="description backBlue">
+			<div class="descriptiont">
+				The form above is to preview slideshow transition. You can select any slideshow transition from 360+ predefined slideshow transitions to play.<br>
+                A slideshow transition can be any or combination of 'Fly (Hor)', 'Fly (Ver)', 'Clip', 'Zoom' and 'Rotate'.<br>
+				Select transition to preview effect, once you get a transition that you prefer, you can copy the transition code from the transition code text box.<br />
+				You can change value of '$Duration' to adjust speed of transition. e.g. '$Duration:1200' -> '$Duration: 2000'.<br />
+				Also you can change '$Col' or '$Row' value to adjust columns or rows count.
+			</div>
+		</div>
+	</div>
+	<script>
+//function closeFB() {
+    // Before closing you can do other stuff, like page reloading
+    //$("#destination_div").load("?v=staff #source_div_with_content"); 
+    // After all you can close FB
+    //$.fancybox.close(); 
+//}
+/*$(function(){
+    $(document).on('click','.closeFancybox',function(){
+            $.fancybox.close();
+    })
+})*/
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tool - Caption Transition Viewer - Jssor Slider Development KIT</title>
+    <!-- Link & Block Style -->
+    <style>
+        .backGreen
+        {
+        	background-color: #27a9e3;
+        	background-color: rgba(39, 169, 227, 0.3);
+        }
+		.backBlue
+        {
+        	background-color: #27a9e3;
+        	background-color: rgba(0, 0, 160, 0.2);
+        }
+		.description
+        {
+            position: relative;
+            margin: 0 auto;
+            padding: 10px;
+            top: 0px;
+            left: 0px;
+        }
+        .descriptiont
+        {
+            position: relative;
+            color: #fff;
+            font-size: 13px;
+            line-height: 16px;
+        }
+		.bricon
+		{
+			background: url(../img/browser-icons.png);
+		}
+		.captionOrange, .captionBlack, .captionBlock
+        {
+            color: #fff;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            filter: inherit;
+        }
+        .captionOrange
+        {
+            background: #EB5100;
+            background-color: rgba(235, 81, 0, 0.6);
+        }
+        .captionBlack
+        {
+        	font-size:16px;
+            background: #000;
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+        .captionBlock
+        {
+        	padding: 10px;
+            text-align: left;
+            line-height: 20px;
+            font-size: 16px;
+            background: #000;
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+    </style>
+
+    <script type="text/javascript" src="caption-transition-builder-controller.min.js"></script>
+</head>
+<body style="background-color: #191919; color:#fff;  margin: 0px; padding:0px;">
+    <div style="text-align: center; font-size: 24px; margin: 10px;">
+            Tool - Caption Transition Viewer
+    </div>
+    
+    <!-- Caption Transition Controller Form Begine -->
+    <div style="font-size: 12px; color: #000; background-color: #EEEEEE;">
+        <span>
+            <b>Select Transition</b>
+        </span>
+		<span style="margin: 0px 10px;">
+            <select name="ssTransition" id="ssTransition" style="width: 300px">
+                 <option value="">
+            </select>
+        </span>
+		<span>
+            <input type="button" value="Play" id="sButtonPlay" style="width: 110px" name="sButtonPlay" disabled="disabled">
+        <span>
+            <button onclick="parent.jQuery.fancybox.close();" id="trans-choose">Choose</button>
+		</span>
+    </div>
+    <div style="font-size: 12px; color: #000; background-color: silver;">
+        <span style="width: 10%;">
+            <b>Transition Code</b>
+        </span>
+        <span>
+            <input id="stTransition" style="width: 88%; height: 25px; padding-left: 4px;" type="text" name="stTransition">
+        </span>
+    </div>
+    <!-- Caption Transition Controller Form End -->
+	<div style="text-align: center; color: #000; background-color: #EEEEEE; padding-top: 20px;">
+    <!-- Jssor Slider Begin -->
+    <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
+                <div style="position: relative; height: 354px; width: 100%; margin-bottom: 30px;" id="slider1_container">
+                    <!-- Loading Screen -->
+                    <div u="loading" style="position: absolute; top: 0px; left: 0px;">
+                        <div style="filter: alpha(opacity=70); opacity:.7; position: absolute; display: block;
+                            background-color: #000000; top: 0px; left: 0px;width: 100%;height:100%;">
+                        </div>
+                        <div style="position: absolute; display: block; background: url(img/loading.gif) no-repeat center center;
+                            top: 0px; left: 0px;width: 100%;height:100%;">
+                        </div>
+                    </div>
+
+                    <div u="slides" style="cursor: move; position: absolute; width: 900px; height: 370px;top:0px;left:0px;overflow:hidden;">
+                        <!-- Slide -->
+                        <div>
+                            <img u="image" src="img/home/01.jpg">
+                            <img u="caption" t="0" style="position:absolute;left:200px;top:60px;width:80px;height:80px;" src="img/icon-slider-12-jquery.png">
+                            <div u=caption t="0" d=-200 class="captionOrange"  style="position:absolute; left:320px; top: 85px; width:500px; height:30px;"> 
+                                Jssor responsive touch swipe javascript image slider
+                            </div> 
+                            <div u=caption t="0" d=-200 class="captionOrange"  style="position:absolute; left:110px; top: 265px; width:500px; height:30px;"> 
+                                Best Performance Slider, Most Scalable Slider
+                            </div> 
+                            <img u="caption" t="0" d=-200 style="position:absolute;left:680px;top:240px;width:80px;height:80px;" src="img/icon-slider-12-jquery.png">
+                        </div>
+                        <!-- Slide -->
+                        <div>
+                            <img u="image" src="img/home/02.jpg">
+                            <img u="caption" t="0" style="position:absolute;left:200px;top:60px;width:80px;height:80px;" src="img/icon-slider-12-jquery.png">
+                            <div u=caption t="0" d=-200 class="captionOrange"  style="position:absolute; left:320px; top: 85px; width:500px; height:30px;"> 
+                                Jssor responsive touch swipe javascript image slider
+                            </div> 
+                            <div u=caption t="0" d=-200 class="captionOrange"  style="position:absolute; left:110px; top: 265px; width:500px; height:30px;"> 
+                                Best Performance Slider, Most Scalable Slider
+                            </div> 
+                            <img u="caption" t="0" d=-200 style="position:absolute;left:680px;top:240px;width:80px;height:80px;" src="img/icon-slider-12-jquery.png">
+                        </div>
+                    </div>
+                </div>
+                <!-- Jssor Slider End -->
+    <script>
+        caption_transition_controller_starter("slider1_container");
+    </script>
+    
+    <div class="backGreen" style="position: relative; margin: 0 auto; padding: 5px;">
+		<div class="description backBlue">
+			<div class="descriptiont">
+				The form above is to preview caption transition. You can select any caption transition from 390+ predefined caption transitions to play.<br>
+				A caption transition can be any or combination of 'Fly (Hor)', 'Fly (Ver)', 'Clip', 'Zoom' and 'Rotate'.<br>
+				Select transition to preview effect, once you get a transition that you prefer, you can copy the transition code from the transition code text box.<br />
+				You can change value of '$Duration' to adjust speed of transition. e.g. '$Duration:1200' -> '$Duration: 2000'.
+			</div>
+		</div>
+	</div>
+</body>
+</html>
