@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 23 Dec 2017 16:43:44 +0100</pubDate><title><![CDATA[10. Liste des pages]]></title><url><![CDATA[10-liste-des-pages]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[12. Liste des pages]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_liste_des_pages.php]]></template><parent><![CDATA[1]]></parent><content><![CDATA[&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;MAIN&quot;&gt;
+	&lt;p class=&quot;texte_principal modele_resume&quot; data-pg-name=&quot;CONTENT&quot;&gt;&lt;!--?php
+$d = dir(&quot;./theme/&quot;);
+echo &quot;Pointeur: &quot;.$d---&gt;handle.&quot;&lt;br /&gt;
+		\\n&quot;; echo &quot;Chemin: &quot;.$d-&amp;gt;path.&quot;&lt;br /&gt;
+		\\n&quot;; while($entry = $d-&amp;gt;read()) { echo $entry.&quot;&lt;br /&gt;
+		\\n&quot;; } $d-&amp;gt;close(); ?&amp;gt;&lt;/p&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Fri, 17 Nov 2017 09:31:10 +0100</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[-]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3></item>

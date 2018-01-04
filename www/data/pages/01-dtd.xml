@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 16 Dec 2017 08:44:13 +0100</pubDate><title><![CDATA[01. DTD]]></title><url><![CDATA[01-dtd]]></url><meta><![CDATA[Langage, balise, adaptation, extension, métalangage]]></meta><metad><![CDATA[L&#039;Extensible Markup Language (XMLnote 1, « langage de balisage extensible1 » en français) est un métalangage informatique de balisage générique qui dérive du SGML. Cette syntaxe est dite « extensible » car elle permet de définir différents espaces de noms, c&#039;est-à-dire des langages avec chacun leur vocabulaire et leur grammaire, comme XHTML, XSLT, RSS, SVG… Elle est reconnaissable par son usage des chevrons () encadrant les balises. L&#039;objectif initial est de faciliter l&#039;échange automatisé de contenus complexes (arbres, texte riche…) entre systèmes d&#039;informations hétérogènes (interopérabilité). Avec ses outils et langages associés, une application XML respecte généralement certains principes :  la structure d&#039;un document XML est définie et validable par un schéma ;     un document XML est entièrement transformable dans un autre document XML.]]></metad><menu><![CDATA[01. Xml]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_STANDARD.php]]></template><parent><![CDATA[02-database]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;ul&gt;
+			&lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;sidebar-projet&quot; href=&quot;http://www.florentlagrange.eu/index_P001.html&quot;&gt;&lt;b class=&quot;index&quot;&gt;&amp;nbsp;INDEX&amp;nbsp;&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;
+				&amp;nbsp;&lt;/li&gt;
+		&lt;/ul&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;1. A propos du XML&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;2. Schéma XML&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;3. DTD&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;4. DOM et XPath&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;5. XSLT&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;01. Introduction&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum ac justo a mattis. Etiam aliquet tincidunt elit, ac dictum diam commodo eu. Phasellus hendrerit nec diam vitae lobortis. Quisque eleifend non tellus vitae viverra. Praesent ex velit, tincidunt eget placerat eget, interdum eu nibh. Donec facilisis risus ut dui pulvinar, eget posuere ligula condimentum. Phasellus sit amet erat scelerisque, aliquet mi eget, sodales elit. Etiam hendrerit ultrices tincidunt. Morbi iaculis vestibulum justo. Mauris nulla enim, tempor non rutrum et, malesuada non leo. Pellentesque venenatis, tellus a pharetra interdum, lectus arcu sollicitudin mi, quis vestibulum tellus eros in lorem. Praesent ac ipsum sapien. Fusce dictum, urna quis venenatis fermentum, felis leo vehicula dui, eget dapibus magna velit nec elit. Donec vel rhoncus massa.&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;col-md-4&quot;&gt;
+			&lt;h3&gt;DTD&lt;/h3&gt;
+
+			&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/01-xml/xml_capture_01.gif&quot; style=&quot;width: 100%;&quot; /&gt;
+			&lt;h3&gt;XML&lt;/h3&gt;
+
+			&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/01-xml/recherches_codes_xml_web_596x843_03.png&quot; style=&quot;width: 100%;&quot; /&gt;
+			&lt;h3&gt;JSON&lt;/h3&gt;
+
+			&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/01-xml/recherches_codes_xml_web_596x843_04.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/01-xml/recherches_codes_xml_web_596x843_06.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/01-xml/recherches_codes_xml_web_596x843_07.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/?lang=fr&quot;&gt;Accédez à la suite&lt;/a&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;01.DTD&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;02. XML&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum ac justo a mattis. Etiam aliquet tincidunt elit, ac dictum diam commodo eu. Phasellus hendrerit nec diam vitae lobortis. Quisque eleifend non tellus vitae viverra. Praesent ex velit, tincidunt eget placerat eget, interdum eu nibh. Donec facilisis risus ut dui pulvinar, eget posuere ligula condimentum. Phasellus sit amet erat scelerisque, aliquet mi eget, sodales elit. Etiam hendrerit ultrices tincidunt. Morbi iaculis vestibulum justo. Mauris nulla enim, tempor non rutrum et, malesuada non leo. Pellentesque venenatis, tellus a pharetra interdum, lectus arcu sollicitudin mi, quis vestibulum tellus eros in lorem. Praesent ac ipsum sapien. Fusce dictum, urna quis venenatis fermentum, felis leo vehicula dui, eget dapibus magna velit nec elit. Donec vel rhoncus massa.&amp;nbsp;&lt;br /&gt;
+			&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/?lang=fr&quot; style=&quot;line-height: 1.42857143;&quot;&gt;Accédez à la suite&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr /&gt;&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Mon, 19 Jun 2017 14:04:57 +0200</creDate><user><![CDATA[admin]]></user><projet><![CDATA[]]></projet><titre><![CDATA[Titrecomplet]]></titre><date><![CDATA[]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Image]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[]]></vignettes><introduction><![CDATA[]]></introduction><situation><![CDATA[]]></situation><legende><![CDATA[]]></legende></item>

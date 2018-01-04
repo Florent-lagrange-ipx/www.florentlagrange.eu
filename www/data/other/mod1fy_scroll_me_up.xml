@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><scroll_speed>1700</scroll_speed><btn_text>Top</btn_text><animation>easeOutBounce</animation><btn_style>smubtn</btn_style><load_fa>1</load_fa><btn_icon>fa fa-chevron-up</btn_icon><btn_color>FFFFFF</btn_color><icon_color>333333</icon_color><text_color>333333</text_color><btn_opacity>0.4</btn_opacity></item>

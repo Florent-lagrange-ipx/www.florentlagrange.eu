@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 01 Jan 2018 10:14:40 +0100</pubDate><title><![CDATA[sandbox]]></title><url><![CDATA[sandbox]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[sandbox]]></menu><menuOrder><![CDATA[3]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_SANDBOX.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;(% setting: nouvel_onglet/test %)&lt;/p&gt;
+
+&lt;p&gt;(% dyXMLTable filename:/data/xml/test.xml %)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;(% searchform %)&lt;br /&gt;
+	(% searchresults %)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Search Widgets for data creating and calculation uses fields from plugin i18n_specialpages and names of the specialized classes from the page HTML structure. To display Search Widgets element on the necessary page insert the following line of code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets&amp;nbsp;parameters_list&amp;nbsp;%)&lt;/p&gt;
+
+&lt;p&gt;To add the desired filter or filters group use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addFilter=&quot;specialfield&quot; mode=&quot;filter mode&quot; itemCaption=&quot;Your Item Caption&quot; caption=&quot;Your Block Caption&quot; showCounters=1 %)&lt;/p&gt;
+
+&lt;p&gt;To put a Search Widgets items on the sidebar or in the template (e.g. the header of the page), use the following code (&quot;laptops-item&quot; is a special page name from which data will be collected):&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;?php get_search_widgets(array(&#039;specialName&#039;=&amp;gt;&#039;laptops-items&#039;, &#039;addFilter&#039;=&amp;gt;&#039;manufacturer&#039;, &#039;mode&#039;=&amp;gt;&#039;dropdown&#039;, &#039;caption&#039;=&amp;gt;&#039;Trademarks&#039;, &#039;showCounters&#039;=&amp;gt;1)); ?&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;To add a filter by price range use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addRange=1 caption=&quot;Your Block Caption&quot; currencySign=&quot;$&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To add page numbering (Pagination) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addPagify=1 showItemsNumber=1 showPagesNumber=1 %)&lt;/p&gt;
+
+&lt;p&gt;To insert the prepared sorting drop-down list (Sort by) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSort=&quot;price,asc,number&amp;amp;price,desc,number&quot; sortCaptions=&quot;Cheapest&amp;amp;Expensive&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To insert the search input box use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSearchBox=&quot;item-title&quot; Placeholder=&quot;Search by title&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To form the contents of a catalog, use i18n_search function&amp;nbsp;searchresults. Parameter live=1 is necessary. Search Widgets uses its own page numbering function (Pagination) so remove i18n_search plugin numbering or change this parameter to the appropriate size (eg. 100). Searchresults form call could look like this:&lt;/p&gt;
+
+&lt;p&gt;(% searchresults addTags=_parent_laptops live=1 lang=en HEADER=&#039;&#039; %)&lt;/p&gt;
+
+&lt;p&gt;Search Widgets requires following plugins activation on your site:&lt;/p&gt;
+
+&lt;p&gt;(% searchform %)&lt;br /&gt;
+	(% searchresults %)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Search Widgets for data creating and calculation uses fields from plugin i18n_specialpages and names of the specialized classes from the page HTML structure. To display Search Widgets element on the necessary page insert the following line of code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets&amp;nbsp;parameters_list&amp;nbsp;%)&lt;/p&gt;
+
+&lt;p&gt;To add the desired filter or filters group use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addFilter=&quot;specialfield&quot; mode=&quot;filter mode&quot; itemCaption=&quot;Your Item Caption&quot; caption=&quot;Your Block Caption&quot; showCounters=1 %)&lt;/p&gt;
+
+&lt;p&gt;To put a Search Widgets items on the sidebar or in the template (e.g. the header of the page), use the following code (&quot;laptops-item&quot; is a special page name from which data will be collected):&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;?php get_search_widgets(array(&#039;specialName&#039;=&amp;gt;&#039;laptops-items&#039;, &#039;addFilter&#039;=&amp;gt;&#039;manufacturer&#039;, &#039;mode&#039;=&amp;gt;&#039;dropdown&#039;, &#039;caption&#039;=&amp;gt;&#039;Trademarks&#039;, &#039;showCounters&#039;=&amp;gt;1)); ?&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;To add a filter by price range use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addRange=1 caption=&quot;Your Block Caption&quot; currencySign=&quot;$&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To add page numbering (Pagination) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addPagify=1 showItemsNumber=1 showPagesNumber=1 %)&lt;/p&gt;
+
+&lt;p&gt;To insert the prepared sorting drop-down list (Sort by) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSort=&quot;price,asc,number&amp;amp;price,desc,number&quot; sortCaptions=&quot;Cheapest&amp;amp;Expensive&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To insert the search input box use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSearchBox=&quot;item-title&quot; Placeholder=&quot;Search by title&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To form the contents of a catalog, use i18n_search function&amp;nbsp;searchresults. Parameter live=1 is necessary. Search Widgets uses its own page numbering function (Pagination) so remove i18n_search plugin numbering or change this parameter to the appropriate size (eg. 100). Searchresults form call could look like this:&lt;/p&gt;
+
+&lt;p&gt;(% searchresults addTags=_parent_laptops live=1 lang=en HEADER=&#039;&#039; %)&lt;/p&gt;
+
+&lt;p&gt;Search Widgets requires following plugins activation on your site:&lt;/p&gt;
+
+&lt;p&gt;(% searchform %)&lt;br /&gt;
+	(% searchresults %)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Search Widgets for data creating and calculation uses fields from plugin i18n_specialpages and names of the specialized classes from the page HTML structure. To display Search Widgets element on the necessary page insert the following line of code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets&amp;nbsp;parameters_list&amp;nbsp;%)&lt;/p&gt;
+
+&lt;p&gt;To add the desired filter or filters group use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addFilter=&quot;specialfield&quot; mode=&quot;filter mode&quot; itemCaption=&quot;Your Item Caption&quot; caption=&quot;Your Block Caption&quot; showCounters=1 %)&lt;/p&gt;
+
+&lt;p&gt;To put a Search Widgets items on the sidebar or in the template (e.g. the header of the page), use the following code (&quot;laptops-item&quot; is a special page name from which data will be collected):&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;?php get_search_widgets(array(&#039;specialName&#039;=&amp;gt;&#039;laptops-items&#039;, &#039;addFilter&#039;=&amp;gt;&#039;manufacturer&#039;, &#039;mode&#039;=&amp;gt;&#039;dropdown&#039;, &#039;caption&#039;=&amp;gt;&#039;Trademarks&#039;, &#039;showCounters&#039;=&amp;gt;1)); ?&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;To add a filter by price range use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addRange=1 caption=&quot;Your Block Caption&quot; currencySign=&quot;$&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To add page numbering (Pagination) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addPagify=1 showItemsNumber=1 showPagesNumber=1 %)&lt;/p&gt;
+
+&lt;p&gt;To insert the prepared sorting drop-down list (Sort by) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSort=&quot;price,asc,number&amp;amp;price,desc,number&quot; sortCaptions=&quot;Cheapest&amp;amp;Expensive&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To insert the search input box use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSearchBox=&quot;item-title&quot; Placeholder=&quot;Search by title&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To form the contents of a catalog, use i18n_search function&amp;nbsp;searchresults. Parameter live=1 is necessary. Search Widgets uses its own page numbering function (Pagination) so remove i18n_search plugin numbering or change this parameter to the appropriate size (eg. 100). Searchresults form call could look like this:&lt;/p&gt;
+
+&lt;p&gt;(% searchresults addTags=_parent_laptops live=1 lang=en HEADER=&#039;&#039; %)&lt;/p&gt;
+
+&lt;p&gt;Search Widgets requires following plugins activation on your site:&lt;/p&gt;
+
+&lt;p&gt;(% searchform %)&lt;br /&gt;
+	(% searchresults %)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Search Widgets for data creating and calculation uses fields from plugin i18n_specialpages and names of the specialized classes from the page HTML structure. To display Search Widgets element on the necessary page insert the following line of code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets&amp;nbsp;parameters_list&amp;nbsp;%)&lt;/p&gt;
+
+&lt;p&gt;To add the desired filter or filters group use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addFilter=&quot;specialfield&quot; mode=&quot;filter mode&quot; itemCaption=&quot;Your Item Caption&quot; caption=&quot;Your Block Caption&quot; showCounters=1 %)&lt;/p&gt;
+
+&lt;p&gt;To put a Search Widgets items on the sidebar or in the template (e.g. the header of the page), use the following code (&quot;laptops-item&quot; is a special page name from which data will be collected):&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;?php get_search_widgets(array(&#039;specialName&#039;=&amp;gt;&#039;laptops-items&#039;, &#039;addFilter&#039;=&amp;gt;&#039;manufacturer&#039;, &#039;mode&#039;=&amp;gt;&#039;dropdown&#039;, &#039;caption&#039;=&amp;gt;&#039;Trademarks&#039;, &#039;showCounters&#039;=&amp;gt;1)); ?&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;To add a filter by price range use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addRange=1 caption=&quot;Your Block Caption&quot; currencySign=&quot;$&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To add page numbering (Pagination) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addPagify=1 showItemsNumber=1 showPagesNumber=1 %)&lt;/p&gt;
+
+&lt;p&gt;To insert the prepared sorting drop-down list (Sort by) use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSort=&quot;price,asc,number&amp;amp;price,desc,number&quot; sortCaptions=&quot;Cheapest&amp;amp;Expensive&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To insert the search input box use this code:&lt;/p&gt;
+
+&lt;p&gt;(% get_search_widgets addSearchBox=&quot;item-title&quot; Placeholder=&quot;Search by title&quot; %)&lt;/p&gt;
+
+&lt;p&gt;To form the contents of a catalog, use i18n_search function&amp;nbsp;searchresults. Parameter live=1 is necessary. Search Widgets uses its own page numbering function (Pagination) so remove i18n_search plugin numbering or change this parameter to the appropriate size (eg. 100). Searchresults form call could look like this:&lt;/p&gt;
+
+&lt;p&gt;(% searchresults addTags=_parent_laptops live=1 lang=en HEADER=&#039;&#039; %)&lt;/p&gt;
+
+&lt;p&gt;Search Widgets requires following plugins activation on your site:&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Sun, 17 Dec 2017 06:48:42 +0100</creDate><user><![CDATA[admin]]></user><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><tag1><![CDATA[test]]></tag1><tag2><![CDATA[sandbox]]></tag2><tag3><![CDATA[essai]]></tag3><tag4><![CDATA[recherche]]></tag4><tag5><![CDATA[expérimetnation]]></tag5></item>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 19 Dec 2017 04:29:22 +0100</pubDate><title><![CDATA[11. Wireframe]]></title><url><![CDATA[11-wireframe]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[11. Wireframe]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[04-diagrammes]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-collapsed data-pg-name=&quot;ARTICLE&quot;&gt;
+    &lt;div class=&quot;row&quot; data-pg-name=&quot;TABLE DES MATIERES&quot;&gt;
+        &lt;hr class=&quot;hr_titre&quot; /&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TABLE&quot;&gt;
+            &lt;div class=&quot;block_probleme dossier&quot; data-pg-collapsed=&quot;&quot;&gt;
+                &lt;i class=&quot;fa fa-list&quot;&gt;&lt;/i&gt;
+                &lt;p class=&quot;p&quot;&gt;&lt;b class=&quot;sous-titre&quot;&gt;Table&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;
+                &lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;01. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01metadonnes/01-plan-de-nommage&quot;&gt;Introduction&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;02. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01metadonnes/02-lexiques&quot;&gt;Plan&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;03. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01metadonnes/03-signes&quot;&gt;Note de lecture&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;04. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01metadonnes/04-chaine-de-production&quot;&gt;Scénario&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;05. Thèse&lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;06. Publication&lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;07. Bibliographie&lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;08. Découpage technique&lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;09. Cours&lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;10. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01metadonnes/10-charte-graphique&quot;&gt;Discours&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;11. Archives&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-8 col-sm-8 col-xs-8 col-lg-8&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block_probleme dossier&quot; data-pg-collapsed=&quot;&quot;&gt;
+                &lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;
+                &lt;p class=&quot;p&quot;&gt;&lt;b class=&quot;sous-titre&quot;&gt;Dispositif&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;
+                &lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+                &lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+                Mon travail st une tentative d’assembler différentes unités élémentaires, voir organique, matériel, et d’en analyser les résultats de ces opérations les assemblages, le et sa constitution. C’est dans cet objet que mon travail s’effectue. L’objet finie et uniquement un lieu où est projeté l’intégralité de mes questions, c’est un lieu, un alibi qui me permet de confronter mes capacité physique et intellectuel, et d’en effectuer une auto-évaluation. La cristallisation de différentes formes plastique est utilisée sous forme de Benchmark qui permet de créer des points de repère chronologie et, ou des balises mémorielles à vocation de poser une structure et d’établir un apprentissage et de s’élever et de gérer sa connaissance et son énergie spirituelle
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot; data-pg-collapsed data-pg-name=&quot;A&quot;&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/10-vitrail/cathedrale.jpg&quot; style=&quot;width: 100%;&quot; width=&quot;100%&quot; /&gt;
+                &amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/10-vitrail/ce1fb86183fff5835fdd71a1a95ab7559ebc8f72.jpg&quot; style=&quot;width: 100%;&quot; width=&quot;100%&quot; /&gt;
+                &amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/10-vitrail/duchamp.png&quot; style=&quot;width: 100%;&quot; width=&quot;100%&quot; /&gt;
+                &amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/10-vitrail/plan_vitrail.png&quot; style=&quot;width: 100%;&quot; width=&quot;100%&quot; /&gt;
+                &amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/10-vitrail/rosasse_logo_02.png&quot; style=&quot;width: 100%;&quot; width=&quot;100%&quot; /&gt;
+                &amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/10-vitrail/rosasse_logo_03-1.png&quot; style=&quot;width: 100%;&quot; width=&quot;100%&quot; /&gt;
+                &amp;nbsp;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Tue, 05 Dec 2017 05:49:07 +0100</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[-]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3><menuOrder><![CDATA[6]]></menuOrder></item>

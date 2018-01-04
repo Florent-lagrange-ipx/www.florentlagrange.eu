@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 15 Dec 2017 07:57:45 +0100</pubDate><title><![CDATA[08. Bios]]></title><url><![CDATA[08-bios]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[08. Bios]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_STANDARD.php]]></template><parent><![CDATA[06-objets]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;row table_des_matieres&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;section data-pg-name=&quot;{Introduction}&quot;&gt;&amp;nbsp;&lt;/section&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TABLE DES MATIERES&quot;&gt;
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TABLE&quot;&gt;
+			&lt;div class=&quot;block_probleme dossier&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-list&quot;&gt;&lt;/i&gt;
+
+				&lt;p class=&quot;p&quot;&gt;&lt;b class=&quot;sous-titre&quot;&gt;Table&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;ul&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;01. Templates&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;02. Diagramme&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;03. Références&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;04. Topologies&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;05. Cartographies Heursitique&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;06. Plateau&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;07. arborescence&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;08. Axonométrie&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;09. Architecture de l&#039;information&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;10. Expérience utilisateur&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;11. Zoning&lt;/li&gt;
+					&lt;li class=&quot;table_des_matieres&quot;&gt;12. Mockups&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARGUMENT&quot;&gt;
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;block_probleme dossier&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;
+
+				&lt;p class=&quot;p&quot;&gt;&lt;b class=&quot;sous-titre&quot;&gt;Dispositif&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+				Mon travail st une tentative d’assembler différentes unités élémentaires, voir organique, matériel, et d’en analyser les résultats de ces opérations les assemblages, le et sa constitution. C’est dans cet objet que mon travail s’effectue. L’objet finie et uniquement un lieu où est projeté l’intégralité de mes questions, c’est un lieu, un alibi qui me permet de confronter mes capacité physique et intellectuel, et d’en effectuer une auto-évaluation. La cristallisation de différentes formes plastique est utilisée sous forme de Benchmark qui permet de créer des points de repère chronologie et, ou des balises mémorielles à vocation de poser une structure et d’établir un apprentissage et de s’élever et de gérer sa connaissance et son énergie spirituelle&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;A&quot;&gt;
+		&lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4 publication&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-file-o&quot;&gt;&lt;/i&gt;&lt;/center&gt;
+
+				&lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;TORE&lt;/b&gt;&lt;/b&gt;&lt;/center&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/projets/P008/a01.png&quot; width=&quot;100%&quot; /&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/center&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4 publication&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-file-o&quot;&gt;&lt;/i&gt;&lt;/center&gt;
+
+				&lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;TORE&lt;/b&gt;&lt;/b&gt;&lt;/center&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/projets/P008/a04.png&quot; width=&quot;100%&quot; /&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/center&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4 publication&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-file-o&quot;&gt;&lt;/i&gt;&lt;/center&gt;
+
+				&lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;TORE&lt;/b&gt;&lt;/b&gt;&lt;/center&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/projets/P008/a06.png&quot; width=&quot;100%&quot; /&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/center&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;A&quot;&gt;
+		&lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4 publication&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-file-o&quot;&gt;&lt;/i&gt;&lt;/center&gt;
+
+				&lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;&lt;b class=&quot;sous_titre_03 sous-titre_01 titre_A&quot;&gt;TORE&lt;/b&gt;&lt;/b&gt;&lt;/center&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;center data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/projets/P008/a06.png&quot; width=&quot;100%&quot; /&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/center&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;A&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_009793&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Problématiques:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur plan_balise_couleur_bleu&quot;&gt;{ problématiques }&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Comment dévelloper un outil numérique qui permette d&#039;accompagner la création artistique?&lt;/p&gt;
+
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Comment permettre le passage du sujet à l&#039;objet?&lt;/p&gt;
+
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Définir les balises qui permettent de s&#039;orienter dans la pensée.&lt;/p&gt;
+
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Détecter les récurrences, et les répétitions.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+		&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Introduction}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;p&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Situation}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction fragment col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Situation:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur&quot;&gt;{ situation }&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;Sur cette base, nous voulons montrer que la topologie, hors contexte géographique, constitue une forme de métaphore visuelle. Ce travail montre l’importance de la visualisation de l’information et de ses représentations spatiales.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Problématiques}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_009793&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Problématiques:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur plan_balise_couleur_bleu&quot;&gt;{ problématiques }&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+		&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-collapsed=&quot;&quot;&gt;
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 balise_jaune&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Objectifs:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;balise_jaune_texte&quot;&gt;{ objectifs }&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;Notre objectif va donc être d’établir les ponts conceptuels entre la métaphore comme une représentation visuelle universelle des connaissances. Nous cartographierons de manière schématique, des ensembles d’objets. Dans un espace en deux dimensions, nous tenterons de projeter les idées préalablement conceptualiser dans les chapitres précédents et les mathématiserons de manière logique.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-name=&quot;{Plan}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_0254e5&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Plan:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5&quot;&gt;{ plan }&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;sidebar-introduction col-md-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;ul&gt;
+				&lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;sidebar-projet&quot; href=&quot;http://www.florentlagrange.eu/index_P001.html&quot;&gt;&lt;b&gt;INDEX&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;
+					&amp;nbsp;&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;table class=&quot;table1&quot;&gt;
+				&lt;thead&gt;
+					&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+						&lt;th&gt;#&lt;/th&gt;
+						&lt;th&gt;No. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+						&lt;th&gt;Lignes de Recherches&lt;/th&gt;
+					&lt;/tr&gt;
+				&lt;/thead&gt;
+				&lt;tbody class=&quot;tableau&quot;&gt;
+					&lt;tr class=&quot;tableau&quot;&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R1]&amp;nbsp;&lt;/td&gt;
+						&lt;td class=&quot;tableau&quot;&gt;&lt;i&gt;No.I&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Topologies&lt;/a&gt;&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R2]&lt;/td&gt;
+						&lt;td&gt;No.2&lt;/td&gt;
+						&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/&quot;&gt;Formes géométriques&lt;/a&gt;&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R3]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;No.3&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;Plan&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R4]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;No.4&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;Cartographie Heuristique&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R5]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;No.5&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;Arborescence&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-name=&quot;{Indices}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_04&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Méthode&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu&quot;&gt;{ Indice}&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;p&quot;&gt;La méthode suivie pour le cheminement vu comme un dialogue entre topographie et topologie. Puis la carte sera employée comme un système de visualisation des données. La carte, ensuite expérimentera le modèle interactif comme métaphore spatiale et comme modèle de représentation des connaissances.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Limite - Ouverture&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;p&quot;&gt;Le diagramme est une esquisse qui se limite à un plan à une esquisse. C’est un schéma d’exploration et d’explication d’un territoire nouveau. Le diagramme n’est pas une œuvre en soi. &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;div class=&quot;row&quot; data-pg-name=&quot;DATA&quot;&gt;
+			&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 balise_jaune&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Objectifs:&lt;/strong&gt;&lt;/p&gt;
+
+						&lt;p class=&quot;balise_jaune_texte&quot;&gt;{ objectifs }&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Création d&#039;un dispositif de lecture pour appréhender son quotidien.&lt;/p&gt;
+
+						&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Apprendre à ce connaître.&lt;/p&gt;
+
+						&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Cartographier une image de la pensée.&lt;/p&gt;
+
+						&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Evoluer, se renouveller et s&#039;adapter&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+				&lt;hr /&gt;&lt;/div&gt;
+
+			&lt;section data-pg-name=&quot;{Indices}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_04&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Indices&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu&quot;&gt;{ Indice}&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;p&quot;&gt;Control and Communication in the Animal and the Machine », tel est le sous-titre du livre le plus célèbre du mathématicien étasunien Norbert Wiener, paru en anglais, à Paris, en 1948.&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+			&lt;div class=&quot;col-md-pull-4 col-md-4 col-md-offset-8 col-xs-4 col-sm-4 col-sm-offset-8 col-xs-offset-8 col-lg-offset-8 col-lg-4 col-xs-pull-4 col-sm-pull-4 col-lg-pull-4&quot;&gt;&amp;nbsp; &lt;img alt=&quot;&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/15585349_1517120941649995_3448372958917758956_o.jpg&quot; width=&quot;100%&quot; /&gt;
+				&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-4 logo_code&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/1-ipx_edito.png&quot; width=&quot;33%&quot; /&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p&gt;- &amp;nbsp;&lt;em&gt;Json&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;em&gt;&lt;em&gt;- Plan de nommage Thésaurus&lt;/em&gt;&lt;br /&gt;
+						- Création des archives : Gestion des sauvegardes&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&lt;em&gt;- Versionning /&amp;nbsp;- Hardware / Software.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;logo_code col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+						&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;logo_code col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+						&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;logo_code col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-pull-4 col-md-4 col-md-offset-8 col-xs-4 col-sm-4 col-sm-offset-8 col-xs-offset-8 col-lg-offset-8 col-lg-4 col-xs-pull-4 col-sm-pull-4 col-lg-pull-4&quot;&gt;&amp;nbsp;
+				&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;BASE&lt;/strong&gt;&lt;br /&gt;
+					&lt;b class=&quot;numero&quot;&gt;No. I&lt;/b&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&amp;nbsp;&lt;/p&gt;
+
+				&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-4 logo_code&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/1-ipx_edito.png&quot; width=&quot;33%&quot; /&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p&gt;- &amp;nbsp;&lt;em&gt;Json&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;em&gt;&lt;em&gt;- Plan de nommage Thésaurus&lt;/em&gt;&lt;br /&gt;
+						- Création des archives : Gestion des sauvegardes&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&lt;em&gt;- Versionning /&amp;nbsp;- Hardware / Software.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;logo_code col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+						&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;logo_code col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+						&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;logo_code col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;
+				&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;dataBASE&lt;/strong&gt;&lt;br /&gt;
+					&lt;b class=&quot;numero&quot;&gt;No. II&lt;/b&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&amp;nbsp;&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;em&gt;- Histoire du Langage C et de la programmation orienté objet&lt;/em&gt;&lt;/p&gt;
+
+				&lt;p&gt;- Lagage Hml, Css et Js.&lt;/p&gt;
+
+				&lt;p&gt;- &amp;nbsp;&lt;em&gt;Json&lt;/em&gt;&lt;/p&gt;
+
+				&lt;p&gt;- Php&lt;/p&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+						&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;
+				&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;br /&gt;
+					&lt;b class=&quot;numero&quot;&gt;No. III&lt;/b&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&amp;nbsp;&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;em&gt;- Gabarit, template et navigation&lt;/em&gt;&lt;/p&gt;
+
+				&lt;p&gt;&lt;em&gt;- &lt;/em&gt;Frameworks, UX / UI&lt;/p&gt;
+
+				&lt;p&gt;- Arborescence&lt;/p&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+						&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;
+				&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;screenBASEd&lt;/strong&gt;&lt;br /&gt;
+					&lt;b class=&quot;numero&quot;&gt;No. IV&lt;/b&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&amp;nbsp;&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;em&gt;- Méthode des base de données Mysql&lt;/em&gt;&lt;/p&gt;
+
+				&lt;p&gt;- &amp;nbsp;&lt;em&gt;Json&lt;/em&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;em&gt;&lt;em&gt;- Plan de nommage Thésaurus&lt;/em&gt;&lt;br /&gt;
+					- Création des archives : Gestion des sauvegardes&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;p&gt;&lt;em&gt;- Versionning /&amp;nbsp;- Hardware / Software.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+				&lt;div class=&quot;row&quot;&gt;
+					&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+						&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-offset-4 col-md-4 col-xs-4 col-sm-4 col-sm-offset-4 col-xs-offset-3 col-lg-offset-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;thumbnail&quot; href=&quot;#&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/03-codes/menu.gif&quot; width=&quot;400&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-offset-4 col-md-4 col-xs-4 col-sm-4 col-sm-offset-4 col-xs-offset-3 col-lg-offset-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+		&lt;div class=&quot;row&quot; data-pg-name=&quot;BALISE&quot;&gt;
+			&lt;section data-pg-name=&quot;{Introduction}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;p&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Situation}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_0254e5&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Plan:&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5&quot;&gt;{ plan }&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot;&gt;
+				&lt;ul&gt;
+					&lt;li class=&quot;tables_niveau_01&quot;&gt;Introduction&lt;/li&gt;
+					&lt;li class=&quot;tables_niveau_01&quot;&gt;01. Topologies &amp;amp; Sémiologie&lt;/li&gt;
+					&lt;li class=&quot;tables_niveau_01&quot;&gt;02. Cartes
+						&lt;ul&gt;
+							&lt;li&gt;01. histoire de la cartographie&lt;/li&gt;
+							&lt;li&gt;02. Système géodésique
+								&lt;ul&gt;
+									&lt;li&gt;01. histoire de la cartographie&lt;/li&gt;
+									&lt;li&gt;02. Système géodésique
+										&lt;ul class=&quot;table_des_matieres&quot;&gt;
+											&lt;li&gt;01. UML&lt;/li&gt;
+											&lt;li&gt;01. histoire de la cartographie&lt;/li&gt;
+											&lt;li&gt;02. Système géodésique&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/li&gt;
+								&lt;/ul&gt;
+							&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/li&gt;
+					&lt;li class=&quot;tables_niveau_01&quot;&gt;03. Data-visualisation
+						&lt;ul class=&quot;table_des_matieres&quot;&gt;
+							&lt;li&gt;01. Repères&lt;/li&gt;
+							&lt;li&gt;01. outls&lt;/li&gt;
+							&lt;li&gt;02. Système géodésique&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/li&gt;
+					&lt;li class=&quot;tables_niveau_01&quot;&gt;04. Carte Heuristique&lt;/li&gt;
+					&lt;li class=&quot;tables_niveau_01&quot;&gt;05. Arbre&lt;/li&gt;
+					&lt;li class=&quot;tables_niveau_01&quot; data-pg-collapsed=&quot;&quot;&gt;06. Cartes conceptuelle
+						&lt;ul class=&quot;table_des_matieres&quot;&gt;
+							&lt;li&gt;01. UML&lt;/li&gt;
+							&lt;li&gt;02. Diagramme de Gantt&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Problématiques}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_009793&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Problématiques:&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur plan_balise_couleur_bleu&quot;&gt;{ problématiques }&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot;&gt;
+			&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 balise_jaune&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Objectifs:&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;balise_jaune_texte&quot;&gt;{ objectifs }&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;Notre objectif va donc être d’établir les ponts conceptuels entre la métaphore comme une représentation visuelle universelle des connaissances. Nous cartographierons de manière schématique, des ensembles d’objets. Dans un espace en deux dimensions, nous tenterons de projeter les idées préalablement conceptualiser dans les chapitres précédents et les mathématiserons de manière logique.&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Plan}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_0254e5&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Plan:&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5&quot;&gt;{ plan }&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;sidebar-introduction col-md-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;ul&gt;
+					&lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;sidebar-projet&quot; href=&quot;http://www.florentlagrange.eu/index_P001.html&quot;&gt;&lt;b&gt;INDEX&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;
+						&amp;nbsp;&lt;/li&gt;
+				&lt;/ul&gt;
+
+				&lt;table class=&quot;table1&quot;&gt;
+					&lt;thead&gt;
+						&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+							&lt;th&gt;#&lt;/th&gt;
+							&lt;th&gt;No. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+							&lt;th&gt;Lignes de Recherches&lt;/th&gt;
+						&lt;/tr&gt;
+					&lt;/thead&gt;
+					&lt;tbody class=&quot;tableau&quot;&gt;
+						&lt;tr class=&quot;tableau&quot;&gt;
+							&lt;td class=&quot;ref&quot;&gt;[R1]&amp;nbsp;&lt;/td&gt;
+							&lt;td class=&quot;tableau&quot;&gt;&lt;i&gt;No.I&lt;/i&gt;&lt;/td&gt;
+							&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Topologies&lt;/a&gt;&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[R2]&lt;/td&gt;
+							&lt;td&gt;No.2&lt;/td&gt;
+							&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/&quot;&gt;Formes géométriques&lt;/a&gt;&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[R3]&lt;/td&gt;
+							&lt;td&gt;&lt;i&gt;No.3&lt;/i&gt;&lt;/td&gt;
+							&lt;td&gt;Plan&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[R4]&lt;/td&gt;
+							&lt;td&gt;&lt;i&gt;No.4&lt;/i&gt;&lt;/td&gt;
+							&lt;td&gt;Cartographie Heuristique&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[R5]&lt;/td&gt;
+							&lt;td&gt;&lt;i&gt;No.5&lt;/i&gt;&lt;/td&gt;
+							&lt;td&gt;Arborescence&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+						&lt;/tr&gt;
+					&lt;/tbody&gt;
+				&lt;/table&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Indices}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_04&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Méthode&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu&quot;&gt;{ Indice}&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;p&quot;&gt;La méthode suivie pour le cheminement vu comme un dialogue entre topographie et topologie. Puis la carte sera employée comme un système de visualisation des données. La carte, ensuite expérimentera le modèle interactif comme métaphore spatiale et comme modèle de représentation des connaissances.&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Limite - Ouverture&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;p&quot;&gt;Le diagramme est une esquisse qui se limite à un plan à une esquisse. C’est un schéma d’exploration et d’explication d’un territoire nouveau. Le diagramme n’est pas une œuvre en soi. &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Plan}&quot;&gt;
+			&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_0254e5&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Plan:&lt;/strong&gt;&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5&quot;&gt;{ plan }&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;sidebar-introduction col-md-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;ul&gt;
+					&lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;sidebar-projet&quot; href=&quot;http://www.florentlagrange.eu/index_P001.html&quot;&gt;&lt;b&gt;INDEX&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;
+						&amp;nbsp;&lt;/li&gt;
+				&lt;/ul&gt;
+
+				&lt;table class=&quot;table1&quot;&gt;
+					&lt;thead&gt;
+						&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+							&lt;th&gt;#&lt;/th&gt;
+							&lt;th&gt;No. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+							&lt;th&gt;Lignes de Recherches&lt;/th&gt;
+						&lt;/tr&gt;
+					&lt;/thead&gt;
+					&lt;tbody class=&quot;tableau&quot;&gt;
+						&lt;tr class=&quot;tableau&quot;&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D001]&amp;nbsp;&lt;/td&gt;
+							&lt;td class=&quot;ref&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_01.png&quot; width=&quot;100px&quot; /&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+							&lt;td class=&quot;tableau&quot;&gt;&lt;i&gt;No.I&lt;/i&gt;&lt;/td&gt;
+							&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;La méthode suivie pour le cheminement vu comme un dialogue entre topographie et topologie. Puis la carte sera employée comme un système de visualisation des données. La carte, ensuite expérimentera le modèle interactif comme métaphore spatiale et comme modèle de représentation des connaissances.&lt;/a&gt;&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D002]&amp;nbsp;&lt;/td&gt;
+							&lt;td&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_02.png&quot; width=&quot;100px&quot; /&gt;&lt;/td&gt;
+							&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/&quot;&gt;Formes géométriques&lt;/a&gt;&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D003]&lt;/td&gt;
+							&lt;td&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_03.png&quot; width=&quot;100px&quot; /&gt;&lt;/td&gt;
+							&lt;td&gt;Plan&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D004]&lt;/td&gt;
+							&lt;td&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_04.png&quot; width=&quot;100px&quot; /&gt;&lt;/td&gt;
+							&lt;td&gt;Cartographie Heuristique&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D005]&lt;/td&gt;
+							&lt;td&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_05.png&quot; width=&quot;100px&quot; /&gt;&lt;/td&gt;
+							&lt;td&gt;Arborescence&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D006]&lt;/td&gt;
+							&lt;td&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_06.png&quot; width=&quot;100px&quot; /&gt;&lt;/td&gt;
+							&lt;td&gt;Arborescence&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+							&lt;td class=&quot;ref&quot;&gt;[D007]&lt;/td&gt;
+							&lt;td&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/vignettes_diagramme_07.png&quot; width=&quot;100px&quot; /&gt;&lt;/td&gt;
+							&lt;td&gt;Arborescence&lt;/td&gt;
+						&lt;/tr&gt;
+						&lt;tr&gt;
+						&lt;/tr&gt;
+					&lt;/tbody&gt;
+				&lt;/table&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+			&lt;/section&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-name=&quot;DATA&quot;&gt;
+				&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;div class=&quot;row&quot;&gt;
+						&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 balise_jaune&quot; data-pg-collapsed=&quot;&quot;&gt;
+							&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Objectifs:&lt;/strong&gt;&lt;/p&gt;
+
+							&lt;p class=&quot;balise_jaune_texte&quot;&gt;{ objectifs }&lt;/p&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+							&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Création d&#039;un dispositif de lecture pour appréhender son quotidien.&lt;/p&gt;
+
+							&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Apprendre à ce connaître.&lt;/p&gt;
+
+							&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Cartographier une image de la pensée.&lt;/p&gt;
+
+							&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Evoluer, se renouveller et s&#039;adapter&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;&amp;nbsp;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;hr class=&quot;hr_titre&quot; /&gt;
+					&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&amp;nbsp;&lt;/p&gt;
+					&lt;img class=&quot;image recherche_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/01-diagrammes/figure_01.png&quot; style=&quot;width: 250px;&quot; /&gt;
+					&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&lt;b class=&quot;etiquette&quot; style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;01. Topologies&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&lt;b class=&quot;indices&quot; style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Indice n°1&amp;nbsp;&lt;/b&gt;&lt;em&gt;- A partir du texte de Giorgio Agamben. Qu&#039;est-ce qu&#039;un dispositif?&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;hr class=&quot;hr_titre&quot; /&gt;
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+					&lt;img class=&quot;image recherche_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/lacan-et-le-reel.png&quot; style=&quot;width: 500px;&quot; /&gt;
+					&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&lt;b class=&quot;etiquette&quot; style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;02. Formes géométriques&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p class=&quot;indice&quot; style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&lt;em&gt;&lt;b class=&quot;indices&quot; style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Indice n°3&amp;nbsp;&lt;/b&gt;A partir du texte de jack Burnham :&quot;System Aesthetic&quot;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;br /&gt;
+						&amp;nbsp;&lt;/p&gt;
+					&lt;img class=&quot;image recherche_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/template_01.png&quot; style=&quot;width: 500px;&quot; /&gt;
+					&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&lt;b class=&quot;etiquette&quot; style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;03. Plan&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;a) Conférence de Macy&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+					&lt;img class=&quot;image recherche_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/04-diagrammes/www.png&quot; style=&quot;width: 500px;&quot; /&gt;
+					&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;
+							&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;04. Cartographies heuristique&lt;/b&gt;&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;p&gt;&lt;em style=&quot;orphans: 2; widows: 2;&quot;&gt;Le concept de représentation chez Lacan&lt;/em&gt;&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+					&lt;hr /&gt;&lt;/div&gt;
+
+				&lt;section data-pg-name=&quot;{Indices}&quot;&gt;
+				&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_04&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Indices&lt;/strong&gt;&lt;/p&gt;
+
+					&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu&quot;&gt;{ Indice}&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;p&quot;&gt;Control and Communication in the Animal and the Machine », tel est le sous-titre du livre le plus célèbre du mathématicien étasunien Norbert Wiener, paru en anglais, à Paris, en 1948.&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/icone_xml.png&quot; style=&quot;width: 200px; height: 391px;&quot; /&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+				&lt;/section&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Tue, 21 Nov 2017 07:35:51 +0100</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[-]]></vignettes><introduction><![CDATA[<p>-</p>
+]]></introduction><situation><![CDATA[<p>-</p>
+]]></situation><legende><![CDATA[-]]></legende><menuOrder><![CDATA[2]]></menuOrder></item>

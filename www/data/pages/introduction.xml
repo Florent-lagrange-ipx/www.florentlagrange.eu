@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 21 Nov 2017 06:39:33 +0100</pubDate><title><![CDATA[01. Introduction]]></title><url><![CDATA[introduction]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Introduction]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_STANDARD.php]]></template><parent><![CDATA[02-textes]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 balise_jaune&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Objectifs:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;balise_jaune_texte&quot;&gt;{ objectifs }&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Création d&#039;un dispositif de lecture pour appréhender son quotidien.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Apprendre à ce connaître.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Cartographier une image de la pensée.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Evoluer, se renouveller et s&#039;adapter&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction fragment col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Situation:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur&quot;&gt;{ situation }&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Dévellopement d&#039;une pensée autonome et individuel.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Créer une architecture de données qui permet d&#039;évoluer dans le temps.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Situer ses savoirs et sa connaissance.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Discipliner son esprit et son corps.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Prendre conscience des chemins de la vérité psychique et matérielle.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_009793&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Problématiques:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur plan_balise_couleur_bleu&quot;&gt;{ problématiques }&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Comment dévelloper un outil numérique qui permette d&#039;accompagner la création artistique?&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Comment permettre le passage du sujet à l&#039;objet?&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Définir les balises qui permettent de s&#039;orienter dans la pensée.&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;- Détecter les récurrences, et les répétitions.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-offset-2 col-md-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_0254e5&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Plan:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5&quot;&gt;{ plan }&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;sidebar-projet&quot;&gt;1.&amp;nbsp;Dispositif prothétique&lt;/p&gt;
+		&lt;a href=&quot;http://www.florentlagrange.eu/01-philosophies-1/dispositif&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;Accéder à la suite&lt;/i&gt;&lt;/a&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;2.&amp;nbsp;Enquète et quête philosophique&lt;/p&gt;
+		&lt;a href=&quot;http://www.florentlagrange.eu/01-philosophies-1/dispositif&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;Accéder à la suite&lt;/i&gt;&lt;/a&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;3.&amp;nbsp;Représentation et traduction à l&#039;écran&lt;/p&gt;
+		&lt;a href=&quot;http://www.florentlagrange.eu/01-philosophies-1/dispositif&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;Accéder à la suite&lt;/i&gt;&lt;/a&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;4.&amp;nbsp;Flux nomade&lt;/p&gt;
+		&lt;a href=&quot;http://www.florentlagrange.eu/01-philosophies-1/dispositif&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;Accéder à la suite&lt;/i&gt;&lt;/a&gt;
+
+		&lt;p class=&quot;sidebar-projet&quot;&gt;5.&amp;nbsp;Art, Système et régime de contrôle&lt;br /&gt;
+			&lt;a href=&quot;http://www.florentlagrange.eu/01-philosophies-1/dispositif&quot;&gt;&lt;i class=&quot;fa fa-long-arrow-right&quot;&gt;Accéder à la suite&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;p&quot;&gt;Le projet &lt;a&gt;[P]&lt;/a&gt; est un ensemble d’&lt;a&gt;échantillon&lt;/a&gt; de pièce extraite d’un corpus d’une recherche artistique. L’&lt;a&gt;assemblage&lt;/a&gt; de ces &lt;a&gt;fragments&lt;/a&gt; constitue une réflexion amenant l’élaboration d’une somme de concept formant une machine philosophique et une &lt;a&gt;topologie de recherche&lt;/a&gt;. La composition de l’œuvre s’appuie sur une structure composée de métadonnée (documentation extérieure à l’œuvre), d’un ensemble de données (Index, base, entité), d’une forme Diagrammatique explorant l’architecture de l’information et la forme de la représentation, image modélisée, écran et/ou tableau.&amp;nbsp; &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Echantillon&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;p&quot;&gt;L’exposition de cet œuvre donne lieu à la compilation de trois livres, un arrêt dans le temps d’un processus perpétuellement en mouvement et en réactualisation. La série sera lu par le spectateur d&#039;une manière narrative linéaire sous forme de livre, ou de catalogue.&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Ce dispositif regroupe trois grandes catégories.&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Cette constellation-œuvre tente de rendre visible dans sa forme définitive un nombre choisi de ces ensembles seraient fonctionnant simultanément. (Cf. Cauquelin)&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Le but de l&#039;artiste ne serait pas d&#039;instruire le spectateur, mais de lui transmettre des informations concernant une partition définit dans un intervalle de temps, d’un discours (Bergson)&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;L’objet de ce travail est d’utiliser un protocole qui ne se résout pas à produire une forme esthétique, mais à faire un état des lieux et d’une proposition d’une syntaxe d’une interprétation et d’en cataloguer les résultats&lt;span style=&quot;color:#212121&quot;&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;L’intention première de cette partition est de synchroniser un mode de communication afin d’acheminer une expérience commune, de la partager, puis de pérenniser sa transmission à d’autres personnes extérieures au projet. &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Situation (Contextualisation)&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;En fuite permanente de la standardisation des nouveaux médias et leurs impacts sur le comportement du quotidien, mon acte artistique est une sentinelle qui recherche une faille dans un système trop peu authentique, auquel je refuse d’adhérer. Sous forme de résistance et de refus d’accepter le mode opératoire imposés par les nouvelles technologies, les mafias culturelles, et contraint de s’infiltrer dans ses systèmes pour mieux les déjouer, mon travail est ce retour d’expérience, ce débogage, que je partage à titre préventif et pédagogique. Mon rôle est de rendre l’intériorisation de l’art de sa fonction d’opérateur social. Penser le passage de la condition à la réalisation.&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_04&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Indices&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu&quot;&gt;{ Indice}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;p&quot;&gt;Control and Communication in the Animal and the Machine », tel est le sous-titre du livre le plus célèbre du mathématicien étasunien Norbert Wiener, paru en anglais, à Paris, en 1948.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;ul&gt;
+				&lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;sidebar-projet&quot; href=&quot;http://www.florentlagrange.eu/index_P001.html&quot;&gt;&lt;b&gt;INDEX&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;
+					&amp;nbsp;&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;table class=&quot;table1&quot;&gt;
+				&lt;thead&gt;
+					&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+						&lt;th&gt;No. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+						&lt;th&gt;Lignes&lt;/th&gt;
+					&lt;/tr&gt;
+				&lt;/thead&gt;
+				&lt;tbody class=&quot;tableau&quot;&gt;
+					&lt;tr class=&quot;tableau&quot;&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R1]&amp;nbsp;&lt;/td&gt;
+						&lt;td class=&quot;tableau&quot;&gt;&lt;i&gt;I&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;META&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td&gt;1. Page de Titre&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td&gt;2. Titre&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td&gt;3. Résumé&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R2]&lt;/td&gt;
+						&lt;td&gt;II&lt;/td&gt;
+						&lt;td&gt;TEXTES&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R3]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;III&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;CODES&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td class=&quot;ref&quot;&gt;&amp;nbsp;&lt;/td&gt;
+						&lt;td&gt;1.&lt;/td&gt;
+						&lt;td&gt;CODES&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R4]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;IV&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;TOPOLOGIES&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R4]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;V&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;MODELISATION 3D&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td class=&quot;ref&quot;&gt;[R5]&lt;/td&gt;
+						&lt;td&gt;&lt;i&gt;VI&lt;/i&gt;&lt;/td&gt;
+						&lt;td&gt;OBJETS&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+		&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Introduction}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;p&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-name=&quot;{Situation}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction fragment col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Situation:&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur&quot;&gt;{ situation }&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&amp;nbsp;&lt;/p&gt;
+			&lt;i class=&quot;fa fa-cubes&quot;&gt;&lt;/i&gt;
+
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;Sur cette base, nous voulons montrer que la topologie, hors contexte géographique, constitue une forme de métaphore visuelle. Ce travail montre l’importance de la visualisation de l’information et de ses représentations spatiales.&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Introduction}&quot;&gt;
+		&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+			&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Ce cours se compose des sept chapitres suivants :&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 1 : &quot;Travailler avec son directeur de recherche&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 2 : &quot;Planifier et organiser sa recherche&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 3 : &quot;Définir son projet de recherche&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 4 : &quot;Élaborer sa problématique de recherche&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 5 : &quot;Mettre en œuvre ses méthodes de recherche&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 6 : &quot;« Boucler sa recherche » : de l&#039;introduction générale à la conclusion générale&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;Chapitre 7 : &quot;Bien préparer et réussir sa soutenance orale&quot;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;2. - Résumé en français&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;2. - Résumé en français&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Titre en anglais&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Résumé en anglais&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Mots clés en français&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Mots-clés en anglais&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;3. Table des matières&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;4. Coprs de la thèse&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;5. Sources:&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- sources primaires (archives écrites ou imprimées&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- Sources secondaires : information bibliographique (Bibliographie)&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;6. Annexes:&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;7. Index&lt;/p&gt;
+
+			&lt;hr class=&quot;hr_titre&quot; /&gt;
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;CHAPITRE i : Architecture informatique&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;CHAPITRE II :&amp;nbsp;Architectures d&#039;applications basées sur réseau&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;CHAPITRE III :&amp;nbsp;Styles architecturaux basés sur le réseau&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;3.1. Visualisation&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;3.1. Style de réplication&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;3.2. Hierarchical Styles&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;3.3. Styles de code mobile&lt;/p&gt;
+
+			&lt;p style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2;&quot;&gt;3.4. Hierarchical Styles&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/section&gt;
+
+		&lt;div class=&quot;modele_meta_description_article meta col-md-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;ul class=&quot;list-group fa-ul&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;li class=&quot;PPP_meta_texte sidebar_introduction sidebar-introduction&quot;&gt;&amp;nbsp;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row sidebar-introduction&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;BIBLIO&quot;&gt;
+		&lt;hr /&gt;
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;&lt;i class=&quot;fa fa-lg fa-bookmark-o&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Asendorf, C., and Lampe, A. (2013). Super Constellation: l’influence de l’aéronautique sur les arts et la culture (Paris, France: Éd. Macula)..&lt;/i&gt;&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;&lt;i class=&quot;fa fa-lg fa-bookmark-o&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2; line-height: 17.1429px;&quot;&gt;L’art au risque de la technique (Editions Complexe).&lt;/i&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;&lt;i class=&quot;fa fa-lg fa-bookmark-o&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2; line-height: 17.1429px;&quot;&gt;Bertin, J., Barbut, M., Bonin, S., and Arbellot, G. (2005). Sémiologie graphique: les diagrammes, les réseaux, les cartes (Paris, France: &amp;nbsp;en sciences sociales).&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;&lt;i class=&quot;fa fa-lg fa-bookmark-o&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2; line-height: 17.1429px;&quot;&gt;Dewey, J., Shusterman, R., and Buettner, S. (2010). L’art comme expérience (Paris, France: Gallimard, impr. 2010). Ferenczi, T. (2001).&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;&lt;i class=&quot;fa fa-lg fa-bookmark-o&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i style=&quot;font-variant-ligatures: normal; orphans: 2; widows: 2; line-height: 17.1429px;&quot;&gt;Crary, J., and Boidy, M. (2016). Techniques de l’observateur: vision et modernité au XIXe siècle (Bellevaux, France: Editions Dehors).&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;
+			&lt;hr /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row sidebar-introduction&quot; data-pg-name=&quot;BIBLIO&quot;&gt;
+		&lt;hr /&gt;&lt;strong&gt;Indices&lt;/strong&gt;
+
+		&lt;hr /&gt;
+		&lt;div class=&quot;modele_meta_description_article meta col-md-10 col-sm-10 col-xs-10 col-lg-10&quot;&gt;
+			&lt;ul&gt;
+				&lt;li data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-file-pdf-o fa-lg&quot;&gt;&lt;/i&gt;&amp;nbsp;Texte au fromat .pdf &amp;nbsp;&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;i class=&quot;fa fa-lg fa-file-text-o&quot;&gt;&amp;nbsp;&lt;/i&gt;DTD et XML&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;i class=&quot;fa fa-lg fa-crosshairs&quot;&gt;&amp;nbsp;&lt;/i&gt;Site Mirroir de la page&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;i class=&quot;fa fa-lg fa-check&quot;&gt;&amp;nbsp;&lt;/i&gt;Ajouter à la sélection &lt;i&gt; (En cours d&#039;installation)&lt;/i&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;ul class=&quot;list-group fa-ul&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;/ul&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;
+			&lt;hr /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;MIRROR&quot;&gt;
+		&lt;div class=&quot;col-md-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;ul class=&quot;list-group&quot;&gt;
+				&lt;li class=&quot;PPP_meta&quot;&gt;&lt;br /&gt;
+					&lt;b&gt;A télécharger&amp;nbsp;&lt;/b&gt;&lt;/li&gt;
+				&lt;li class=&quot;PPP_meta&quot;&gt;&lt;br /&gt;
+					&lt;b&gt;Données XML&amp;nbsp;&lt;/b&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;b&gt;Archives&amp;nbsp;&lt;/b&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;b&gt;Livre automatique&lt;/b&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Tue, 04 Jul 2017 07:23:31 +0200</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[-]]></vignettes><introduction><![CDATA[<p>-</p>
+]]></introduction><situation><![CDATA[<p>-</p>
+]]></situation><legende><![CDATA[-]]></legende><menuOrder><![CDATA[10]]></menuOrder></item>

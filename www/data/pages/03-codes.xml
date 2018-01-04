@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 23 Dec 2017 18:10:28 +0100</pubDate><title><![CDATA[03. Codes]]></title><url><![CDATA[03-codes]]></url><meta><![CDATA[Programme, Balise, Source, Matérialité, Digital, Numérique]]></meta><metad><![CDATA[[T1] : Situation
+Depuis quelques années, les recherches anglo-saxonnes sur la culture numérique ont pris un « tournant matériel ». Sous le nom de « Digital Studies », elles privilégient l’étude des propriétés des supports et logiciels informatiques, en prêtant une attention aux conditions socio-techniques de leur fabrication, à leur histoire et à leurs effets. Or, les Sciences de l’information et de la Communication défendent un tel positionnement depuis une vingtaine d’années. Cet article interroge la constitution de cet axe épistémologique en France, avant de présenter quelques travaux qui pourraient être rassemblés autour d’un « matérialisme numérique ».
+Cette ligne de recherche est une expérimentation à même le code.
+[T2] : Objectifs et Problématiques  
+Il entreprend d’articuler des briques logiciels entre elle afin e produire la double articulation entre un matériel de réflexion et un usage technique au service d’une idée.
+[T3] : Plan – Concept   
+Observation et analyse du code, modelé sur le langage naturel moyens d’amplification, médias d’expression et de le comparer à notre langage exprimé au quotidien.
+[T4] : Méthode   
+1. Mettre en place un système de diffusion prototype qui permette de rendre accessible et modulable une recherche en art.
+2. Tester puis intégrer (et sélectionner) des technologies stables.
+3. Comprendre en apprenant les particularités des différents langages informatique. 
+4. Acheminer une version première, puis la décliner par étude de cas à d’autre pratique artistique.
+5. Créer des points de connexion.
+6. Retracer une histoire de l’informatique propre à ma recherche.
+[T5] : Limites - Ouverture  
+]]></metad><menu><![CDATA[03. Codes]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_STANDARD.php]]></template><parent><![CDATA[carnets-de-recherches]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+    &lt;div class=&quot;row&quot; data-pg-name=&quot;TABLE DES MATIERES&quot;&gt;
+        &lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-name=&quot;TABLE&quot;&gt;
+            &lt;div class=&quot;block_probleme&quot;&gt;
+                &lt;i class=&quot;fa fa-list&quot;&gt;&lt;/i&gt;
+                &lt;p class=&quot;p&quot;&gt;&lt;b class=&quot;sous-titre&quot;&gt;Table&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;
+                &lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;01. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01-metadonnes/01-plan-de-nommage/?lang=fr&quot;&gt;Plan de nommage&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;02. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01metadonnes/02-lexiques&quot;&gt;Lexique&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;03. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01-metadonnes/03-signes/?lang=fr&quot;&gt;Signes&lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class=&quot;table_des_matieres&quot;&gt;04. 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/01-metadonnes/04-chaine-de-production/?lang=fr&quot;&gt;Chaîne de production&lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-8 col-sm-8 col-xs-8 col-lg-8&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block_probleme dossier_01&quot; data-pg-collapsed=&quot;&quot;&gt;
+                &lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;
+                &lt;p class=&quot;p&quot;&gt;&lt;b class=&quot;sous-titre&quot;&gt;Dispositif&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;
+                &lt;p class=&quot;p&quot;&gt;&amp;nbsp;&lt;/p&gt;
+                &lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+                Mon travail st une tentative d’assembler différentes unités élémentaires, voir organique, matériel, et d’en analyser les résultats de ces opérations les assemblages, le et sa constitution. C’est dans cet objet que mon travail s’effectue. L’objet finie et uniquement un lieu où est projeté l’intégralité de mes questions, c’est un lieu, un alibi qui me permet de confronter mes capacité physique et intellectuel, et d’en effectuer une auto-évaluation. La cristallisation de différentes formes plastique est utilisée sous forme de Benchmark qui permet de créer des points de repère chronologie et, ou des balises mémorielles à vocation de poser une structure et d’établir un apprentissage et de s’élever et de gérer sa connaissance et son énergie spirituelle
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-collapsed data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;méta borne &quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/03-codes/Vignettes_codes_01.png&quot; style=&quot;width: 100%;&quot; /&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center data-pg-collapsed&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;DATA&lt;br&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée.&amp;nbsp;ous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                    &amp;nbsp;
+                    &lt;hr /&gt;
+                    &lt;center&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/03-codes/01-donnees/?lang=fr&quot;&gt; 
+                            &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                        &lt;/a&gt;
+                    &lt;/center&gt;
+                    &lt;hr /&gt;
+                &lt;/center&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-collapsed data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;méta borne &quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/03-codes/Vignettes_codes_02.png&quot; style=&quot;width: 100%;&quot; /&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center data-pg-collapsed&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;Database&lt;br&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée.&amp;nbsp;ous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                    &amp;nbsp;
+                    &lt;hr /&gt;
+                    &lt;center&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/03-codes/02-database/?lang=fr&quot;&gt; 
+                            &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                        &lt;/a&gt;
+                    &lt;/center&gt;
+                    &lt;hr /&gt;
+                &lt;/center&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;méta borne &quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/03-codes/Vignettes_codes_03.png&quot; style=&quot;width: 100%;&quot; /&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center data-pg-collapsed&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;PROCESS&lt;br&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée.&amp;nbsp;ous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                    &amp;nbsp;
+                    &lt;hr /&gt;
+                    &lt;center&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/03-codes/03-process/?lang=fr&quot;&gt; 
+                            &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                        &lt;/a&gt;
+                    &lt;/center&gt;
+                    &lt;hr /&gt;
+                &lt;/center&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-collapsed data-pg-name=&quot;PUBLICATION&quot;&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;méta borne &quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/03-codes/Vignettes_codes_04.png&quot; style=&quot;width: 100%;&quot; /&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. I&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center data-pg-collapsed&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;ÉCRAN&lt;br&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée.&amp;nbsp;ous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                    &amp;nbsp;
+                    &lt;hr /&gt;
+                    &lt;center&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/03-codes/04-screenbased/&quot;&gt; 
+                            &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                        &lt;/a&gt;
+                    &lt;/center&gt;
+                    &lt;hr /&gt;
+                &lt;/center&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-name=&quot;PUBLICATION&quot; data-pg-collapsed&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/Vignettes_diagrammes_10.png&quot; style=&quot;width: 100%;&quot;&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. II&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;THEMEs / TEMPLATES&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                &lt;/center&gt;
+                &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée. Nous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                &lt;br&gt; 
+                &lt;hr /&gt;
+                &lt;center&gt;
+                    &lt;a href=&quot;http://www.florentlagrange.eu/04-diagrammes/10-templates/?lang=fr&quot;&gt; 
+                        &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                    &lt;/a&gt;                     
+                &lt;/center&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-name=&quot;PUBLICATION&quot; data-pg-collapsed&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/Vignettes_diagrammes_11.png&quot; style=&quot;width: 100%;&quot;&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. II&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;WIREFRAME&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                &lt;/center&gt;
+                &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée. Nous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                &lt;br&gt; 
+                &lt;hr /&gt;
+                &lt;center&gt; 
+                    &lt;a href=&quot;http://www.florentlagrange.eu/04-diagrammes/11-wireframe/?lang=fr&quot;&gt; 
+                        &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                    &lt;/a&gt;
+                &lt;/center&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-name=&quot;PUBLICATION&quot; data-pg-collapsed&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/Vignettes_diagrammes_12.png&quot; style=&quot;width: 100%;&quot;&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. II&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;UX&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                &lt;/center&gt;
+                &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée. Nous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                &lt;br&gt; 
+                &lt;hr /&gt;
+                &lt;center&gt; 
+                    &lt;a href=&quot;http://www.florentlagrange.eu/04-diagrammes/09-ui/?lang=fr&quot;&gt; 
+                        &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                    &lt;/a&gt;
+                &lt;/center&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-md-4 col-lg-4 col-sm-4 col-xs-4&quot; data-pg-name=&quot;PUBLICATION&quot; data-pg-collapsed&gt;
+            &lt;div class=&quot;block&quot;&gt;
+                &lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/Vignettes_diagrammes_12.png&quot; style=&quot;width: 100%;&quot;&gt;
+                &lt;p class=&quot;couleur_A carnet_travaux_titre couleur_Recherche&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;No. II&lt;/b&gt; &amp;nbsp;&lt;/p&gt;
+                &lt;center&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;UI&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                    &lt;b class=&quot;titre_A&quot;&gt;&lt;br&gt;&lt;/b&gt;
+                &lt;/center&gt;
+                &lt;p class=&quot;carnet_texte recherches_zone_textes&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée. Nous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+                &lt;br&gt; 
+                &lt;hr /&gt;
+                &lt;center&gt; 
+                    &lt;a href=&quot;http://www.florentlagrange.eu/04-diagrammes/09-ui/?lang=fr&quot;&gt; 
+                        &lt;button id=&quot;button&quot;&gt;&lt;/button&gt;
+                    &lt;/a&gt;
+                &lt;/center&gt;
+                &lt;hr&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Mon, 02 Jan 2017 14:23:15 +0100</creDate><user><![CDATA[admin]]></user><projet><![CDATA[]]></projet><titre><![CDATA[]]></titre><date><![CDATA[]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Image]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3><menuOrder><![CDATA[3]]></menuOrder></item>

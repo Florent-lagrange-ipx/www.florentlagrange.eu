@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<maintenance><onoff/><message>&lt;meta charset="utf-8"&gt;&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;&lt;meta name="description" content="Critical Art Studies - Florent Lagrange - Art et exp&#xE9;rimentations en usages et pratiques du num&#xE9;riques."&gt;&lt;meta name="author" content="Florent Lagrange"&gt;&#xD;
+&lt;title&gt;&lt;/title&gt;&#xD;
+&lt;!-- Bootstrap core CSS --&gt;&lt;!-- Custom styles for this template --&gt;&lt;!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --&gt;&lt;!--[if lt IE 9]&gt;&#xD;
+      &lt;script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"&gt;&lt;/script&gt;&#xD;
+      &lt;script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"&gt;&lt;/script&gt;&#xD;
+    &lt;![endif]--&gt;&lt;meta charset="utf-8"&gt;&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;&lt;meta name="description" content="Critical Art Studies - Florent Lagrange - Art et exp&#xE9;rimentations en usages et pratiques du num&#xE9;riques."&gt;&lt;meta name="keywords" content="Florent Lagrange, Digital Humanities, Internet eXchange Point, Ecole, Edition, Logiciel, Plateforme, Echange, Partage, Num&#xE9;rique, Art, Lyon, Rhone-Alpes ,code ,P&#xE9;dagogie,Critical code Studies,Software Studies,Collaboratif"&gt;&lt;meta name="author" content="Florent Lagrange"&gt;&#xD;
+&lt;link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;link href="assets/css/principal.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;link href="assets/css/variable.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;link href="assets/css/cover.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;link href="assets/fonts/ArchivoNarrow/Archivo_Narrow.css" rel="stylesheet" type="text/css" /&gt;&#xD;
+&lt;div class="site-wrapper"&gt;&#xD;
+	&lt;div class="site-wrapper-inner"&gt;&#xD;
+		&lt;div class="cover-container"&gt;&#xD;
+			&lt;div class="inner cover"&gt;&#xD;
+				&lt;h1 class="cover-heading"&gt;&#xA0;&lt;/h1&gt;&#xD;
+&#xD;
+				&lt;p&gt;&#xA0;&lt;/p&gt;&#xD;
+&#xD;
+				&lt;h1 class="cover-heading"&gt;&lt;img alt="Florent Lagrange - Pr&#xE9;sentation de l'index - 2016" class="image pg-empty-placeholder" src="images/index/01.jpg" title="Bienvenue sur le site officiel de Florent Lagrange" width="100%" /&gt;&lt;/h1&gt;&#xD;
+&#xD;
+				&lt;p style="color: rgb(51, 51, 51); font-variant-ligatures: normal; orphans: 2; widows: 2; font-size: 14px; font-family: Archivo Narrow; text-align: justify; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;cet espace a &#xE9;t&#xE9; cr&#xE9;&#xE9; afin de partager des ressources &#xE9;ducatives en relation avec les pratiques et les usages du num&#xE9;rique dans le champs artistique. Les donn&#xE9;es pr&#xE9;sentent sur se site sont sous licence Creative commons.&lt;/b&gt;&lt;/p&gt;&#xD;
+				&#xA0;&#xD;
+&#xD;
+				&lt;p style="color: rgb(51, 51, 51); font-variant-ligatures: normal; orphans: 2; widows: 2; font-size: 14px; font-family: Archivo Narrow; text-align: justify; background-color: rgb(255, 255, 255);"&gt;&lt;b&gt;Site en cours d'installation.&#xA0;&lt;/b&gt;&lt;/p&gt;&#xD;
+&#xD;
+				&lt;p class="index_texte_principal" style="color: rgb(51, 51, 51); font-variant-ligatures: normal; orphans: 2; widows: 2; font-size: 12px; font-family: Archivo Narrow; text-align: justify; background-color: rgb(255, 255, 255);"&gt;&lt;i&gt;Merci pour votre compr&#xE9;hension&lt;/i&gt;&lt;/p&gt;&#xD;
+&#xD;
+				&lt;p class="lead"&gt;&#xA0;&lt;/p&gt;&#xD;
+			&lt;/div&gt;&#xD;
+		&lt;/div&gt;&#xD;
+	&lt;/div&gt;&#xD;
+&lt;/div&gt;&#xD;
+&lt;!-- Bootstrap core JavaScript&#xD;
+    ================================================== --&gt;&lt;!-- Placed at the end of the document so the pages load faster --&gt;&lt;script src="assets/js/jquery.min.js"&gt;&lt;/script&gt;&lt;script src="bootstrap/js/bootstrap.min.js"&gt;&lt;/script&gt;&lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;&lt;script src="assets/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;</message></maintenance>

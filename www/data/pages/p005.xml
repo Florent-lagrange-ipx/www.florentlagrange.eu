@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 30 Jun 2017 20:37:47 +0200</pubDate><title><![CDATA[[P005] - Machine which seem to think]]></title><url><![CDATA[p005]]></url><meta><![CDATA[Education, pédagogie, dispositf, recherche, mémoire,  méthode]]></meta><metad><![CDATA[Dans le contexte qui est le nôtre aujourd’hui : Celui de la globalisation et de la standardisation de la pensée, traversant l’homme dans une structure mentale formatée.
+
+Celui de l’enseignement tel qu’il a été dispensé jusqu’à aujourd’hui, transmission de savoirs plus que d’expériences.
+
+Celui de l’accélération des moyens technologiques, ce qui a conduit à fabriquer une société d’immédiateté, où il suffit d’appuyer sur un bouton pour obtenir tout en peu de secondes ; ce qui anéanti le temps imparti à la réflexion, et réduit tout accès au processus, germe de créativité.
+
+Contexte où la duplication de l’information dépersonnalise la source et le récepteur.
+
+Les technologies numériques, les nouveaux dispositifs d’images, la vitesse de circulation des informations, la capacité de stockage et de partage propre aux nouveaux médias, ont profondément modifié nos manières de penser et de voir, d’apprendre et de se souvenir, d’agir et de s’émouvoir.]]></metad><menu><![CDATA[P005 - Future of the school]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_PROJET.php]]></template><parent><![CDATA[projets]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;col-md-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;ul class=&quot;list-group&quot;&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Titre&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Type d&#039;oeuvre&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Technique&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;No.&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Date&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Lieu&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Ref.&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Format&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Lieu de conservation&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;Mots-clés&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;b&gt;A télécharger&amp;nbsp;&lt;/b&gt;&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta&quot;&gt;&lt;br /&gt;
+				&lt;b&gt;Données XML&amp;nbsp;&lt;/b&gt;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;b&gt;Archives&amp;nbsp;&lt;/b&gt;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;b&gt;Livre automatique&lt;/b&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6 modele_meta_description_article meta&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;ul class=&quot;list-group&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Oeuvre orienté Objet&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Installation - combinatoire - médias mixtes&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Technique mixtes&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;P006&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;septembret 2013&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Lyon.&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Version 1.0&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;16 m x 12m&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Lyon - Ain - Haute-Savoie - Paris&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte&quot;&gt;Jardinage, diagramme, plan, montage spatiale &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;br /&gt;
+				&amp;nbsp;&lt;/li&gt;
+			&lt;li class=&quot;PPP_meta_texte sidebar_introduction sidebar-introduction&quot;&gt;&lt;i class=&quot;fa fa-file-pdf-o fa-lg&quot;&gt;&lt;/i&gt;&amp;nbsp;Texte au fromat .pdf &amp;nbsp;&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;i class=&quot;fa fa-lg fa-file-text-o&quot;&gt;&amp;nbsp;&lt;/i&gt;DTD et XML&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;i class=&quot;fa fa-lg fa-crosshairs&quot;&gt;&amp;nbsp;&lt;/i&gt;Site Mirroir de la page&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+				&lt;br /&gt;
+				&lt;i class=&quot;fa fa-lg fa-check&quot;&gt;&amp;nbsp;&lt;/i&gt;Ajouter à la sélection &lt;i&gt; (En cours d&#039;installation)&lt;/i&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1200x1800__04.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;hr /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_2480x3508_300-ppp_30.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__03.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__27.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;hr /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 texte_PPP&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;h4&gt;Description&lt;/h4&gt;
+
+		&lt;p&gt;&lt;b style=&quot;line-height: 1.42857143; background-color: rgba(0, 0, 0, 0);&quot;&gt;Contexte social&lt;/b&gt;: Cette œuvre a été élaborée pour le Prix de Paris en septembre 2013. Le contexte historique de l&#039;œuvre se situe à la période de la troisième révolution industriel. Les esprits dans les beaux-arts sont marqués par une tendances à tendre vers l&#039;orientation des créations vers les pratiques amateurs. Suite à la crise économique de 2008, le contexte géographique de l&#039;Europe éclate et la fragilité vacille.&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;line-height: 1.42857143; background-color: rgba(0, 0, 0, 0);&quot;&gt;Contexte artistique&lt;/b&gt;&amp;nbsp;:&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;L&#039;œuvre ne contient pas de personnage, mais par contre l&#039;œuvre est activée par le spectateur. Les seuls individus présents sont la représentation de Marcel Duchamp et de Alan Turing. Les actions présentées sont des associations d&#039;idées, par jeu de forme et de couleur. Tous les objets sont au même niveau, il n&#039;y en a pas un qui domine l&#039;autre. Au mur, les formes textuels présentent sont des fragments de codes. Ce sont les seules individuel et inscriptions qui permettent de fournir un indice de lecture. L&#039;environnement de l&#039;œuvre est un parc grillagé et clos. Les barbelés alentours nous enfermes au sein de l&#039;œuvre. L&#039;œuvre est une installation et n&#039;appartient pas particulièrement à un genre particulier.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;b style=&quot;line-height: 1.42857143; background-color: rgba(0, 0, 0, 0);&quot;&gt;Oeuvre et spectateur:&amp;nbsp;&lt;/b&gt;&lt;o:p&gt;&lt;/o:p&gt;Cette œuvre est en trois dimensions est construite sur une grille au sol en deux dimensions. Cette œuvre exporte des fragments de jardin en intérieur. Ces prélèvements contextualisent un lieu venu d&#039;ailleurs. Cette œuvre pourrait être reconstruites ailleurs, le lieu n&#039;a aucune impacte sur le sens de celle-ci. Cette œuvre est imposant, mais son accès est perturbé par le grillage et le portail. Elle reste néanmoins accessible. Cette œuvre est construite sus le principe de la mise en abîme. Il se situe à l&#039;intersection de petites cages qu&#039;il aperçoit de l&#039;extérieure et d&#039;une plus grande où il est pris dedans. Le spectateur est censé s&#039;évader dans ces pensées et naviguer de manière aléatoire. Cette œuvre n&#039;est plus installée, et chaque fragment se sont dispersés à travers le territoire.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;br /&gt;
+			&lt;b style=&quot;line-height: 1.42857143; background-color: rgba(0, 0, 0, 0);&quot;&gt;Personnages&lt;/b&gt;&amp;nbsp;:L&#039;œuvre s&#039;introduit entre deux personnages, Anat et moi-même. Les actions représentées sont une tentative de communication entre deux modes de langage, de pensée. L&#039;œuvre est l&#039;objet en question. C&#039;est l&#039;ensemble du courrier qui est l&#039;œuvre. Les inscriptions confrontent deux langages, l&#039;hébreu et l&#039;arabe. Chaque œuvre parle de l&#039;environnement de réception et de transmission de ce même courrier. Cette œuvre appartient au mail art, l&#039;art algorithmique.&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 texte_PPP&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;h4&gt;Caractéristique de l&#039;oeuvre&amp;nbsp;&lt;/h4&gt;
+
+		&lt;p&gt;&lt;b&gt;Le support&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Les support réel et virtuel sont présent dans l&#039;œuvre. C&#039;est un patchwork de fragments qui constitue un puzzle géant. L&#039;œuvre est marqué par la présence de végétaux.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;La forme&lt;/b&gt;&amp;nbsp;:&amp;nbsp;La correspondance dans les formes et les couleurs permet de faire un montage spatial des objets. L&#039;interprétation du spectateur est la clé de l&#039;œuvre. Il n&#039;y a pas de sens précis ou de message, juste un montage de forme. Sont forme néanmoins sont uniquement des formes utilisées au quotidien. La lecture de l&#039;œuvre se réalise à différentes échelles, à différent niveaux.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;La lumière&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Il n&#039;y a pas de lumière artificielle. La seule lumière présente est la lumière des écrans. L&#039;œuvre n&#039;est pas sombre, mais au contraire plutôt lumineuse.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;La couleur&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Les couleurs utilisées sont multiples et diverses. C&#039;est un panel de couleur qui seront travaillées dans l&#039;œuvre. Le passage du papier à l&#039;écran est recherché. Utilisée par touche et fragmentée, ma couleur est ici une valeur de classification principale sur chaque objet.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;La matière&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Les matières utilisées sont multiples : organiques, mécaniques, plastiques et minérales. Elle est mise en évidence par la présente de la terre et de plusieurs composes de matières alimentaires.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;Le corps&lt;/b&gt;&amp;nbsp;:&amp;nbsp;L&#039;engagement physique de l&#039;auteur est un investissement massif dans l&#039;installation des formes. Dans chaque recoin de l&#039;œuvre se situe des anecdotes et des clins d&#039;œil à l&#039;image du crin de cheval sur les barbelés. Les outils de travail servent également de trace dans la construction de l&#039;œuvre et son laissés à même l&#039;installation. De par son arrangement et sa minutie, l&#039;auteur à tenter de minimiser le nombre de traces laissées. Il tente de garder une certaine neutralité dans son propos.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;br /&gt;
+			&lt;b&gt;Les outils&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Les outils utilisés sont, comme précisé précédemment, laissés à même l&#039;œuvre, abandonnés. Les outils sont néanmoins principalement des outils d&#039;accrochages et d&#039;installation. (Visseuse, marteau, rouleau de barbelé etc…)&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;br /&gt;
+			&lt;b&gt;Le temps&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Le temps est principalement marqué par la boucle et l&#039;intervalle. L&#039;œuvre est présentée à un instant T, et pourrait se poursuivre sans cesse. Les végétaux sont être une trace du temps et font évoluer l&#039;œuvre par la suite.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;br /&gt;
+			&lt;b&gt;L&#039;espace de l&#039;oeuvre&lt;/b&gt;&amp;nbsp;:&amp;nbsp;L&#039;œuvre est enfermé dans un espace clos. Nous y entrons par le portail du jardin. Les îlots sont répartis de manière proportionnée. Elles forment une constellation d&#039;archipel. La composition de l&#039;espace est disposée de manière à faire déambuler le spectateur. Cet assemblage dépose le regard de manière ponctuée. Elle accompagne le chemin de la pensée. Le rythme visuel est marqué par des ressemblance de forme (boite, couleur, matière, fonction etc…). L&#039;œuvre fige ou pose des limites à l&#039;imagination du spectateur. Ces mêmes limitent sont des contraintes qui cadre et offre une grammaire de lecture. Le schéma de composition est un scénario ou le début d&#039;un roman hypertextuel.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;br /&gt;
+			&lt;b&gt;Le style de l&#039;auteur&lt;/b&gt;&amp;nbsp;:&amp;nbsp;L&#039;auteur se situe à l&#039;extérieur de l&#039;œuvre. Il offre son point de vue de dessus.&amp;nbsp; Le nombre de plan est multiples et vous avez différents degrés de lecture. Les fragments présentés sont isolés et encadrés. Le geste de dépôt et la situation des objets est ce qui constitue la ligne de force dans l&#039;œuvre.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;br /&gt;
+			&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 texte_PPP&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;h4&gt;Clés de lecture&lt;/h4&gt;
+
+		&lt;p&gt;&lt;b&gt;Le travail plastique&lt;/b&gt;&amp;nbsp;:&amp;nbsp;La constellation de l&#039;œuvre et des objets est un processus de travail récurrent dans le démarche de l&#039;auteur. Les fragments, le code, la décomposition du langage, sémantiques et sémiologiques sont des clés de l&#039;auteurs récurrentes. Par association libre, cet œuvre libère la pensée du spectateur et n&#039;interprète rien. Cette œuvre permet une ballade hors du temps et de l&#039;espace. Elle est une mimesis de la réalité et retranscris sous forme de code la réalité. Elle cherche à reproduire des sensations reproduites au quotidien. L&#039;auteur utilise un méta langage dans le champ de l&#039;art.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;La narration&lt;/b&gt;&amp;nbsp;:&amp;nbsp;Tous les éléments de la narration sont décomposés et dépliés. Nous pourrions parler d&#039;une forme de storytelling ou d&#039;hypertextualité. La présence d&#039;une séquence vidéo des Sims, vient ici portés l&#039;œuvre dans une dimension plus mystérieuse.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;Contexte historique&lt;/b&gt;:&amp;nbsp;L&#039;œuvre s&#039;inscrit dans la logique du mouvement de l&#039;école de Chicago sur l&#039;interactionnisme. L&#039;œuvre témoigne d&#039;un projet de métaphysique. L&#039;œuvre libère le message et ne l&#039;enferme pas.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;Interprétation de l’auteur &lt;/b&gt;:&amp;nbsp;L&#039;auteur a un rapport ambigu à la nature et à la massification des informations. Cette œuvre est la dernière étape de mes études.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;Titre et liens &lt;/b&gt;:&amp;nbsp;Le titre nous réfère à l&#039;histoire de l&#039;informatique et à la programmation orienté objet. Cette forme nous implique dans le fait que l&#039;informatique a également une influence dans la vie courante. C&#039;est une métaphore de la vie quotidienne.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&lt;b&gt;Référence&lt;/b&gt;:&amp;nbsp;Cette œuvre faite référence à Alan Kay, Marcel Duchamp, Alan Turing, Stéphane Mallarmé, Lev Manovich, Friedrich Fröebel. Elie During, Julien Prévieux, Elsa Boyer sont des auteurs qui m&#039;ont inspiré dans mes recherches. Suite à la présentation de cette œuvre, cette œuvre a été conformé par le gain du prix de Paris.&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:
+10.0pt;line-height:106%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-bidi-font-family:
+Consolas&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1200x1800__00.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1200x1800__05.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1200x1800__06.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1200x1800__09.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1200x1800__29.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__07.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__11.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__12.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__14.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__15.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__20.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__21.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__24.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/PPP/p006/p006-art_oriente_objet_1800x1200__25.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;fig.P006.01&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;&lt;i&gt;Détail d&#039;un fragment végétal&lt;br /&gt;
+			Lyon. 201&lt;/i&gt;3&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr /&gt;&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[37]]></menuOrder><projet><![CDATA[[P005]]]></projet><titre><![CDATA[]]></titre><date><![CDATA[juin 2015]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Image]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[http://www.florentlagrange.eu/data/uploads/projets/P005/etagere_couleur_dispositif.png]]></vignettes><introduction><![CDATA[]]></introduction><situation><![CDATA[]]></situation><legende><![CDATA[]]></legende><creDate>Fri, 13 Jan 2017 07:10:21 +0100</creDate><user><![CDATA[admin]]></user></item>

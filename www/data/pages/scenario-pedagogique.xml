@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 17 Jan 2017 16:09:37 +0100</pubDate><title><![CDATA[Scénario pédagogique]]></title><url><![CDATA[scenario-pedagogique]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Scénario pédagogique]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[cycle-iv]]></parent><content><![CDATA[&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt; [101] - Avatar&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[011]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Identité&lt;/li&gt;
+	&lt;li&gt;[012]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Personnalité&lt;/li&gt;
+	&lt;li&gt;[013]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Description&lt;/li&gt;
+	&lt;li&gt;[014]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Expression&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B &lt;/strong&gt;Couleur&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[021]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Système de couleur&lt;/li&gt;
+	&lt;li&gt;[022]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dégradé&lt;/li&gt;
+	&lt;li&gt;[023]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Du papier à l’écran&lt;/li&gt;
+	&lt;li&gt;[024]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Lumière&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;C &lt;/strong&gt;Plan, Carte&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[031]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Échelle&lt;/li&gt;
+	&lt;li&gt;[032]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Coordonnée&lt;/li&gt;
+	&lt;li&gt;[033]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Territoire et tuile&lt;/li&gt;
+	&lt;li&gt;[034]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Orientation et Navigation&lt;/li&gt;
+	&lt;li&gt;[035]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Scénographie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D &lt;/strong&gt;Corps&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[041]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Proportion&lt;/li&gt;
+	&lt;li&gt;[042]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mouvement, marche&lt;/li&gt;
+	&lt;li&gt;[043]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Geste&lt;/li&gt;
+	&lt;li&gt;[044]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Détail&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E &lt;/strong&gt;Animation&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[051] Scénario&lt;/li&gt;
+	&lt;li&gt;[052] GIf Animé&lt;/li&gt;
+	&lt;li&gt;[053] Flip Book&lt;/li&gt;
+	&lt;li&gt;[054] Bande dessiné&lt;/li&gt;
+	&lt;li&gt;[055] Court Métrage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;F &lt;/strong&gt;Guide&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[061] Couverture&lt;/li&gt;
+	&lt;li&gt;[062] Synopsis&lt;/li&gt;
+	&lt;li&gt;[063] Structure du livre&lt;/li&gt;
+	&lt;li&gt;[064] Typographie&lt;/li&gt;
+	&lt;li&gt;[065] Mise en page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;G&amp;nbsp; &lt;/strong&gt;Logo&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[071] Enseigne&lt;/li&gt;
+	&lt;li&gt;[072] Logo de marque&lt;/li&gt;
+	&lt;li&gt;[073] Charte colorimétrique&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;H &lt;/strong&gt;Pagination&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[081] Composition&lt;/li&gt;
+	&lt;li&gt;[082] Cadrage&lt;/li&gt;
+	&lt;li&gt;[083] Champ / Hors-champ&lt;/li&gt;
+	&lt;li&gt;[084] Annotation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;F &lt;/strong&gt;Architecture&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;[091] Axonométrie&lt;/li&gt;
+	&lt;li&gt;[092] Perspective&lt;/li&gt;
+	&lt;li&gt;[093] Module élémentaire (Forme)&lt;/li&gt;
+	&lt;li&gt;[094] Plein Vide&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;H &lt;/strong&gt;Robot&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I &lt;/strong&gt;Scratch&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><test><![CDATA[test]]></test><test2><![CDATA[2]]></test2><creDate>Tue, 17 Jan 2017 11:43:52 +0100</creDate><user><![CDATA[admin]]></user><menuOrder><![CDATA[1]]></menuOrder></item>

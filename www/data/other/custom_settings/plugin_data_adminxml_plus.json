@@ -1,0 +1,111 @@
+{
+	"tab": {
+		"lookup": "adminxml_plus",
+		"label": "AdminXML Plus",
+		"version": "0.1",
+		"enableCodeDisplay": false,
+		"enableReset": true
+	},
+	"settings": [
+		{
+			"lookup": "section_primary",
+			"label": "Couleurs primaires",
+			"type": "section-title"
+		},
+		{
+			"lookup": "primary_0",
+			"label": "Arri\u00e8re-plan onglet actif, liens point\u00e9s du curseur",
+			"type": "color",
+			"access": "normal",
+			"value": "#444444",
+			"default": "#0E1316"
+		},
+		{
+			"lookup": "primary_1",
+			"label": "Arri\u00e8re-plan onglets inactifs, texte onglet actif point\u00e9 du curseur",
+			"type": "color",
+			"access": "normal",
+			"value": "#111111",
+			"default": "#182227"
+		},
+		{
+			"lookup": "primary_2",
+			"label": "Couleur inf\u00e9rieure du d\u00e9grad\u00e9 header",
+			"type": "color",
+			"access": "normal",
+			"value": "#333333",
+			"default": "#283840"
+		},
+		{
+			"lookup": "primary_3",
+			"label": "S\u00e9parateurs, liens inactifs",
+			"type": "color",
+			"access": "normal",
+			"value": "#333333",
+			"default": "#415A66"
+		},
+		{
+			"lookup": "primary_4",
+			"label": "Couleur sup\u00e9rieure du d\u00e9grad\u00e9 header",
+			"type": "color",
+			"access": "normal",
+			"value": "#333333",
+			"default": "#618899"
+		},
+		{
+			"lookup": "primary_5",
+			"label": "Lien du site",
+			"type": "color",
+			"access": "normal",
+			"value": "#E8EDF0",
+			"default": "#E8EDF0"
+		},
+		{
+			"lookup": "primary_6",
+			"label": "Couleur texte onglets inactifs, s\u00e9parateurs",
+			"type": "color",
+			"access": "normal",
+			"value": "#E3E3E3",
+			"default": "#AFC5CF"
+		},
+		{
+			"lookup": "section_secondary",
+			"label": "Couleurs secondaires",
+			"type": "section-title"
+		},
+		{
+			"lookup": "secondary_0",
+			"label": "Navigation lat\u00e9rale: ombre de texte onglet actif ",
+			"type": "color",
+			"access": "normal",
+			"value": "#9F2C04",
+			"default": "#9F2C04"
+		},
+		{
+			"lookup": "secondary_1",
+			"label": "Navigation lat\u00e9rale: couleur arri\u00e8re-plan onglet actif, sous-titres de page",
+			"type": "color",
+			"access": "normal",
+			"value": "#CF3805",
+			"default": "#CF3805"
+		},
+		{
+			"lookup": "theme_gen_author",
+			"label": "Author",
+			"type": "text",
+			"access": "hidden"
+		},
+		{
+			"lookup": "theme_gen_link",
+			"label": "Author URL",
+			"type": "text",
+			"access": "hidden"
+		},
+		{
+			"lookup": "plugin_lang",
+			"label": "Choisir un th\u00e8me existant;par;Activer;Exporter le th\u00e8me actuel;Nom du th\u00e8me;Auteur;Lien auteur;Exporter admin.xml;Ceci n'est qu'une pr\u00e9visualisation, n'oubliez as de sauvegarder pour confirmer les changements.",
+			"type": "text",
+			"access": "hidden"
+		}
+	]
+}

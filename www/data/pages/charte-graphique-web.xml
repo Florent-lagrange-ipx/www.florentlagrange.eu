@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 Nov 2017 16:29:41 +0100</pubDate><title><![CDATA[05. Charte Graphique Web]]></title><url><![CDATA[charte-graphique-web]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Charte Graphique Web]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_RECHERCHES.php]]></template><parent><![CDATA[10-charte-graphique]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;hr class=&quot;hr_css_01&quot; /&gt;&lt;/div&gt;
+
+		&lt;table class=&quot;table&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;thead data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;th&gt;#&lt;/th&gt;
+					&lt;th&gt;TYPOGRAPHIE&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td class=&quot;header_nom-du-site&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_nom-du-site&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_nom-du-site { font-size: 18px; }&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td class=&quot;header_logo&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_logo&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_logo{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: center;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_statut&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_statut&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_statut{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 14px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						color: #ada7a7;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_hashtag&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_hashtag&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_hashtag{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-decoration: none;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 11px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-style: italic;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: left;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						padding-top: 20px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;
+			&lt;hr class=&quot;hr_css_01&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;table class=&quot;table&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;thead data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;th&gt;#&lt;/th&gt;
+					&lt;th&gt;PRINCIPAL&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td class=&quot;header_nom-du-site&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_nom-du-site&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_nom-du-site { font-size: 18px; }&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td class=&quot;header_logo&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_logo&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_logo{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: center;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_statut&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_statut&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_statut{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 14px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						color: #ada7a7;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_hashtag&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_hashtag&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_hashtag{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-decoration: none;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 11px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-style: italic;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: left;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						padding-top: 20px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;
+			&lt;hr class=&quot;hr_css_01&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;table class=&quot;table&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;thead data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;th&gt;#&lt;/th&gt;
+					&lt;th&gt;HEADER&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td class=&quot;header_nom-du-site&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.header_nom-du-site&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;{font-size: 18px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td class=&quot;header_logo&quot;&gt;
+						&lt;div class=&quot;navbar-header pg-empty-placeholder header_logo col-sm-6 col-xs-6 col-md-6 col-lg-6&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;LOGO&quot;&gt;
+							&lt;div id=&quot;logo&quot;&gt;
+								&lt;h1&gt;&lt;a href=&quot;index.html&quot;&gt;&lt;img alt=&quot;Logo&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/annexes/07-charte-graphique-web/gabarit_01.png&quot; width=&quot;100%&quot; /&gt; &lt;/a&gt;&lt;/h1&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.header_logo&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;{text-align: center;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_statut&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_statut&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;{font-size: 14px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						color: #ada7a7;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td class=&quot;header_hashtag&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_hashtag&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;{text-decoration: none;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 11px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-style: italic;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: left;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						padding-top: 20px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;Exemple :&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12 CSS_Header&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;div class=&quot;container&quot; data-pg-name=&quot;HEADER&quot;&gt;
+				&lt;div class=&quot;row&quot;&gt;&lt;!-- ------------------------------------------------------------------------------------------------- --&gt;&lt;!-- ----Début : Logo -------------------------------------------------------------------------------- --&gt;
+					&lt;div class=&quot;navbar-header col-md-1 pg-empty-placeholder header_logo col-sm-1 col-xs-1 col-lg-1&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;LOGO&quot;&gt;
+						&lt;div id=&quot;logo&quot;&gt;
+							&lt;h1&gt;&lt;a href=&quot;index.html&quot;&gt;&lt;img alt=&quot;Logo&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/annexes/07-charte-graphique-web/gabarit_01.png&quot; width=&quot;100%&quot; /&gt; &lt;/a&gt;&lt;/h1&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;HASHTAG&quot;&gt;
+						&lt;p class=&quot;header_nom-du-site&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+						&lt;p&gt;Florent Lagrange&lt;/p&gt;
+
+						&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+						&lt;p class=&quot;header_statut&quot;&gt;[Artiste-chercheur].&lt;/p&gt;
+
+						&lt;div class=&quot;header_hashtag&quot; data-pg-collapsed=&quot;&quot; id=&quot;site-name&quot;&gt;
+							&lt;p&gt;# Critical_Code_Studie # Art # Code # Humanities # Art # Code # Humanitie&lt;/p&gt;
+
+							&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+							&lt;!--?php } ?--&gt;&lt;/div&gt;
+					&lt;/div&gt;
+					&lt;!-- ------------------------------------------------------------------------------Fin : Logo------ --&gt;&lt;!-- ----Début : Hashtag -------------------------------------------------------------------------------- --&gt;&lt;!-- ------------------------------------------------------------------------------Fin Hashtag------ --&gt;&lt;!-- ----Début : Navigation -------------------------------------------------------------------------------- --&gt;
+
+					&lt;div class=&quot;col-md-8 col-md-offset-1 col-sm-8 col-sm-offset-1 col-xs-offset-1 col-xs-8 col-lg-8 col-lg-offset-1&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;NAVIGATION&quot;&gt;
+						&lt;ul class=&quot;nav navbar-nav navbar-right header_navigation&quot;&gt;
+							&lt;li class=&quot;nav-item active&quot;&gt;&lt;!--?php get_navigation(return_page_slug()); ?--&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12 header_ariane col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARIANE&quot; title=&quot;ARIANE&quot;&gt;
+						&lt;hr class=&quot;hr_titre&quot; /&gt;
+						&lt;div class=&quot;container&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;!--?php if (function_exists( &#039;get_i18n_breadcrumbs&#039;)) { if(return_page_slug()!=&#039;index&#039; ) { $to_home=return_i18n_menu_data( &#039;index&#039;); ?--&gt;
+							&lt;div class=&quot;seven columns&quot; data-pg-hidden=&quot;&quot;&gt;
+								&lt;nav id=&quot;breadcrumbs&quot;&gt;&lt;a href=&quot;&amp;lt;?php echo find_url(&#039;index&#039;,null); ?&amp;gt;&quot;&gt;&lt;!--?php echo $to_home[0][ &#039;menu&#039;]. &#039;  &#039;; ?--&gt; &lt;/a&gt; &lt;!--?php get_i18n_breadcrumbs(return_page_slug()); ?--&gt;&lt;/nav&gt;
+							&lt;/div&gt;
+							&lt;!--?php }} else { ?--&gt;
+
+							&lt;div class=&quot;breadcrumbs&quot; data-pg-collapsed=&quot;&quot; data-pg-hidden=&quot;&quot;&gt;
+								&lt;nav data-pg-hidden=&quot;&quot; id=&quot;breadcrumbs&quot;&gt;&lt;!--?php get_parent_link( &#039;index&#039;); ?--&gt;&lt;!--?php (get_parent(FALSE) !=&#039;index&#039; ) ? get_parent_link(get_parent(FALSE)) : &#039;&#039; ?--&gt;&lt;b data-pg-hidden=&quot;&quot;&gt;&lt;!--?php get_page_clean_title(); ?--&gt;&lt;/b&gt;&lt;/nav&gt;
+							&lt;/div&gt;
+							&lt;!--?php } ?--&gt;&lt;/div&gt;
+
+						&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+					&lt;!-- ------------------------------------------------------------------------------Fin : Logo------ --&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;hr class=&quot;hr_css_01&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;table class=&quot;table&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;thead data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;th&gt;#&lt;/th&gt;
+					&lt;th&gt;FOOTER&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td class=&quot;footer_colonne_01_attribution&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.footer_colonne_01_attribution&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;&amp;nbsp; font-size: 9px;&amp;nbsp; &amp;nbsp; color: #747474;&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td class=&quot;footer_colonne_01&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.footer_colonne_01&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;{&amp;nbsp; &amp;nbsp; text-align: left;&amp;nbsp; &amp;nbsp; font-size: 16px;&amp;nbsp; &amp;nbsp; color: #9f9494;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;footer_fa&quot;&gt;&lt;i class=&quot;fa fa-creative-commons footer_fa&quot;&gt;&lt;/i&gt;&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.footer_fa&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;{&amp;nbsp; &amp;nbsp; color: #7e7e7e;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+					&lt;td&gt;4&lt;/td&gt;
+					&lt;td class=&quot;block_footer&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.block_footer&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.block_footer{&amp;nbsp; &amp;nbsp; padding-top: 20px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+					&lt;td&gt;5&lt;/td&gt;
+					&lt;td class=&quot;footer_p&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.footer_p&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.footer_p{&amp;nbsp; &amp;nbsp; font-size: 10px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+					&lt;td&gt;6&lt;/td&gt;
+					&lt;td&gt;
+						&lt;hr class=&quot;hr_footer&quot; /&gt;&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.hr_footer&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.hr_footer{&amp;nbsp; &amp;nbsp; border: 1px solid #FFF;&amp;nbsp; &amp;nbsp; margin-top: 50px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+					&lt;td&gt;7&lt;/td&gt;
+					&lt;td class=&quot;footer_p&quot;&gt;
+						&lt;div class=&quot;footer_colonne_01 col-md-3 col-sm-3 col-xs-3 col-lg-3&quot; data-pg-name=&quot;Footer_colonne_04&quot; title=&quot;Footer_colonne_04&quot;&gt;
+							&lt;div class=&quot;feature-box&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/habillage/_ipxlab.png&quot; width=&quot;125&quot; /&gt;&lt;/div&gt;
+
+							&lt;p class=&quot;footer_p&quot;&gt;Internet eXchange Point est une plateforme de production, de rencontre et d&#039;exposition basée sur les paradigmes des pratiques et des cultures numériques. [...]&lt;/p&gt;
+
+							&lt;div&gt;&lt;br /&gt;
+								&lt;br /&gt;
+								&lt;a class=&quot;lien&quot; href=&quot;http://ipx-lab.com/&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/a&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;.footer_colonne_01&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.footer_colonne_01{&amp;nbsp; &amp;nbsp; text-align: left;&amp;nbsp; &amp;nbsp; font-size: 16px;&amp;nbsp; &amp;nbsp; color: #9f9494;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;p&gt;Exemple :&lt;/p&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12 CSS_Header&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;FOOTER&quot; title=&quot;FOOTER&quot;&gt;
+				&lt;hr class=&quot;hr_footer footer_hr&quot; data-pg-name=&quot;////////////&quot; /&gt;
+				&lt;div class=&quot;col-md-3 footer_colonne_01 col-xs-3 col-sm-3 col-lg-3&quot; data-pg-name=&quot;Footer_colonne_01&quot; title=&quot;Footer_colonne_01&quot;&gt;
+					&lt;div data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-creative-commons footer_fa&quot;&gt;&lt;/i&gt;
+
+						&lt;p class=&quot;footer_p&quot;&gt;Année de création 2009 - 2017&lt;/p&gt;
+
+						&lt;p class=&quot;footer_p&quot;&gt;Créé par Florent Lagrange&lt;/p&gt;
+
+						&lt;hr /&gt; &lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/habillage/creative_common_logo.png&quot; width=&quot;75&quot; /&gt;
+						&lt;p&gt;&lt;a class=&quot;footer_p&quot; href=&quot;https://creativecommons.org/licenses/by-nc-nd/4.0/&quot; target=&quot;_blank&quot;&gt;CC-BY-NC-ND-4.0&lt;/a&gt;&lt;/p&gt;
+
+						&lt;p class=&quot;footer_colonne_01_attribution&quot;&gt;Attribution-NonCommercial-NoDerivs&amp;nbsp;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;footer_colonne_01 col-md-3 col-sm-3 col-xs-3 col-lg-3&quot; data-pg-name=&quot;Footer_colonne_02&quot; title=&quot;Footer_colonne_02&quot;&gt;&lt;i class=&quot;fa fa-envelope-o footer_fa&quot;&gt;&lt;/i&gt;
+
+					&lt;div class=&quot;feature-box&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;p class=&quot;footer_p&quot;&gt;Région Auvergne-Rhône-Alpes,&lt;/p&gt;
+
+						&lt;p class=&quot;footer_p&quot;&gt;Paris, France.&lt;/p&gt;
+
+						&lt;hr /&gt;
+						&lt;p class=&quot;footer_p&quot;&gt;EMAIL&lt;/p&gt;
+						&lt;a href=&quot;mailto:#&quot;&gt;contact@florentlagrange.eu&lt;/a&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;eight columns&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;form action=&quot;&quot; method=&quot;post&quot;&gt;&lt;input class=&quot;newsletter&quot; name=&quot;newssubscriber&quot; onblur=&quot;if(this.value==&#039;&#039;)this.value=&#039;Email Address&#039;;&quot; onfocus=&quot;if(this.value==&#039;Email Address&#039;)this.value=&#039;&#039;;&quot; type=&quot;text&quot; value=&quot;Email Address&quot; /&gt;&lt;button class=&quot;newsletter-btn&quot; type=&quot;submit&quot;&gt;Subscribe&lt;/button&gt;&lt;/form&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;footer_colonne_01 col-md-3 col-sm-3 col-xs-3 col-lg-3&quot; data-pg-name=&quot;Footer_colonne_03&quot;&gt;
+					&lt;div data-pg-collapsed=&quot;&quot;&gt;
+						&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-gear footer_fa&quot;&gt;&lt;/i&gt;
+
+							&lt;p&gt;&lt;a href=&quot;http://www.florentlagrange.eu/admin&quot;&gt;Admin&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-sitemap footer_fa&quot;&gt;&lt;/i&gt;
+
+							&lt;p&gt;&lt;a href=&quot;http://www.florentlagrange.eu/sitemap.xml&quot;&gt;Sitemap&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;i class=&quot;fa fa-rss footer_fa&quot;&gt;&lt;/i&gt;
+
+							&lt;p&gt;&lt;a href=&quot;http://www.florentlagrange.eu/subdirectory/rss/?lang=fr&quot;&gt;Rss&lt;/a&gt;&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;Footer_colonne_01&quot; title=&quot;Footer_colonne_01&quot;&gt;
+						&lt;div&gt;
+							&lt;hr /&gt;&lt;i class=&quot;fa fa-firefox footer_fa&quot;&gt;&amp;nbsp;&lt;/i&gt; &lt;i class=&quot;fa fa-chrome footer_fa&quot;&gt;&amp;nbsp;&lt;/i&gt; &lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-safari&quot;&gt;&lt;/i&gt; &lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-opera&quot;&gt;&lt;/i&gt;
+
+							&lt;p class=&quot;footer_p&quot;&gt;Site optimisé pour Firefox, et Chrome.&lt;/p&gt;
+
+							&lt;hr /&gt;&lt;/div&gt;
+
+						&lt;div&gt;&lt;i class=&quot;fa fa-desktop&quot;&gt;&lt;/i&gt; &lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-tablet footer_fa&quot;&gt;&lt;/i&gt; &lt;i aria-hidden=&quot;true&quot; class=&quot;fa fa-mobile footer_fa&quot;&gt;&lt;/i&gt;
+
+							&lt;p class=&quot;footer_p&quot;&gt;1920x1080, 800x600, 400x250&lt;/p&gt;
+
+							&lt;hr /&gt;&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;hr /&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;footer_colonne_01 col-md-3 col-sm-3 col-xs-3 col-lg-3&quot; data-pg-name=&quot;Footer_colonne_04&quot; title=&quot;Footer_colonne_04&quot;&gt;
+					&lt;div class=&quot;feature-box&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/habillage/_ipxlab.png&quot; width=&quot;125&quot; /&gt;&lt;/div&gt;
+
+					&lt;p class=&quot;footer_p&quot;&gt;Internet eXchange Point est une plateforme de production, de rencontre et d&#039;exposition basée sur les paradigmes des pratiques et des cultures numériques. [...]&lt;/p&gt;
+
+					&lt;div&gt;&lt;br /&gt;
+						&lt;br /&gt;
+						&lt;a class=&quot;lien&quot; href=&quot;http://ipx-lab.com/&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;hr class=&quot;hr_css_01&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;div class=&quot;col-md-8&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+		&lt;table class=&quot;table&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;thead data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;th&gt;#&lt;/th&gt;
+					&lt;th&gt;ARTICLE&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody data-pg-collapsed=&quot;&quot;&gt;
+				&lt;tr&gt;
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td class=&quot;header_nom-du-site&quot;&gt;
+						&lt;p class=&quot;bouton&quot;&gt;.bouton&lt;/p&gt;
+					&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;bouton&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_nom-du-site { font-size: 18px; }&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;2&lt;/td&gt;
+					&lt;td class=&quot;header_logo&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_logo&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_logo{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: center;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_statut&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_statut&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_statut{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 14px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						color: #ada7a7;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;3&lt;/td&gt;
+					&lt;td class=&quot;header_hashtag&quot;&gt;Lorem ipsum dolor sit amet, consectetur&lt;/td&gt;
+					&lt;td class=&quot;CSS_style&quot;&gt;header_hashtag&lt;/td&gt;
+					&lt;td&gt;&lt;code&gt;.header_hashtag{&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-decoration: none;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-size: 11px;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						font-style: italic;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						text-align: left;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+						padding-top: 20px;}&lt;/code&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+		&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;hr class=&quot;hr_css_01&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;container theme-showcase&quot; data-pg-collapsed=&quot;&quot; role=&quot;main&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-md-4&quot;&gt;
+					&lt;div class=&quot;page-header&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;h1&gt;principal.css&lt;/h1&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-md-4&quot;&gt;
+					&lt;div class=&quot;page-header&quot; data-pg-collapsed=&quot;&quot;&gt;
+						&lt;h1&gt;HEADER&lt;/h1&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;h1 class=&quot;css_commentaires css&quot;&gt;&amp;nbsp;&lt;/h1&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;/* PRINCIPAL&amp;nbsp;-------------------------------------------------- */
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;florent_lagrange bouton&quot;&gt;.bouton&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-2&quot;&gt;&lt;code&gt;.menu_top&lt;/code&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;code&gt;font-size: 11px; border-left: #CCC dotted 1px;&lt;/code&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;hr class=&quot;hr_css&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;florent_lagrange bouton&quot;&gt;.bouton&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p&gt;.bouton&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;hr class=&quot;hr_css&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;texte_principal&quot;&gt;.texte principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.texte_principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;hr class=&quot;hr_css&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;texte_principal&quot;&gt;.texte principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.texte_principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;hr class=&quot;hr_css&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;texte_principal&quot;&gt;.texte principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.texte_principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;hr class=&quot;hr_css_01&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;texte_principal&quot;&gt;.texte principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.texte_principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;hr class=&quot;hr_css&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img class=&quot;image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/projets/vignettes/vignettes_250x250_72ppp_p001.png&quot; width=&quot;200&quot; /&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.texte_principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;hr class=&quot;hr_css&quot; /&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;texte_principal&quot;&gt;.texte principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.texte_principal&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p&gt;.bouton&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot;&gt;
+					&lt;p&gt;.image&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;h3&gt;Column title&lt;/h3&gt;
+
+				&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;page-header&quot;&gt;
+				&lt;h1 class=&quot;css_commentaires css&quot;&gt;&amp;nbsp;&lt;/h1&gt;
+
+				&lt;hr class=&quot;hr_titre&quot; /&gt;/* PRINCIPAL&amp;nbsp;-------------------------------------------------- */
+				&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- Main jumbotron for a primary marketing message or call to action --&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;h1 class=&quot;css_commentaires css&quot;&gt;/* PRINCIPAL&amp;nbsp;-------------------------------------------------- */&lt;/h1&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;florent_lagrange&quot;&gt;html&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;florent_lagrange&quot;&gt;florent_lagrange&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;menu_top&quot;&gt;menu_top&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;comment&quot;&gt;.florent_lagrange&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;menu_header&quot;&gt;menu_header&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;TITRE&quot;&gt;TITRE&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;menu_top&quot;&gt;menu_top&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;h1 class=&quot;index_P000_noP000 css&quot;&gt;/* HEADER -------------------------------------------------- */&lt;/h1&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4 Header&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;menu_top&quot;&gt;Header&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;meta_description&quot;&gt;meta_description&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;ligne_meta&quot;&gt;ligne_meta&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+				&lt;p class=&quot;artiste&quot;&gt;artiste&lt;/p&gt;
+
+				&lt;p class=&quot;image&quot;&gt;image&lt;/p&gt;
+
+				&lt;p class=&quot;colonnes&quot;&gt;colonnes&lt;/p&gt;
+
+				&lt;p class=&quot;menu&quot;&gt;menu&lt;/p&gt;
+
+				&lt;p class=&quot;row&quot;&gt;row&lt;/p&gt;
+
+				&lt;p class=&quot;x&quot;&gt;x&lt;/p&gt;
+
+				&lt;p class=&quot;footer&quot;&gt;footer&lt;/p&gt;
+
+				&lt;p class=&quot;database&quot;&gt;database&lt;/p&gt;
+
+				&lt;p class=&quot;base&quot;&gt;base&lt;/p&gt;
+
+				&lt;p class=&quot;artiste-chercheur&quot;&gt;artiste-chercheur&lt;/p&gt;
+
+				&lt;p class=&quot;fil&quot;&gt;fil&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_01&quot;&gt;sidebar_01&lt;/p&gt;
+
+				&lt;p class=&quot;titre_partie&quot;&gt;tire_partie&lt;/p&gt;
+
+				&lt;p class=&quot;titre_sidebar_01&quot;&gt;titre_sidebar_01&lt;/p&gt;
+
+				&lt;p class=&quot;member-name&quot;&gt;titre_partie&lt;/p&gt;
+
+				&lt;p class=&quot;titre_sidebar_01&quot;&gt;titre_sidebar_01&lt;/p&gt;
+
+				&lt;p class=&quot;member-name&quot;&gt;member-name&lt;/p&gt;
+
+				&lt;p class=&quot;footer_index&quot;&gt;footer_index&lt;/p&gt;
+
+				&lt;p class=&quot;cartel&quot;&gt;cartel&lt;/p&gt;
+
+				&lt;p class=&quot;image_marge&quot;&gt;image_marge&lt;/p&gt;
+
+				&lt;p class=&quot;short_presentation&quot;&gt;short_presentation&lt;/p&gt;
+
+				&lt;p class=&quot;header&quot;&gt;header&lt;/p&gt;
+
+				&lt;p class=&quot;header_menu&quot;&gt;heaer_menu&lt;/p&gt;
+
+				&lt;p class=&quot;diagramme_titre&quot;&gt;diagramme_titre&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_left&quot;&gt;sidebar_left&lt;/p&gt;
+
+				&lt;p class=&quot;fil_ariane&quot;&gt;fil_ariane&lt;/p&gt;
+
+				&lt;p class=&quot;block_footer&quot;&gt;block_footer&lt;/p&gt;
+
+				&lt;p class=&quot;telechargement&quot;&gt;telechargement&lt;/p&gt;
+
+				&lt;p class=&quot;bibliographie&quot;&gt;bibliographie&lt;/p&gt;
+
+				&lt;p class=&quot;meta_telechargement&quot;&gt;meta_telechargement&lt;/p&gt;
+
+				&lt;p class=&quot;index_TITRE&quot;&gt;index_TITRE&lt;/p&gt;
+
+				&lt;p class=&quot;index_SIDEBAR&quot;&gt;index_SIDEBAR&lt;/p&gt;
+
+				&lt;p class=&quot;iconographie&quot;&gt;iconographie&lt;/p&gt;
+
+				&lt;p class=&quot;footer_block_01&quot;&gt;footer_block_01&lt;/p&gt;
+
+				&lt;p class=&quot;footer_block_04&quot;&gt;footer_block_04&lt;/p&gt;
+
+				&lt;p class=&quot;TITRE&quot;&gt;TITRE&lt;/p&gt;
+
+				&lt;p class=&quot;lien_page&quot;&gt;lien_page&lt;/p&gt;
+
+				&lt;p class=&quot;active&quot;&gt;active&lt;/p&gt;
+
+				&lt;p class=&quot;meta-data&quot;&gt;meta-data&lt;/p&gt;
+
+				&lt;p class=&quot;BODY_TITRE&quot;&gt;BODY_TITRE&lt;/p&gt;
+
+				&lt;p class=&quot;gabarit_index&quot;&gt;gabarit_index&lt;/p&gt;
+
+				&lt;p class=&quot;index_travaux&quot;&gt;index_travaux&lt;/p&gt;
+
+				&lt;p class=&quot;index_enseignements&quot;&gt;index_enseignements&lt;/p&gt;
+
+				&lt;p class=&quot;entree&quot;&gt;entree&lt;/p&gt;
+
+				&lt;p class=&quot;f&quot;&gt;f&lt;/p&gt;
+
+				&lt;p class=&quot;date&quot;&gt;date&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_p000&quot;&gt;sidebar_p000&lt;/p&gt;
+
+				&lt;p class=&quot;Compte&quot;&gt;Compte&lt;/p&gt;
+
+				&lt;p class=&quot;footer_p&quot;&gt;footer_p&lt;/p&gt;
+
+				&lt;p class=&quot;ornementation&quot;&gt;ornementation&lt;/p&gt;
+
+				&lt;p class=&quot;titre_index_P000&quot;&gt;titre_index_P000&lt;/p&gt;
+
+				&lt;p class=&quot;image_index_P000&quot;&gt;image_index_P000&lt;/p&gt;
+
+				&lt;p class=&quot;index_P000_noP000&quot;&gt;index_P000_noP000&lt;/p&gt;
+
+				&lt;p class=&quot;meta_texte&quot;&gt;meta_texte&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_biographie&quot;&gt;column&lt;/p&gt;
+
+				&lt;p class=&quot;index_biographie&quot;&gt;modal&lt;/p&gt;
+
+				&lt;p class=&quot;index_travaux_resume&quot;&gt;close&lt;/p&gt;
+
+				&lt;p class=&quot;notes_bas_de_page&quot;&gt;image_minitiature_galerie&lt;/p&gt;
+
+				&lt;p class=&quot;menu_F&quot;&gt;text_index_P000&lt;/p&gt;
+
+				&lt;p class=&quot;index_P000_titre_P&quot;&gt;sidebar_biographie&lt;/p&gt;
+
+				&lt;p class=&quot;index_index&quot;&gt;index_index&lt;/p&gt;
+
+				&lt;p class=&quot;modele_meta_description_article&quot;&gt;modele_meta_description_article&lt;/p&gt;
+
+				&lt;p class=&quot;index_index&quot;&gt;index_biographie&lt;/p&gt;
+
+				&lt;p class=&quot;modele_meta_description_article&quot;&gt;index_travaux_resume&lt;/p&gt;
+
+				&lt;p class=&quot;footer_p&quot;&gt;footer_p&lt;/p&gt;
+
+				&lt;p class=&quot;notes_bas_de_page&quot;&gt;notes_bas_de_page&lt;/p&gt;
+
+				&lt;p class=&quot;menu_F&quot;&gt;menu_F&lt;/p&gt;
+
+				&lt;p class=&quot;index_P000_titre_P&quot;&gt;index_P000_titre_P&lt;/p&gt;
+
+				&lt;p class=&quot;meta_texte&quot;&gt;meta_texte&lt;/p&gt;
+
+				&lt;p class=&quot;image_colonne&quot;&gt;image_colonne&lt;/p&gt;
+
+				&lt;p class=&quot;legende_texte&quot;&gt;legende_texte&lt;/p&gt;
+
+				&lt;p&gt;legende_P000&lt;/p&gt;
+
+				&lt;p class=&quot;hr_fil_bas&quot;&gt;hr_fil_bas&lt;/p&gt;
+
+				&lt;p class=&quot;hr_titre&quot;&gt;hr_titre&lt;/p&gt;
+
+				&lt;p class=&quot;hr_haut&quot;&gt;hr_haut&lt;/p&gt;
+
+				&lt;p class=&quot;image_vignette&quot;&gt;image_vignette&lt;/p&gt;
+
+				&lt;p class=&quot;partie_projet&quot;&gt;partie_projet&lt;/p&gt;
+
+				&lt;p class=&quot;menu_haut&quot;&gt;menu_haut&lt;/p&gt;
+
+				&lt;p class=&quot;contact_social&quot;&gt;contact_social&lt;/p&gt;
+
+				&lt;p class=&quot;hr_footer&quot;&gt;hr_footer&lt;/p&gt;
+
+				&lt;p class=&quot;Modele_P000&quot;&gt;Modele_P000&lt;/p&gt;
+
+				&lt;p class=&quot;titre_chapitre_P000&quot;&gt;titre_chapitre_P000&lt;/p&gt;
+
+				&lt;p class=&quot;hr_bas&quot;&gt;hr_bas&lt;/p&gt;
+
+				&lt;p class=&quot;hashtag&quot;&gt;hashtag&lt;/p&gt;
+
+				&lt;p class=&quot;footer_titre&quot;&gt;footer_titre&lt;/p&gt;
+
+				&lt;p class=&quot;footer_colonne_01_attribution&quot;&gt;footer_colonne_01_attribution&lt;/p&gt;
+
+				&lt;p&gt;footer_colonne_01&lt;/p&gt;
+
+				&lt;p class=&quot;footer_fa&quot;&gt;footer_fa&lt;/p&gt;
+
+				&lt;p class=&quot;P_P001&quot;&gt;P_P001&lt;/p&gt;
+
+				&lt;p class=&quot;P000&quot;&gt;P000&lt;/p&gt;
+
+				&lt;p class=&quot;projets_vignettes_images&quot;&gt;image_P&lt;/p&gt;
+
+				&lt;p class=&quot;vignettes_P000&quot;&gt;vignettes_P000&lt;/p&gt;
+
+				&lt;p class=&quot;vignettes_legende&quot;&gt;vignettes_legende&lt;/p&gt;
+
+				&lt;p class=&quot;vignettes_date&quot;&gt;vignettes_date&lt;/p&gt;
+
+				&lt;p class=&quot;modele_resume&quot;&gt;modele_resume&lt;/p&gt;
+
+				&lt;p class=&quot;fa-telechargement&quot;&gt;fa-telechargement&lt;/p&gt;
+
+				&lt;p class=&quot;annexes&quot;&gt;annexes&lt;/p&gt;
+
+				&lt;p class=&quot;fa_telechargement_02&quot;&gt;fa_telechargement_02&lt;/p&gt;
+
+				&lt;p class=&quot;hr_large&quot;&gt;hr_large&lt;/p&gt;
+
+				&lt;p class=&quot;typographie_A&quot;&gt;typographie_A&lt;/p&gt;
+
+				&lt;p class=&quot;travaux_titre_chapitre&quot;&gt;travaux_titre_chapitre&lt;/p&gt;
+
+				&lt;p class=&quot;fil_ariane&quot;&gt;fil_ariane&lt;/p&gt;
+
+				&lt;p class=&quot;lien&quot;&gt;lien&lt;/p&gt;
+
+				&lt;p class=&quot;fa-annexes&quot;&gt;fa-annexes&lt;/p&gt;
+
+				&lt;p class=&quot;fa-lien&quot;&gt;fa-lien&lt;/p&gt;
+
+				&lt;p class=&quot;titre_cadre&quot;&gt;titre_cadre&lt;/p&gt;
+
+				&lt;p class=&quot;tag_titre&quot;&gt;tag-titre&lt;/p&gt;
+
+				&lt;p class=&quot;logo&quot;&gt;logo&lt;/p&gt;
+
+				&lt;p class=&quot;description&quot;&gt;description&lt;/p&gt;
+
+				&lt;p class=&quot;Logotype&quot;&gt;Logotype&lt;/p&gt;
+
+				&lt;p class=&quot;image_travaux&quot;&gt;image_travaux&lt;/p&gt;
+
+				&lt;p class=&quot;introduction_article_texte&quot;&gt;introduction_article_texte&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_travaux_titre&quot;&gt;carnet_travaux_titre&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_image&quot;&gt;carnet_image&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_texte&quot;&gt;carnet_texte&lt;/p&gt;
+
+				&lt;p class=&quot;no&quot;&gt;no&lt;/p&gt;
+
+				&lt;p class=&quot;carnet_no&quot;&gt;carnet_no&lt;/p&gt;
+
+				&lt;p class=&quot;numero&quot;&gt;numero&lt;/p&gt;
+
+				&lt;p class=&quot;onglet&quot;&gt;onglet&lt;/p&gt;
+
+				&lt;p class=&quot;CV_titre&quot;&gt;CV_titre&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_introduction&quot;&gt;sidebar_introduction&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_menu&quot;&gt;sidebar_menu&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar_projet&quot;&gt;sidebar_projet&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-projet-instable&quot;&gt;sidebar-projet-instable&lt;/p&gt;
+
+				&lt;p class=&quot;sidebar-introduction&quot;&gt;sidebar-introduction&lt;/p&gt;
+
+				&lt;p class=&quot;PPP_meta&quot;&gt;PPP_meta&lt;/p&gt;
+
+				&lt;p class=&quot;PPP_meta_texte&quot;&gt;PPP_meta_texte&lt;/p&gt;
+
+				&lt;p class=&quot;logo&quot;&gt;logo&lt;/p&gt;
+
+				&lt;p class=&quot;ref&quot;&gt;ref&lt;/p&gt;
+
+				&lt;p class=&quot;newsletter_fond&quot;&gt;newsletter_fond&lt;/p&gt;
+
+				&lt;p class=&quot;texte_PPP&quot;&gt;texte_PPP&lt;/p&gt;
+
+				&lt;p class=&quot;meta&quot;&gt;meta&lt;/p&gt;
+
+				&lt;p class=&quot;texte_principal&quot;&gt;texte_principal&lt;/p&gt;
+
+				&lt;p class=&quot;etiquette&quot;&gt;etiquette&lt;/p&gt;
+
+				&lt;p class=&quot;indices&quot;&gt;indices&lt;/p&gt;
+
+				&lt;p class=&quot;fragment&quot;&gt;fragment&lt;/p&gt;
+
+				&lt;p class=&quot;plan_balise_couleur&quot;&gt;plan_balise_couleur&lt;/p&gt;
+
+				&lt;p class=&quot;plan_balise_couleur_01&quot;&gt;plan_balise_couleur_01&lt;/p&gt;
+
+				&lt;p class=&quot;fragment_plan&quot;&gt;fragment_plan&lt;/p&gt;
+
+				&lt;p class=&quot;fragment_0254e5&quot;&gt;fragment_009793&lt;/p&gt;
+
+				&lt;p class=&quot;plan_balise_0254e5&quot;&gt;fragment_0254e5&lt;/p&gt;
+
+				&lt;p class=&quot;balise_jaune&quot;&gt;plan_balise_0254e5&lt;/p&gt;
+
+				&lt;p class=&quot;balise_jaune_texte&quot;&gt;balise_jaune&lt;/p&gt;
+
+				&lt;p class=&quot;balise_jaune_texte&quot;&gt;balise_jaune_texte&lt;/p&gt;
+
+				&lt;p class=&quot;bouton&quot;&gt;bouton&lt;/p&gt;
+
+				&lt;p class=&quot;fragment_03&quot;&gt;fragment_03&lt;/p&gt;
+
+				&lt;p class=&quot;plan_balise_couleur_blanc&quot;&gt;plan_balise_couleur_blanc&lt;/p&gt;
+
+				&lt;p class=&quot;aides&quot;&gt;aides&lt;/p&gt;
+
+				&lt;p class=&quot;fragment_04&quot;&gt;fragment_04&lt;/p&gt;
+
+				&lt;p&gt;plan_balise_noir&lt;/p&gt;
+
+				&lt;p class=&quot;recherche_image&quot;&gt;recherche_image&lt;/p&gt;
+
+				&lt;p class=&quot;introduction&quot;&gt;introduction&lt;/p&gt;
+
+				&lt;p class=&quot;charte&quot;&gt;charte&lt;/p&gt;
+
+				&lt;p class=&quot;page&quot;&gt;page&lt;/p&gt;
+
+				&lt;p class=&quot;cartel&quot;&gt;cartel&lt;/p&gt;
+
+				&lt;p class=&quot;table_des_matieres&quot;&gt;tables_des_matieres&lt;/p&gt;
+
+				&lt;p class=&quot;tables_niveau_01&quot;&gt;table_niveau_01&lt;/p&gt;
+
+				&lt;p class=&quot;logo_header&quot;&gt;logo_header&lt;/p&gt;
+
+				&lt;p class=&quot;logo_code&quot;&gt;logo_code&lt;/p&gt;
+
+				&lt;p&gt;enseignements_titre&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-sm-4 col-xs-4 col-lg-4 col-md-8&quot; data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;
+			&lt;div class=&quot;col-md-4&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Thumbnails&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Labels&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;h1&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/h1&gt;
+
+		&lt;h2&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/h2&gt;
+
+		&lt;h3&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/h3&gt;
+
+		&lt;h4&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/h4&gt;
+
+		&lt;h5&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/h5&gt;
+
+		&lt;h6&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/h6&gt;
+
+		&lt;p&gt;&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt;&lt;span class=&quot;label label-primary&quot;&gt;Primary&lt;/span&gt;&lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt;&lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt;&lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt;&lt;/p&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Badges&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;p&gt;&lt;a href=&quot;#&quot;&gt;Inbox &lt;span class=&quot;badge&quot;&gt;42&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+		&lt;ul class=&quot;nav nav-pills&quot; role=&quot;tablist&quot;&gt;
+			&lt;li class=&quot;active&quot; role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home &lt;span class=&quot;badge&quot;&gt;42&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Profile&lt;/a&gt;&lt;/li&gt;
+			&lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Messages &lt;span class=&quot;badge&quot;&gt;3&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Dropdown menus&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;dropdown theme-dropdown clearfix&quot;&gt;&lt;a aria-expanded=&quot;false&quot; aria-haspopup=&quot;true&quot; class=&quot;sr-only dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot; id=&quot;dropdownMenu1&quot; role=&quot;button&quot;&gt;Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+
+			&lt;ul aria-labelledby=&quot;dropdownMenu1&quot; class=&quot;dropdown-menu&quot;&gt;
+				&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+				&lt;li class=&quot;divider&quot; role=&quot;separator&quot;&gt;&amp;nbsp;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Navs&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;ul class=&quot;nav nav-tabs&quot; role=&quot;tablist&quot;&gt;
+			&lt;li class=&quot;active&quot; role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Profile&lt;/a&gt;&lt;/li&gt;
+			&lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Messages&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+
+		&lt;ul class=&quot;nav nav-pills&quot; role=&quot;tablist&quot;&gt;
+			&lt;li class=&quot;active&quot; role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Profile&lt;/a&gt;&lt;/li&gt;
+			&lt;li role=&quot;presentation&quot;&gt;&lt;a href=&quot;#&quot;&gt;Messages&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Navbars&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;nav class=&quot;navbar navbar-default&quot;&gt;
+		&lt;div class=&quot;container&quot;&gt;
+			&lt;div class=&quot;navbar-header&quot;&gt;&lt;button class=&quot;navbar-toggle collapsed&quot; data-target=&quot;.navbar-collapse&quot; data-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Project name&lt;/a&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
+				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
+					&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#about&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#contact&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+					&lt;li class=&quot;dropdown&quot;&gt;&lt;a aria-expanded=&quot;false&quot; aria-haspopup=&quot;true&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+						&lt;ul class=&quot;dropdown-menu&quot;&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+							&lt;li class=&quot;divider&quot; role=&quot;separator&quot;&gt;&amp;nbsp;&lt;/li&gt;
+							&lt;li class=&quot;dropdown-header&quot;&gt;Nav header&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;One more separated link&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;!--/.nav-collapse --&gt;&lt;/div&gt;
+		&lt;/nav&gt;
+
+		&lt;nav class=&quot;navbar navbar-inverse&quot;&gt;
+		&lt;div class=&quot;container&quot;&gt;
+			&lt;div class=&quot;navbar-header&quot;&gt;&lt;button class=&quot;navbar-toggle collapsed&quot; data-target=&quot;.navbar-collapse&quot; data-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Project name&lt;/a&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;navbar-collapse collapse&quot;&gt;
+				&lt;ul class=&quot;nav navbar-nav&quot;&gt;
+					&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#about&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#contact&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+					&lt;li class=&quot;dropdown&quot;&gt;&lt;a aria-expanded=&quot;false&quot; aria-haspopup=&quot;true&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+						&lt;ul class=&quot;dropdown-menu&quot;&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+							&lt;li class=&quot;divider&quot; role=&quot;separator&quot;&gt;&amp;nbsp;&lt;/li&gt;
+							&lt;li class=&quot;dropdown-header&quot;&gt;Nav header&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+							&lt;li&gt;&lt;a href=&quot;#&quot;&gt;One more separated link&lt;/a&gt;&lt;/li&gt;
+						&lt;/ul&gt;
+					&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;!--/.nav-collapse --&gt;&lt;/div&gt;
+		&lt;/nav&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Alerts&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;strong&gt;Well done!&lt;/strong&gt; You successfully read this important alert message.&lt;/div&gt;
+
+		&lt;div class=&quot;alert alert-info&quot; role=&quot;alert&quot;&gt;&lt;strong&gt;Heads up!&lt;/strong&gt; This alert needs your attention, but it&#039;s not super important.&lt;/div&gt;
+
+		&lt;div class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;&lt;strong&gt;Warning!&lt;/strong&gt; Best check yo self, you&#039;re not looking too good.&lt;/div&gt;
+
+		&lt;div class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;&lt;strong&gt;Oh snap!&lt;/strong&gt; Change a few things up and try submitting again.&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Progress bars&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div aria-valuemax=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuenow=&quot;60&quot; class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 60%;&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;60% Complete&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div aria-valuemax=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuenow=&quot;40&quot; class=&quot;progress-bar progress-bar-success&quot; role=&quot;progressbar&quot; style=&quot;width: 40%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;40% Complete (success)&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div aria-valuemax=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuenow=&quot;20&quot; class=&quot;progress-bar progress-bar-info&quot; role=&quot;progressbar&quot; style=&quot;width: 20%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;20% Complete&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div aria-valuemax=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuenow=&quot;60&quot; class=&quot;progress-bar progress-bar-warning&quot; role=&quot;progressbar&quot; style=&quot;width: 60%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;60% Complete (warning)&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div aria-valuemax=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuenow=&quot;80&quot; class=&quot;progress-bar progress-bar-danger&quot; role=&quot;progressbar&quot; style=&quot;width: 80%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;80% Complete (danger)&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div aria-valuemax=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuenow=&quot;60&quot; class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: 60%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;60% Complete&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;progress&quot;&gt;
+			&lt;div class=&quot;progress-bar progress-bar-success&quot; style=&quot;width: 35%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;35% Complete (success)&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;progress-bar progress-bar-warning&quot; style=&quot;width: 20%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;20% Complete (warning)&lt;/span&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;progress-bar progress-bar-danger&quot; style=&quot;width: 10%&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;10% Complete (danger)&lt;/span&gt;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;List groups&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4&quot;&gt;
+				&lt;ul class=&quot;list-group&quot;&gt;
+					&lt;li class=&quot;list-group-item&quot;&gt;Cras justo odio&lt;/li&gt;
+					&lt;li class=&quot;list-group-item&quot;&gt;Dapibus ac facilisis in&lt;/li&gt;
+					&lt;li class=&quot;list-group-item&quot;&gt;Morbi leo risus&lt;/li&gt;
+					&lt;li class=&quot;list-group-item&quot;&gt;Porta ac consectetur ac&lt;/li&gt;
+					&lt;li class=&quot;list-group-item&quot;&gt;Vestibulum at eros&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;!-- /.col-sm-4 --&gt;
+
+			&lt;div class=&quot;col-sm-4&quot;&gt;
+				&lt;div class=&quot;list-group&quot;&gt;&lt;a class=&quot;list-group-item active&quot; href=&quot;#&quot;&gt;Cras justo odio&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Dapibus ac facilisis in&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Morbi leo risus&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Porta ac consectetur ac&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Vestibulum at eros&lt;/a&gt;&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- /.col-sm-4 --&gt;
+
+			&lt;div class=&quot;col-sm-4&quot;&gt;
+				&lt;div class=&quot;list-group&quot;&gt;
+					&lt;h4 class=&quot;list-group-item-heading&quot;&gt;&lt;a class=&quot;list-group-item active&quot; href=&quot;#&quot;&gt;List group item heading&lt;/a&gt;&lt;/h4&gt;
+
+					&lt;p class=&quot;list-group-item-text&quot;&gt;&lt;a class=&quot;list-group-item active&quot; href=&quot;#&quot;&gt;Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.&lt;/a&gt;&lt;/p&gt;
+
+					&lt;h4 class=&quot;list-group-item-heading&quot;&gt;&lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;List group item heading&lt;/a&gt;&lt;/h4&gt;
+
+					&lt;p class=&quot;list-group-item-text&quot;&gt;&lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.&lt;/a&gt;&lt;/p&gt;
+
+					&lt;h4 class=&quot;list-group-item-heading&quot;&gt;&lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;List group item heading&lt;/a&gt;&lt;/h4&gt;
+
+					&lt;p class=&quot;list-group-item-text&quot;&gt;&lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.&lt;/a&gt;&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- /.col-sm-4 --&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Panels&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-sm-4&quot;&gt;
+				&lt;div class=&quot;panel panel-default&quot;&gt;
+					&lt;div class=&quot;panel-heading&quot;&gt;
+						&lt;h3 class=&quot;panel-title&quot;&gt;Panel title&lt;/h3&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;panel-body&quot;&gt;Panel content&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;panel panel-primary&quot;&gt;
+					&lt;div class=&quot;panel-heading&quot;&gt;
+						&lt;h3 class=&quot;panel-title&quot;&gt;Panel title&lt;/h3&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;panel-body&quot;&gt;Panel content&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- /.col-sm-4 --&gt;
+
+			&lt;div class=&quot;col-sm-4&quot;&gt;
+				&lt;div class=&quot;panel panel-success&quot;&gt;
+					&lt;div class=&quot;panel-heading&quot;&gt;
+						&lt;h3 class=&quot;panel-title&quot;&gt;Panel title&lt;/h3&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;panel-body&quot;&gt;Panel content&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;panel panel-info&quot;&gt;
+					&lt;div class=&quot;panel-heading&quot;&gt;
+						&lt;h3 class=&quot;panel-title&quot;&gt;Panel title&lt;/h3&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;panel-body&quot;&gt;Panel content&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- /.col-sm-4 --&gt;
+
+			&lt;div class=&quot;col-sm-4&quot;&gt;
+				&lt;div class=&quot;panel panel-warning&quot;&gt;
+					&lt;div class=&quot;panel-heading&quot;&gt;
+						&lt;h3 class=&quot;panel-title&quot;&gt;Panel title&lt;/h3&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;panel-body&quot;&gt;Panel content&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;panel panel-danger&quot;&gt;
+					&lt;div class=&quot;panel-heading&quot;&gt;
+						&lt;h3 class=&quot;panel-title&quot;&gt;Panel title&lt;/h3&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;panel-body&quot;&gt;Panel content&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- /.col-sm-4 --&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;page-header&quot;&gt;
+			&lt;h1&gt;Wells&lt;/h1&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;well&quot;&gt;
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b&gt;WEBOGRAPHIE&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;Cette webographie consiste à noter les références des &lt;b&gt;liens&lt;/b&gt; utilisés via&lt;b&gt; internet &lt;/b&gt;pour élaborer ma recherche. &amp;nbsp;Ces liens sont issus principalementde&amp;nbsp;mes&lt;b style=&quot;line-height: 1.42857143; background-color: rgba(0, 0, 0, 0);&quot;&gt;&amp;nbsp;&lt;/b&gt; &lt;b style=&quot;line-height: 1.42857143; background-color: rgba(0, 0, 0, 0);&quot;&gt;onglets de navigateur.&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b&gt;FILMOGRAPHIE&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;La filmographie sur cette page regroupe une liste de &lt;b&gt;film&lt;/b&gt; qui ont attirés mon attention. Vous y trouverez des films inscrit dans l’&lt;b&gt;histoire du cinéma&lt;/b&gt;, &lt;b&gt;film amateur&lt;/b&gt;, &lt;b&gt;court métrage&lt;/b&gt;,&lt;b&gt; documentaire&lt;/b&gt;, ou &lt;b&gt;vidéo d’art expérimentale&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b&gt;ICONOGRAPHIE&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;La documentation iconographique est l’étude des &lt;b&gt;représentations artistiques&lt;/b&gt;de mes recherches. L’ensemble de ces i&lt;b&gt;llustrations&lt;/b&gt; sont regroupés sous forme de&lt;b&gt; thématique&lt;/b&gt; et ont comme &lt;b&gt;support l’image.&lt;/b&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;hr class=&quot;hr_footer&quot; data-pg-name=&quot;////////////&quot; /&gt;
+		&lt;h3&gt;RÉSEAUX&lt;/h3&gt;
+
+		&lt;hr data-pg-name=&quot;////////////&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-institution&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b&gt;STUDIOS, PARTENAIRES &amp;amp; ENTREPRISES&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;Au sein de mon engagement, je développe des &lt;b&gt;partenariats&lt;/b&gt; avec des entreprises du secteur&lt;b&gt; technologique&lt;/b&gt;,&lt;b&gt; digital&lt;/b&gt; et &lt;b&gt;social &lt;/b&gt;désireuses de s’engager sérieusement dans des&lt;b&gt; moyens alternatifs &lt;/b&gt;de &lt;b&gt;production et de transmission.&amp;nbsp;&lt;/b&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;hr class=&quot;hr_footer&quot; data-pg-name=&quot;////////////&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-puzzle-piece&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b&gt;ARTISTES&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Vous trouverez dans cette rubrique des artistes rencontrés &lt;b&gt;AFK&lt;/b&gt;* qui ont (ou qui ont eu) une importance dans l’itinéraire de mon parcours. Amis, artistes, amateurs, rencontres hasardeuse ou désireuse... &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;hr class=&quot;hr_footer&quot; data-pg-name=&quot;////////////&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-font-awesome&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b&gt;ASSOCIATIONS &amp;amp; TERRAIN D&#039;EXPLOITATION&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Voici des structures qui &lt;b&gt;porte&lt;/b&gt;(ou qui ont portés) mes différents projets. Ces structures portent et m’&lt;b&gt;aide&lt;/b&gt; à accomplir de manière &lt;b&gt;financière&lt;/b&gt; ou&lt;b&gt; technique&lt;/b&gt;. Vous trouverez également des ressources concernant notre association &lt;b&gt;IPX.&lt;/b&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-6&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;p&quot;&gt;Autres, coup de cœur, inclassable, miscellanées… &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Mon, 03 Jul 2017 06:50:57 +0200</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[-]]></vignettes><introduction><![CDATA[<p>-</p>
+]]></introduction><situation><![CDATA[<p>-</p>
+]]></situation><legende><![CDATA[-]]></legende></item>

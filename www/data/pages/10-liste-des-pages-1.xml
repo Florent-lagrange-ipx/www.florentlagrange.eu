@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 31 Dec 2017 17:26:15 +0100</pubDate><title><![CDATA[10. Liste des pages]]></title><url><![CDATA[10-liste-des-pages-1]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[10. Liste des pages]]></menu><menuOrder><![CDATA[12]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_liste_des_pages.php]]></template><parent><![CDATA[02-plan]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;row&quot; data-pg-name=&quot;TABLE DES MATIERES&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;
+		&lt;div class=&quot;col-md-3 col-sm-3 col-xs-3 col-lg-3&quot; data-pg-name=&quot;TABLE&quot;&gt;
+			&lt;div class=&quot;block_menu&quot;&gt;
+				&lt;div data-pg-collapsed=&quot;&quot; data-pgc=&quot;test&quot; id=&quot;menu&quot;&gt;
+					&lt;div class=&quot;test&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+					&lt;div class=&quot;menus vertical-menu&quot;&gt;
+						&lt;nav class=&quot;menu-1&quot;&gt;
+						&lt;div&gt;
+							&lt;ul&gt;
+								&lt;li class=&quot;active&quot; data-menu=&quot;dashboard&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Introduction&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li data-menu=&quot;email&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Messages&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li data-menu=&quot;something&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Something&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+							&lt;/ul&gt;
+						&lt;/div&gt;
+						&lt;/nav&gt;
+
+						&lt;nav class=&quot;menu-2&quot;&gt;
+						&lt;div data-menu=&quot;dashboard&quot;&gt;
+							&lt;ul&gt;
+								&lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/html/default.asp&quot; target=&quot;content&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Dashboard&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/css/default.asp&quot; target=&quot;content&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Notifications&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Profile&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Logout&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+							&lt;/ul&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;hidden&quot; data-menu=&quot;email&quot;&gt;
+							&lt;ul&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Email&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Chats&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Calendar&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+							&lt;/ul&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;hidden&quot; data-menu=&quot;something&quot;&gt;
+							&lt;ul&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Film&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Random thing&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;span class=&quot;item-text&quot;&gt;Stories&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+							&lt;/ul&gt;
+						&lt;/div&gt;
+						&lt;/nav&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;handle&quot;&gt;
+						&lt;div class=&quot;handle-table&quot;&gt;
+							&lt;div class=&quot;handle-table-cell&quot;&gt;&amp;nbsp;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot; data-pg-name=&quot;TABLE DES MATIERES&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-md-8 col-lg-8 col-sm-8 col-xs-8 block_textes&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;declaration_ref&quot;&gt;|Data : P001]&lt;/p&gt;
+
+					&lt;p&gt;&lt;b&gt;Choix&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;div class=&quot;block_textes col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;MAIN&quot;&gt;
+						&lt;p class=&quot;texte_principal modele_resume&quot; data-pg-name=&quot;CONTENT&quot;&gt;&lt;!--?php
+$d = dir(&quot;././admin/theme/&quot;);
+
+echo &quot;Chemin: &quot;.$d---&gt;path.&quot;&lt;br /&gt;
+							\\n&quot;; while($entry = $d-&amp;gt;read()) { echo $entry.&quot;&lt;br /&gt;
+							\\n&quot;; } $d-&amp;gt;close(); ?&amp;gt;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-8 col-lg-8 col-sm-8 col-xs-8 block_textes&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;declaration_ref&quot;&gt;|Data : P001]&lt;/p&gt;
+
+					&lt;p&gt;&lt;b&gt;Choix&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;div class=&quot;block_textes col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;MAIN&quot;&gt;
+						&lt;p class=&quot;texte_principal modele_resume&quot; data-pg-name=&quot;CONTENT&quot;&gt;&lt;!--?php
+$d = dir(&quot;./theme/&quot;);
+
+echo &quot;Chemin: &quot;.$d---&gt;path.&quot;&lt;br /&gt;
+							\\n&quot;; while($entry = $d-&amp;gt;read()) { echo $entry.&quot;&lt;br /&gt;
+							\\n&quot;; } $d-&amp;gt;close(); ?&amp;gt;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-md-8 col-lg-8 col-sm-8 col-xs-8 block_textes&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;declaration_ref&quot;&gt;|Data : P001]&lt;/p&gt;
+
+					&lt;p&gt;&lt;b&gt;Choix&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;div class=&quot;block_textes col-md-12 col-sm-12 col-xs-12 col-lg-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;MAIN&quot;&gt;
+						&lt;p class=&quot;texte_principal modele_resume&quot; data-pg-name=&quot;CONTENT&quot;&gt;&lt;!--?php
+$d = dir(&quot;./theme/&quot;);
+
+echo &quot;Chemin: &quot;.$d---&gt;path.&quot;&lt;br /&gt;
+							\\n&quot;; while($entry = $d-&amp;gt;read()) { echo $entry.&quot;&lt;br /&gt;
+							\\n&quot;; } $d-&amp;gt;close(); ?&amp;gt;&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-md-8 col-lg-8 col-sm-8 col-xs-8 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-offset-1 block_textes&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;declaration_ref&quot;&gt;|Data : P001]&lt;/p&gt;
+
+					&lt;p&gt;&lt;b&gt;Série&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;Le process précède le « schème »&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-md-8 col-lg-8 col-sm-8 col-xs-8 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-offset-1 block_textes&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;declaration_ref&quot;&gt;|Data : P001]&lt;/p&gt;
+
+					&lt;p&gt;&lt;b&gt;Opération&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;Horloge, Cycle, Temps. Opérations production matérielle conçue et fabriquée par l’homme Vitae activa et contemplative&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;row&quot;&gt;
+				&lt;div class=&quot;col-md-8 col-lg-8 col-sm-8 col-xs-8 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-offset-1 block_textes&quot; data-pg-collapsed=&quot;&quot;&gt;
+					&lt;p class=&quot;declaration_ref&quot;&gt;|Data : P001]&lt;/p&gt;
+
+					&lt;p&gt;&lt;b&gt;Expérience&lt;/b&gt;&lt;/p&gt;
+
+					&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+					&lt;p&gt;Est issu d’un mélange d’observation empirique, d’interprétations psychologique, et une tentative de formalisation des idées dans un dispositif.&amp;nbsp;&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;A&quot;&gt;
+		&lt;div class=&quot;col-md-8 col-md-offset-4 col-sm-offset-4 col-xs-offset-4 col-xs-8 col-sm-8 col-lg-8 col-lg-offset-4&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;PUBLICATION&quot;&gt;
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Pierre Boulez - FRAGMENT&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Panofsky - FRAGMENT&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Gilles DELEUZE&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Frederick KITLER&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Hans HAACKE&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Michel FOUCAULT&lt;/p&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;block&quot;&gt;
+				&lt;p class=&quot;couleur_Recherche&quot; data-pg-name=&quot;No&quot;&gt;&lt;b class=&quot;numero couleur_Recherche&quot;&gt;Notes de lecture 01&lt;/b&gt;&lt;/p&gt;
+
+				&lt;p data-pg-collapsed=&quot;&quot; data-pg-name=&quot;APERCU&quot;&gt;Gene YOUNGBLOOD&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Sat, 23 Dec 2017 18:30:55 +0100</creDate><user><![CDATA[admin]]></user><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5></item>

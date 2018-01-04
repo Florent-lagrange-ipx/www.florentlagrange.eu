@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 21 Dec 2017 11:31:59 +0100</pubDate><title><![CDATA[05. +3]]></title><url><![CDATA[3]]></url><meta><![CDATA[Brevet, Technique, Art Appliqué, Supèrieur, Digital]]></meta><metad><![CDATA[Afin d&#039;aider les étudiants à choisir et à évoluer vers le Brevet de Technicien Supérieur qui correspond le leur  projet professionnel. Découvrez ci-dessous une somme de ressources sous formes de fiches pédagogiques et de fiches détaillées. ]]></metad><menu><![CDATA[BTS]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[enseignements]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Introduction}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;p&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-10 col-md-offset-2 col-sm-10 col-xs-10 col-xs-offset-2 col-sm-offset-2 col-lg-10 col-lg-offset-2&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Situation}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction fragment col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Situation:&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur&quot;&gt;{ situation }&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;Le dispositif pédagogique est en cours d&#039;installation.&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;Pour toutes informations complémentaires, merci de me contacter à l&#039;adresse suivante : &lt;a href=&quot;mailto:florent.lagrange[at]ac-lyon.fr&quot;&gt;florent.lagrange[at]ac-lyon.fr&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;Merci pour votre compréhension&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sommaire du programme en cours de formation :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;00. &lt;/strong&gt;Programmes&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;01.&lt;/strong&gt; Calendrier&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;02.&lt;/strong&gt; Scénario pédagogique&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;03.&lt;/strong&gt; Suivi de compétences&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;04&lt;/strong&gt;. Suivi de séquence&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;05. &lt;/strong&gt;Sommaire des thématiques&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;06.&lt;/strong&gt; [Séquences]&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;07.&lt;/strong&gt; HDA&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;08. &lt;/strong&gt;Séquence suivi de cycle&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;09. &lt;/strong&gt;Évaluation&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;10.&lt;/strong&gt; EPI&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;11. &lt;/strong&gt;Règle en classe&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;12. &lt;/strong&gt;T.I.C.E&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Indices}&quot;&gt;&amp;nbsp;&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;CLASSE&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-2 col-sm-2 col-xs-2 col-lg-2&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/enseignements/1-onglet_competences_cours-07.png&quot; width=&quot;100&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+		&lt;p&gt;&lt;b&gt;MOTION Design&lt;/b&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+		&lt;p&gt;&lt;a href=&quot;http://www.florentlagrange.eu/master/motion-design/&quot;&gt;Ateliers et Outils numériques&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;CLASSE&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-2 col-sm-2 col-xs-2 col-lg-2&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/enseignements/1-onglet_competences_cours-08.png&quot; width=&quot;100&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+		&lt;p&gt;&lt;b&gt;SUIVI DE PROJET PROFESSIONNEL&lt;/b&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot;&gt;
+		&lt;p&gt;Ateliers et Outils numériques&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;&amp;nbsp;&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;&amp;nbsp;&lt;/section&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-name=&quot;DATA&quot;&gt;
+		&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Mon, 09 Jan 2017 13:11:59 +0100</creDate><user><![CDATA[admin]]></user><projet><![CDATA[]]></projet><titre><![CDATA[]]></titre><date><![CDATA[]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3><menuOrder><![CDATA[4]]></menuOrder></item>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<item><blogurl><![CDATA[blog]]></blogurl><lang><![CDATA[fr_FR]]></lang><excerptlength><![CDATA[350]]></excerptlength><postformat><![CDATA[N]]></postformat><postperpage><![CDATA[8]]></postperpage><recentposts><![CDATA[4]]></recentposts><prettyurls><![CDATA[Y]]></prettyurls><autoimporter><![CDATA[Y]]></autoimporter><autoimporterpass><![CDATA[passphrase]]></autoimporterpass><displaytags><![CDATA[Y]]></displaytags><rsstitle><![CDATA[Flux Rss]]></rsstitle><rssdescription><![CDATA[]]></rssdescription><comments><![CDATA[N]]></comments><disqusshortname><![CDATA[]]></disqusshortname><disquscount><![CDATA[N]]></disquscount><sharethis><![CDATA[N]]></sharethis><sharethisid><![CDATA[]]></sharethisid><addthis><![CDATA[N]]></addthis><addthisid><![CDATA[]]></addthisid><addata><![CDATA[]]></addata><allpostsadtop><![CDATA[N]]></allpostsadtop><allpostsadbottom><![CDATA[N]]></allpostsadbottom><postadtop><![CDATA[N]]></postadtop><postadbottom><![CDATA[N]]></postadbottom><postthumbnail><![CDATA[Y]]></postthumbnail><displaydate><![CDATA[Y]]></displaydate><previouspage><![CDATA[Nouveaux Billets]]></previouspage><nextpage><![CDATA[Anciens Billets]]></nextpage><displaycss><![CDATA[Y]]></displaycss><csscode><![CDATA[.blog_post_thumbnail {
+	width:200px;
+	height:auto;
+	float:left;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+.blog_post_container {
+	clear:both;
+}					]]></csscode><rssfeedposts><![CDATA[10]]></rssfeedposts><customfields><![CDATA[N]]></customfields><blogpage><![CDATA[]]></blogpage><displayreadmore><![CDATA[Y]]></displayreadmore><readmore><![CDATA[Lire la suite]]></readmore><archivepostcount><![CDATA[Y]]></archivepostcount><postdescription><![CDATA[Y]]></postdescription></item>

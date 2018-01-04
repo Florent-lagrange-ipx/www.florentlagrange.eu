@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 01 Jul 2017 09:07:16 +0200</pubDate><title><![CDATA[06. Gabarit des pages]]></title><url><![CDATA[06-gabarit-des-pages]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[06. Gabarit des pages]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_AIDES.php]]></template><parent><![CDATA[aides]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-3&quot;&gt;
+		&lt;ul&gt;
+			&lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;a class=&quot;sidebar-projet&quot; href=&quot;http://www.florentlagrange.eu/index_P001.html&quot;&gt;&lt;b&gt;INDEX&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;
+				&amp;nbsp;&lt;/li&gt;
+		&lt;/ul&gt;
+
+		&lt;table class=&quot;table1&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;thead&gt;
+				&lt;tr data-pg-collapsed=&quot;&quot;&gt;
+					&lt;th&gt;#&lt;/th&gt;
+					&lt;th&gt;No. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+					&lt;th&gt;Lignes de Recherches&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody class=&quot;tableau&quot;&gt;
+				&lt;tr class=&quot;tableau&quot;&gt;
+					&lt;td class=&quot;ref&quot;&gt;[R1]&amp;nbsp;&lt;/td&gt;
+					&lt;td class=&quot;tableau&quot;&gt;&lt;i&gt;No.I&lt;/i&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;a&gt;M&lt;/a&gt;ETA&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td class=&quot;ref&quot;&gt;[R2]&lt;/td&gt;
+					&lt;td&gt;No.2&lt;/td&gt;
+					&lt;td&gt;&lt;a&gt;TEXTES&lt;/a&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td class=&quot;ref&quot;&gt;[R3]&lt;/td&gt;
+					&lt;td&gt;&lt;i&gt;No.3&lt;/i&gt;&lt;/td&gt;
+					&lt;td&gt;CODES&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td class=&quot;ref&quot;&gt;[R4]&lt;/td&gt;
+					&lt;td&gt;&lt;i&gt;No.4&lt;/i&gt;&lt;/td&gt;
+					&lt;td&gt;TOPOLOGIES&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td class=&quot;ref&quot;&gt;[R5]&lt;/td&gt;
+					&lt;td&gt;&lt;i&gt;No.5&lt;/i&gt;&lt;/td&gt;
+					&lt;td&gt;ARCHITECTURE 3D&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td class=&quot;ref&quot;&gt;[R6]&lt;/td&gt;
+					&lt;td&gt;No.6&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/06-architectures/&quot;&gt;O&lt;/a&gt;BJETS&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+		&lt;/table&gt;
+
+		&lt;div class=&quot;modele_meta_description_article meta col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;
+			&lt;ul&gt;
+				&lt;li data-pg-collapsed=&quot;&quot;&gt;
+					&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;i class=&quot;fa fa-file-pdf-o fa-lg&quot;&gt;&lt;/i&gt;&amp;nbsp;Texte au fromat .pdf &amp;nbsp;&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;i class=&quot;fa fa-lg fa-file-text-o&quot;&gt;&amp;nbsp;&lt;/i&gt;DTD et XML&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;i class=&quot;fa fa-lg fa-crosshairs&quot;&gt;&amp;nbsp;&lt;/i&gt;Site Mirroir de la page&amp;nbsp; &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt;&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;i class=&quot;fa fa-lg fa-check&quot;&gt;&amp;nbsp;&lt;/i&gt;Ajouter à la sélection &lt;i&gt; (En cours d&#039;installation)&lt;/i&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/annexes/01-gabarit/template_zoning_01-02.png&quot; style=&quot;width: 300px;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;No. I&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;META&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;Cette ligne de recherche repose sur l’organisation du flux de la pensée. Il s’agit d’agencer le continuum de la pensée. Nous déterminerons une règle de régulation d’une topologie du quotidien.&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+				&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3 col-sm-3 col-xs-3 col-lg-3&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Vignette Philosophie Carnets de recherches&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/annexes/01-gabarit/template_zoning_01-03.png&quot; style=&quot;width: 300px;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;No. II&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;TEXTES&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;Nous nous intéresserons ici à la retranscription littéraire de la pensée. Les relations entre la raison et son discours. Et la grammaire selon laquelle le langage structure.&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+				&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Art code étude digital narration&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/annexes/01-gabarit/template_zoning_01-04.png&quot; style=&quot;width: 300px;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;No. III&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;CODES&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;L’étude suivante se penchera le code. Elle privilégie l’étude des propriétés des supports et logiciels informatiques, en prêtant une attention aux de leur fabrication et leur contexte historique.&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+				&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a 0841=&quot;&quot; href=&quot;http://www.florentlagrange.eu/recherches/03-codes/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3 col-md-offset-3&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Diagramme topologie plan carte cartographie&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/annexes/01-gabarit/template_zoning_01-06.png&quot; style=&quot;width: 300px;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;No. IV&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;DIAGRAMMES &amp;amp; TOPOLOGIES&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;Dans ce carnet, la carte est considérée comme une interface de médiation entre la planification l’idée et sa réalisation. &amp;nbsp;Il s’agit ici de projeter un territoire d’exploration et de discussion.&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+				&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a 0841=&quot;&quot; href=&quot;http://www.florentlagrange.eu/recherches/04-diagrammes/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Modélisation 3D Impression Forme Architectures&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/recherche_05.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;No. V&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;PROTOTYPES&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;Cette avant-dernière étape du protocole est située comme étant la modélisation des informations inscrit au sein d’un changement d’échelle. Passage ultime entre le dedans et le dehors.&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+				&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a 0841=&quot;&quot; href=&quot;http://www.florentlagrange.eu/recherches/05-objets/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-3&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img alt=&quot;Jeu Dispositif pédagogie objet art&quot; class=&quot;image carnet_image&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/recherche_06.png&quot; style=&quot;width: 100%;&quot; /&gt;&lt;br /&gt;
+		&amp;nbsp;
+		&lt;p class=&quot;couleur_A carnet_travaux_titre&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;b class=&quot;numero&quot;&gt;No. V&lt;/b&gt;&lt;br /&gt;
+			&lt;b&gt;OBJETS&lt;/b&gt;&lt;br /&gt;
+			&amp;nbsp;&lt;/p&gt;
+
+		&lt;p class=&quot;carnet_texte&quot; data-pg-collapsed=&quot;&quot;&gt;Nous acheminerons le processus de production dans un dit «&amp;nbsp;objet&amp;nbsp;» issue du projet. C’est la phase d’objectivation qui donnera précédera une phase de vérification autour sa résilience propre.&amp;nbsp;&lt;/p&gt;
+
+		&lt;p data-pg-collapsed=&quot;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&quot;&gt;
+				&lt;p class=&quot;bouton&quot;&gt;&lt;strong&gt;&lt;a 0841=&quot;&quot; href=&quot;http://www.florentlagrange.eu/recherches/07-exposition/&quot;&gt;Poursuivre&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;row&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[2]]></menuOrder><projet><![CDATA[P000]]></projet><titre><![CDATA[titre]]></titre><date><![CDATA[26/03/2016]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Image]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[Format]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[Vignettes]]></vignettes><introduction><![CDATA[<p>Max 500caract&egrave;res</p>
+]]></introduction><situation><![CDATA[<p>situation</p>
+]]></situation><legende><![CDATA[]]></legende><creDate>Tue, 27 Jun 2017 22:33:10 +0200</creDate><user><![CDATA[admin]]></user></item>

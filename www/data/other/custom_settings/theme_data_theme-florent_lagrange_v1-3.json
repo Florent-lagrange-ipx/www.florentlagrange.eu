@@ -1,0 +1,55 @@
+{
+	"tab": {
+		"lookup": "theme_settings",
+		"label": "Param\u00e8tres du th\u00e8me"
+	},
+	"settings": [
+		{
+			"lookup": "auteur",
+			"label": "auteur",
+			"type": "textarea",
+			"access": "normal",
+			"value": "sdqsq",
+			"i18n": [
+				"sdqsq"
+			]
+		},
+		{
+			"lookup": "nouveau_parametrevv",
+			"label": "aaa",
+			"type": "color",
+			"descr": "Cccffff",
+			"access": "normal",
+			"i18n": [
+				"",
+				""
+			],
+			"options": [
+				"Ddd"
+			]
+		},
+		{
+			"lookup": "nouveaufff_parametre",
+			"label": "Nouveau param\u00e8treeee",
+			"type": "radio",
+			"access": "normal",
+			"value": "",
+			"i18n": [
+				"",
+				""
+			]
+		},
+		{
+			"lookup": "nouveau_parametre",
+			"label": "Nouveau param\u00e8tre",
+			"type": "switch",
+			"descr": "fdsfsdfsd",
+			"access": "normal",
+			"value": "Admin",
+			"i18n": [
+				"Admin",
+				"Admin"
+			]
+		}
+	]
+}

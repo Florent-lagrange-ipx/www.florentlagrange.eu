@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 04 Jul 2017 11:41:04 +0200</pubDate><title><![CDATA[Motion-Design]]></title><url><![CDATA[motion-design]]></url><meta><![CDATA[Video, Animation, 2d/3d, Séquence, Scénario]]></meta><metad><![CDATA[Lancement du projet : Le client soumet son projet au chef de projet de l’agence qui analyse avec lui ses besoins, ses objectifs et détermine un budget et un planning qui lui convient.]]></metad><menu><![CDATA[Motion-Design]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_OBSERVATOIRES.php]]></template><parent>5</parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Introduction}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;p&quot;&gt;Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information.&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-collapsed=&quot;&quot; data-pg-name=&quot;{Situation}&quot;&gt;
+	&lt;div class=&quot;col-md-9 col-sm-9 col-xs-9 col-lg-9&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;strong&gt;Le dispositif pédagogique est en cours d&#039;installation.&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;Pour toutes informations complémentaires, merci de me contacter à l&#039;adresse suivante : &lt;a href=&quot;mailto:florent.lagrange[at]ac-lyon.fr&quot;&gt;florent.lagrange[at]ac-lyon.fr&lt;/a&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;Merci pour votre compréhension&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sommaire du programme en cours de formation :&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;00. &lt;/strong&gt;Programmes&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;01.&lt;/strong&gt; Calendrier&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;02.&lt;/strong&gt; Scénario pédagogique&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;03.&lt;/strong&gt; Suivi de compétences&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;04&lt;/strong&gt;. Suivi de séquence&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;05. &lt;/strong&gt;Sommaire des thématiques&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;06.&lt;/strong&gt; [Séquences]&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;07.&lt;/strong&gt; HDA&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;08. &lt;/strong&gt;Séquence suivi de cycle&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;09. &lt;/strong&gt;Évaluation&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;10.&lt;/strong&gt; EPI&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;11. &lt;/strong&gt;Règle en classe&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;12. &lt;/strong&gt;T.I.C.E&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;div class=&quot;sidebar-introduction fragment col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;OBJECTIFS:&lt;/strong&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;col-md-10 col-lg-10 col-sm-10 col-xs-10&quot;&gt;
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Élaboration du cours Motion Design&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;BTS &lt;/strong&gt;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;strong&gt;[MoD.001&lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;Cours Février-Avril 2017&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;strong&gt;1.&amp;nbsp;ÉTAPE N°1: DEMANDE CLIENT&lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Tout commence par la réception d’un &lt;strong&gt;brief.&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;h2&gt;&lt;em&gt;Lancement du projet&amp;nbsp;: Le client soumet son projet au chef de projet de l’agence qui analyse avec lui ses besoins, ses objectifs et détermine un budget et un planning qui lui convient.&lt;/em&gt;&lt;/h2&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-4&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.florentlagrange.eu/data/uploads/enseignements/isotype_exo.png&quot; style=&quot;width: 75px; height: 75px;&quot; /&gt;&lt;/div&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;div class=&quot;col-md-12 col-lg-12 col-sm-12 col-xs-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;////////////////////////&quot;&gt;
+			&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+		&lt;p&gt;Celui-ci &amp;nbsp;est une synthèse qui regroupe les différents besoins du client.&lt;/p&gt;
+
+		&lt;p&gt;Lors de ce premier entretien, le client va vous faire part de ces envies et du produit qu’il désire concevoir.&lt;/p&gt;
+
+		&lt;p&gt;Ce document est une référence pour la suite des évènements et permettra d’être un point de repère dans l’élaboration du projet. Le &lt;em&gt;Brief &lt;/em&gt;se doit d’être au plus juste car il facilitera, premièrement administrativement, le devis de votre production. Et artistiquement celui-ci simplifiera la phase de rédaction du scénario, ou l’écriture de la voix-off.&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;a name=&quot;_a5p5phmxsge&quot;&gt;&lt;/a&gt;&lt;strong&gt;2. &amp;nbsp;ÉTAPE N°2: LE SCÉNARIO ET LA VOIX-OFF&lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;h2&gt;&lt;em&gt;Direction artistique&amp;nbsp;: intention de réalisation: moodboard, premiers visuels, références de vidéos en motion design ou live action, commentaires sur le script, proposition d’habillage sonore (musique, voix-off et Sound design)&lt;/em&gt;&lt;/h2&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Écrire le scénario et la voix-off va permettre de préciser en détail la narration de votre projet. Tout au long de ce travail vous devrez synchroniser l’évolution de votre projet avec votre client afin de lui d’être sûr d’être au plus proche de ce qu’il souhaite. En ne perdant pas de vue le Brief Initial. Ne sous-estimez la gestion des donnée techniques de votre projet qui a tout moment peuvent venir mettre à défaut votre calendrier.&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;La seconde phase de validation de votre projet est la validation de votre scénario, vous devrez élaborer la voix-off de votre partition. Le son, bruitage ou image permettra de faciliter la création graphique et visuelle du propos.&lt;/p&gt;
+
+		&lt;p&gt;Cette seconde parti permet d’obtenir un premier chemin de fer (ou fil de fer, trame) pour votre projet. Cette partition sera le point de concordance qui permettra de gérer l’ensemble de l’équipe.&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;a name=&quot;_hrvwle8esn9p&quot;&gt;&lt;/a&gt;&lt;strong&gt;3. ÉTAPE N°3: LE STORYBOARD&lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;Pré-production&amp;nbsp;: c’est l’ensemble des plans et transitions des films sont dessinés et les concepteurs-rédacteurs participent à la rédaction du script.&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Afin de mettre en image la partition textuelle, ou découpage technique développée dans la phase 2 (Scénario et voix off), il s’agira dans ce troisième acte d’élaborer le «&amp;nbsp;Storyboard&amp;nbsp;» du projet. Inscrit chronologiquement dans une ligne de temps &lt;em&gt;(Timeline)&lt;/em&gt;, il est l’esquisse du montage. Il permettra de présenter et de rechercher succinctement le premier aspect de la recherche visuel. Le &lt;em&gt;storyboard &lt;/em&gt;doit néanmoins être suffisamment précis pour donner une vision aboutie de ce à quoi va ressembler le film. Les informations nécessaires à la bonne compréhension du scenario sont&amp;nbsp;: Mouvement, Mise en scène, Lumière, Animation, Voix-off, bruitage…&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;a name=&quot;_is95j77sn2m0&quot;&gt;&lt;/a&gt;&lt;strong&gt;4. ÉTAPE N°4: TEMPLATE, MAQUETTE &amp;amp; CHUTIER.&lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;C’est l’élaboration de votre plan de travail et la mise en place de votre chaîne de production. Il en consistera de synchroniser toute les phases de fabrication de votre vidéo.&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Afin de constituer une base pour notre projet vidéo, nous allons dans cette étape créer numériquement avec l’aide d’outil informatique, libre de préférences, les éléments graphiques que nous avons élaborés précédemment dans la partir 3. (Storyboard).Dans cette partie il consistera avec l’aide technique des outils PAO de créer la matière première de nos animations. Il s’agit ici de prendre connaissance des meilleurs formats adaptés (qualité / poids). Nous n’avons néanmoins toujours pas activé la phase d’animation de ces objets.&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;a name=&quot;_umk121ylhbii&quot;&gt;&lt;/a&gt;&lt;strong&gt;5. ÉTAPE N°5: IMAGE ANIMÉE&lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;Vous allé envoyer des samples au client (appelé autrement animatics) afon de vérifier ou de réajuster l’évolution au sein de votre travail. C’est une vue ou une extraction de la réalisation finale du projet. &lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;La première étape va consister à récupérer les différents éléments créés précédemment afin de les installer au sein de notre logiciel d’animation. Naturellement, une bonne organisation des calques, et des fichiers, un plan de nommage également vous permettra de vous repérer plus facilement dans votre animation. Nous rentrons par conséquent dans une phase dit de montage ou de postproduction.&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;h1&gt;&lt;a name=&quot;_5km05qz9ubsv&quot;&gt;&lt;/a&gt;&lt;strong&gt;6. ÉTAPE N°6: LA MASTERISATION &amp;amp; L’EXPORTATION &lt;/strong&gt;&lt;/h1&gt;
+
+		&lt;h1&gt;&amp;nbsp;&lt;/h1&gt;
+
+		&lt;p&gt;&lt;em&gt;Une fois la vidéo motion design ou le tournage réalisé, il faut faire des ajustements d’après les retours client et faire le mixage audio final et éventuellement rajouter du Sound design si besoin.&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&lt;em&gt;Ensuite, la vidéo est exportée selon le(s) format(s) souhaités par le client.&lt;/em&gt;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Pour conclure, une des phases les plus importantes qu’il ne faut prévoir est la masterisation du projet Il est nécessaire de prévoir suffisamment de temps pour ne pas bâcler cette étape et elle est certainement une des plus délicates. Après avoir ajusté les bruitages et le son, effectué un étalonnage colorimétrique, il s’agira d’exporter votre travail sur différents support et de le compressé. Vous devrez en fonction du besoin trouver le bon rapport poids/qualité.&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;Pour conclure, vous validerez votre projet par votre client ou votre jury selon l’objet présenté.&lt;/p&gt;
+
+		&lt;p&gt;&lt;a name=&quot;_bsudiimxzmrq&quot;&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+		&lt;p&gt;&lt;strong&gt;Ressources visuelles&amp;nbsp;:&lt;/strong&gt; https://mattrunks.com/fr/videos/358&lt;/p&gt;
+
+		&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;CLASSE&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/enseignements/1-onglet_competences_cours-10.png&quot; width=&quot;100&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;b&gt;MODELISATION 3D&lt;/b&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;Ateliers et Outils numériques&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;CLASSE&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/enseignements/1-onglet_competences_cours-11.png&quot; width=&quot;100&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;b&gt;Dev.FRONT-END&lt;/b&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;Ateliers et Outils numériques&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;
+		&lt;hr class=&quot;hr_titre&quot; /&gt;&lt;/div&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;sidebar-introduction col-md-2 col-sm-2 col-xs-2 col-lg-2 fragment_03&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p class=&quot;couleur_A&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;TITRE&quot;&gt;&lt;strong&gt;CLASSE&lt;/strong&gt;&lt;/p&gt;
+
+		&lt;p class=&quot;sidebar-projet plan_balise_couleur_bleu plan_balise_0254e5 plan_balise_couleur_blanc&quot;&gt;{ introduction}&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-2 col-sm-2 col-xs-2 col-lg-2&quot; data-pg-collapsed=&quot;&quot;&gt;&lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/enseignements/1-onglet_competences_cours-12.png&quot; width=&quot;100&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;&lt;b&gt;Dev.BACK-END&lt;/b&gt;&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-4 col-sm-4 col-xs-4 col-lg-4&quot; data-pg-collapsed=&quot;&quot;&gt;
+		&lt;p&gt;Ateliers et Outils numériques&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;
+	&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section data-pg-name=&quot;{Limites - Ouverture}&quot;&gt;&amp;nbsp;&lt;/section&gt;
+
+	&lt;div class=&quot;row&quot; data-pg-name=&quot;DATA&quot;&gt;
+		&lt;div class=&quot;row&quot; data-pg-collapsed=&quot;&quot;&gt;
+			&lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt;&amp;nbsp;&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; title=&quot;///////////&quot;&gt;
+			&lt;hr /&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[8]]></menuOrder><projet><![CDATA[]]></projet><titre><![CDATA[]]></titre><date><![CDATA[]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[]]></vignettes><introduction><![CDATA[]]></introduction><situation><![CDATA[]]></situation><legende><![CDATA[]]></legende><creDate>Mon, 23 Jan 2017 13:52:21 +0100</creDate><user><![CDATA[admin]]></user></item>

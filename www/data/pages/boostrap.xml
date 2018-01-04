@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 18 Dec 2017 11:59:57 +0100</pubDate><title><![CDATA[Boostrap]]></title><url><![CDATA[boostrap]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Boostrap]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_STANDARD.php]]></template><parent><![CDATA[charte-graphique-web]]></parent><content><![CDATA[&lt;div class=&quot;container&quot; data-pg-name=&quot;ARTICLE&quot;&gt;
+	&lt;h1&gt;Bootstrap 3 Template&lt;/h1&gt;
+
+	&lt;p class=&quot;lead&quot;&gt;A Full Featured Example&lt;/p&gt;
+	&lt;!-- Typography
+================================================== --&gt;
+
+	&lt;section id=&quot;typography&quot;&gt;
+	&lt;div class=&quot;page-header&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;!-- Headings &amp; Paragraph Copy --&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;div class=&quot;well&quot;&gt;
+				&lt;h1&gt;h1. Bootstrap 3&lt;/h1&gt;
+
+				&lt;h2&gt;h2. Heading 2&lt;/h2&gt;
+
+				&lt;h3&gt;h3. Heading 3&lt;/h3&gt;
+
+				&lt;h4&gt;h4. Heading 4&lt;/h4&gt;
+
+				&lt;h5&gt;h5. Heading 5&lt;/h5&gt;
+
+				&lt;h6&gt;h6. Heading 6&lt;/h6&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-6&quot;&gt;
+			&lt;h3&gt;Bootstrap Framework&lt;/h3&gt;
+
+			&lt;p&gt;In simple terms, a responsive web design figures out what resolution of device it&#039;s being served on. Flexible grids then size correctly to fit the screen.&lt;/p&gt;
+
+			&lt;p&gt;The new Bootstrap 3 promises to be a smaller build. The separate Bootstrap base and responsive.css files have now been merged into one. There is no more fixed grid, only fluid.&lt;/p&gt;
+
+			&lt;hr /&gt;
+			&lt;blockquote class=&quot;pull-right&quot;&gt;
+				&lt;p&gt;Have you ever had a project where you thought it would be so much better to just throw everything out and start over? I believe that’s what’s happening with BS3.&lt;/p&gt;
+				&lt;small&gt;&lt;cite title=&quot;Source Title&quot;&gt;Quasipickle&lt;/cite&gt;&lt;/small&gt;&lt;/blockquote&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;!-- Bootstrap 3 Navbar
+================================================== --&gt;
+
+	&lt;section id=&quot;navbar&quot;&gt;
+	&lt;div class=&quot;page-header&quot;&gt;
+		&lt;h1&gt;Bootstrap 3 Navbar&lt;/h1&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;nav class=&quot;navbar&quot; role=&quot;navigation&quot;&gt;&lt;!-- Brand and toggle get grouped for better mobile display --&gt;
+		&lt;div class=&quot;navbar-header&quot;&gt;&lt;button class=&quot;navbar-toggle&quot; data-target=&quot;.navbar-ex1-collapse&quot; data-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Title&lt;/a&gt;&lt;/div&gt;
+		&lt;!-- Collect the nav links, forms, and other content for toggling --&gt;
+
+		&lt;div class=&quot;collapse navbar-collapse navbar-ex1-collapse&quot;&gt;
+			&lt;ul class=&quot;nav navbar-nav&quot;&gt;
+				&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+				&lt;li class=&quot;dropdown&quot;&gt;&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Dropdown &lt;/a&gt;
+					&lt;ul class=&quot;dropdown-menu&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;One more separated link&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;!-- /.navbar-collapse --&gt;&lt;/nav&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;nav class=&quot;navbar navbar-inverse&quot; role=&quot;navigation&quot;&gt;&lt;!-- Brand and toggle get grouped for better mobile display --&gt;
+		&lt;div class=&quot;navbar-header&quot;&gt;&lt;button class=&quot;navbar-toggle&quot; data-target=&quot;.navbar-ex1-collapse&quot; data-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;&lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt; &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Title&lt;/a&gt;&lt;/div&gt;
+		&lt;!-- Collect the nav links, forms, and other content for toggling --&gt;
+
+		&lt;div class=&quot;collapse navbar-collapse navbar-ex1-collapse&quot;&gt;
+			&lt;ul class=&quot;nav navbar-nav&quot;&gt;
+				&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+				&lt;li class=&quot;dropdown&quot;&gt;&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Dropdown &lt;/a&gt;
+					&lt;ul class=&quot;dropdown-menu&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;One more separated link&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;!-- /.navbar-collapse --&gt;&lt;/nav&gt;
+	&lt;/div&gt;
+	&lt;/section&gt;
+
+	&lt;section&gt;&lt;!--Bootstrap 3 Scaffolding--&gt;
+	&lt;div class=&quot;page-header&quot;&gt;
+		&lt;h1&gt;Grid&lt;/h1&gt;
+
+		&lt;p class=&quot;lead&quot;&gt;Bootstrap 3 scaffolding has changed for improved display on mobile devices&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-lg-12&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;
+					&lt;p&gt;col-lg-12&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-lg-4&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;
+					&lt;p&gt;col-lg-4&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-lg-4&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;
+					&lt;p&gt;col-lg-4&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-lg-4&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;
+					&lt;p&gt;col-lg-4&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-lg-6 col-sm-6&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;
+					&lt;p&gt;col-lg-6&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-lg-6 col-sm-6&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;
+					&lt;p&gt;col-lg-6&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-lg-9 col-sm-6&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;col-lg-9 / col-sm-6&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-lg-3 col-sm-6&quot;&gt;
+				&lt;div class=&quot;well&quot;&gt;col-lg-3 / col-sm-6&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;!-- Bootstrap 3 Buttons
+================================================== --&gt;
+
+	&lt;section id=&quot;buttons&quot;&gt;
+	&lt;div class=&quot;page-header&quot;&gt;
+		&lt;h1&gt;Bootstrap 3 Buttons&lt;/h1&gt;
+
+		&lt;p class=&quot;lead&quot;&gt;With no gradients and borders, Bootstrap 3.0 buttons now have a flatter look&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;h2&gt;Button Sizes (4)&lt;/h2&gt;
+
+	&lt;ul class=&quot;the-buttons clearfix&quot;&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-xs btn-primary&quot; href=&quot;#&quot;&gt;btn-xs&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-sm btn-primary&quot; href=&quot;#&quot;&gt;btn-sm&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;#&quot;&gt;btn&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-lg btn-primary&quot; data-toggle=&quot;modal&quot; href=&quot;#myModal&quot;&gt;modal&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;myModalLabel&quot; class=&quot;modal fade&quot; id=&quot;myModal&quot; role=&quot;dialog&quot; tabindex=&quot;-1&quot;&gt;
+		&lt;div class=&quot;modal-dialog&quot;&gt;
+			&lt;div class=&quot;modal-content&quot;&gt;
+				&lt;div class=&quot;modal-header&quot;&gt;&lt;button aria-hidden=&quot;true&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;×&lt;/button&gt;
+
+					&lt;h3 id=&quot;myModalLabel&quot;&gt;Modal header&lt;/h3&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;modal-body&quot;&gt;
+					&lt;p&gt;One fine body…&lt;/p&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;modal-footer&quot;&gt;&lt;button aria-hidden=&quot;true&quot; class=&quot;btn&quot; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;&lt;button class=&quot;btn btn-primary&quot;&gt;Save changes&lt;/button&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;h2&gt;Button Classes&lt;/h2&gt;
+
+	&lt;ul class=&quot;the-buttons clearfix&quot;&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot;&gt;Default&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-primary&quot; href=&quot;#&quot;&gt;Primary&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot;&gt;Success&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-info&quot; href=&quot;#&quot;&gt;Info&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-warning&quot; href=&quot;#&quot;&gt;Warning&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-danger&quot; href=&quot;#&quot;&gt;Danger&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-primary disabled&quot; href=&quot;#&quot;&gt;Disabled&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-link&quot; href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;!-- Single button --&gt;
+			&lt;div class=&quot;btn-group&quot;&gt;&lt;button class=&quot;btn btn-default dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; type=&quot;button&quot;&gt;Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/button&gt;
+				&lt;ul class=&quot;dropdown-menu&quot;&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+					&lt;li class=&quot;divider&quot;&gt;&amp;nbsp;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;a class=&quot;btn btn-info&quot; href=&quot;#&quot;&gt;&lt;i class=&quot;glyphicon glyphicon-map-marker&quot;&gt;&lt;/i&gt; Icon&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/section&gt;
+	&lt;!-- Icons
+================================================== --&gt;&lt;!-- Forms
+================================================== --&gt;
+
+	&lt;section id=&quot;forms&quot;&gt;
+	&lt;div class=&quot;page-header&quot;&gt;
+		&lt;h2&gt;Forms&lt;/h2&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-8&quot;&gt;
+			&lt;h3&gt;Form Inline&lt;/h3&gt;
+
+			&lt;form class=&quot;form-inline well&quot;&gt;
+			&lt;div class=&quot;col-md-3&quot;&gt;&lt;input class=&quot;form-control&quot; placeholder=&quot;Email&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;col-md-3&quot;&gt;&lt;input class=&quot;form-control&quot; placeholder=&quot;Password&quot; type=&quot;password&quot; /&gt;&lt;/div&gt;
+
+			&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;input type=&quot;checkbox&quot; /&gt;Remember me &lt;/label&gt;&lt;/div&gt;
+			&lt;button class=&quot;btn btn-default&quot; type=&quot;submit&quot;&gt;Sign in&lt;/button&gt;&lt;/form&gt;
+
+			&lt;h3&gt;Form Horizontal&lt;/h3&gt;
+
+			&lt;form class=&quot;form-horizontal well&quot;&gt;
+			&lt;fieldset&gt;&lt;legend&gt;Bootstrap 3 Inputs&lt;/legend&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;input01&quot;&gt;Text input&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;input class=&quot;form-control input-xlarge&quot; id=&quot;input01&quot; type=&quot;text&quot; /&gt;
+					&lt;p class=&quot;help-block&quot;&gt;In addition to freeform text, any HTML5 text-based input appears like so.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;optionsCheckbox&quot;&gt;Checkbox&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;label class=&quot;checkbox&quot;&gt;&lt;input id=&quot;optionsCheckbox&quot; type=&quot;checkbox&quot; value=&quot;option1&quot; /&gt;Option one is this and that—be sure to include why it&#039;s great &lt;/label&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;select01&quot;&gt;Select list&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;select class=&quot;form-control&quot; id=&quot;select01&quot;&gt;&lt;option&gt;something&lt;/option&gt;&lt;option&gt;2&lt;/option&gt;&lt;option&gt;3&lt;/option&gt;&lt;option&gt;4&lt;/option&gt;&lt;option&gt;5&lt;/option&gt; &lt;/select&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;multiSelect&quot;&gt;Multicon-select&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;select class=&quot;form-control&quot; id=&quot;multiSelect&quot; multiple=&quot;multiple&quot;&gt;&lt;option&gt;1&lt;/option&gt;&lt;option&gt;2&lt;/option&gt;&lt;option&gt;3&lt;/option&gt;&lt;option&gt;4&lt;/option&gt;&lt;option&gt;5&lt;/option&gt; &lt;/select&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;fileInput&quot;&gt;File input&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;input class=&quot;form-control input-file&quot; id=&quot;fileInput&quot; type=&quot;file&quot; /&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;textarea&quot;&gt;Textarea&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;textarea class=&quot;form-control input-xlarge&quot; id=&quot;textarea&quot; rows=&quot;3&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;optionsCheckbox2&quot;&gt;Disabled checkbox&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;label class=&quot;checkbox&quot;&gt;&lt;input disabled=&quot;disabled&quot; id=&quot;optionsCheckbox2&quot; type=&quot;checkbox&quot; value=&quot;option1&quot; /&gt;This is a disabled checkbox &lt;/label&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;control-group warning&quot;&gt;&lt;label class=&quot;control-label&quot; for=&quot;inputWarning&quot;&gt;Input with warning&lt;/label&gt;
+
+				&lt;div class=&quot;controls&quot;&gt;&lt;input class=&quot;form-control&quot; id=&quot;inputWarning&quot; type=&quot;text&quot; /&gt; &lt;span class=&quot;help-inline&quot;&gt;Something may have gone wrong&lt;/span&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;hr /&gt;
+			&lt;div class=&quot;form-actions&quot;&gt;&lt;button class=&quot;btn btn-primary&quot; type=&quot;submit&quot;&gt;Save changes&lt;/button&gt;&lt;button class=&quot;btn&quot; type=&quot;reset&quot;&gt;Cancel&lt;/button&gt;&lt;/div&gt;
+			&lt;/fieldset&gt;
+			&lt;/form&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;!-- Tables
+================================================== --&gt;
+
+	&lt;section id=&quot;tables&quot;&gt;
+	&lt;div class=&quot;page-header&quot;&gt;
+		&lt;h1&gt;Tables&lt;/h1&gt;
+	&lt;/div&gt;
+
+	&lt;table class=&quot;table table-bordered table-striped table-hover&quot;&gt;
+		&lt;thead&gt;
+			&lt;tr&gt;
+				&lt;th&gt;#&lt;/th&gt;
+				&lt;th&gt;First Name&lt;/th&gt;
+				&lt;th&gt;Last Name&lt;/th&gt;
+				&lt;th&gt;Username&lt;/th&gt;
+			&lt;/tr&gt;
+		&lt;/thead&gt;
+		&lt;tbody&gt;
+			&lt;tr&gt;
+				&lt;td&gt;1&lt;/td&gt;
+				&lt;td&gt;Mark&lt;/td&gt;
+				&lt;td&gt;Otto&lt;/td&gt;
+				&lt;td&gt;@mdo&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;2&lt;/td&gt;
+				&lt;td&gt;Jacob&lt;/td&gt;
+				&lt;td&gt;Thornton&lt;/td&gt;
+				&lt;td&gt;@fat&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;3&lt;/td&gt;
+				&lt;td&gt;Larry&lt;/td&gt;
+				&lt;td&gt;the Bird&lt;/td&gt;
+				&lt;td&gt;@twitter&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;/tbody&gt;
+	&lt;/table&gt;
+	&lt;/section&gt;
+	&lt;!-- Miscellaneous
+================================================== --&gt;
+
+	&lt;section id=&quot;miscellaneous&quot;&gt;
+	&lt;div class=&quot;page-header&quot;&gt;
+		&lt;h1&gt;Miscellaneous&lt;/h1&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;breadcrumbs&quot;&gt;Breadcrumbs&lt;/h3&gt;
+
+			&lt;ul class=&quot;breadcrumb&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt; &lt;span class=&quot;divider&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Library&lt;/a&gt; &lt;span class=&quot;divider&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+				&lt;li class=&quot;active&quot;&gt;Data&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;pagination&quot;&gt;Pagination&lt;/h3&gt;
+
+			&lt;ul class=&quot;pagination&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;«&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;4&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;5&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;»&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;pager&quot;&gt;Pagers&lt;/h3&gt;
+
+			&lt;ul class=&quot;pager&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Previous&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Next&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;ul class=&quot;pager&quot;&gt;
+				&lt;li class=&quot;previous disabled&quot;&gt;&lt;a href=&quot;#&quot;&gt;? Older&lt;/a&gt;&lt;/li&gt;
+				&lt;li class=&quot;next&quot;&gt;&lt;a href=&quot;#&quot;&gt;Newer ?&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;!-- Navs
+  ================================================== --&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;tabs&quot;&gt;Tabs&lt;/h3&gt;
+
+			&lt;ul class=&quot;nav nav-tabs&quot;&gt;
+				&lt;li class=&quot;active&quot;&gt;&lt;a data-toggle=&quot;tab&quot; href=&quot;#A&quot;&gt;Section 1&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a data-toggle=&quot;tab&quot; href=&quot;#B&quot;&gt;Section 2&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a data-toggle=&quot;tab&quot; href=&quot;#C&quot;&gt;Section 3&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;tabbable&quot;&gt;
+				&lt;div class=&quot;tab-content&quot;&gt;
+					&lt;div class=&quot;tab-pane active&quot; id=&quot;A&quot;&gt;
+						&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+						&lt;p&gt;I&#039;m in Section A.&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;tab-pane&quot; id=&quot;B&quot;&gt;
+						&lt;p&gt;Howdy, I&#039;m in Section B.&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;tab-pane&quot; id=&quot;C&quot;&gt;
+						&lt;p&gt;What up girl, this is Section C.&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- /tabbable --&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;pills&quot;&gt;Pills&lt;/h3&gt;
+
+			&lt;ul class=&quot;nav nav-pills&quot;&gt;
+				&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Profile&lt;/a&gt;&lt;/li&gt;
+				&lt;li class=&quot;dropdown&quot;&gt;&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Dropdown &lt;/a&gt;
+					&lt;ul class=&quot;dropdown-menu&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+						&lt;li class=&quot;divider&quot;&gt;&amp;nbsp;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/li&gt;
+				&lt;li class=&quot;disabled&quot;&gt;&lt;a href=&quot;#&quot;&gt;Disabled link&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;list&quot;&gt;Nav Lists&lt;/h3&gt;
+
+			&lt;div class=&quot;well&quot; style=&quot;padding: 8px 0;&quot;&gt;
+				&lt;ul class=&quot;nav nav-list&quot;&gt;
+					&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Library&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Applications&lt;/a&gt;&lt;/li&gt;
+					&lt;li class=&quot;divider&quot;&gt;&amp;nbsp;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;!-- Labels
+================================================== --&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;labels&quot;&gt;Labels&lt;/h3&gt;
+			&lt;span class=&quot;label label-default&quot;&gt;Default&lt;/span&gt; &lt;span class=&quot;label label-success&quot;&gt;Success&lt;/span&gt; &lt;span class=&quot;label label-warning&quot;&gt;Warning&lt;/span&gt; &lt;span class=&quot;label label-danger&quot;&gt;Danger&lt;/span&gt; &lt;span class=&quot;label label-info&quot;&gt;Info&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;badges&quot;&gt;Badges&lt;/h3&gt;
+			&lt;span class=&quot;badge&quot;&gt;Default&lt;/span&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;h3 id=&quot;badges&quot;&gt;Progress bars&lt;/h3&gt;
+
+			&lt;div class=&quot;progress&quot;&gt;
+				&lt;div class=&quot;progress-bar progress-bar-info&quot; style=&quot;width: 20%&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;progress&quot;&gt;
+				&lt;div class=&quot;progress-bar progress-bar-success&quot; style=&quot;width: 40%&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;progress&quot;&gt;
+				&lt;div class=&quot;progress-bar progress-bar-warning&quot; style=&quot;width: 60%&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;progress&quot;&gt;
+				&lt;div class=&quot;progress-bar progress-bar-danger&quot; style=&quot;width: 80%&quot;&gt;&amp;nbsp;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;br /&gt;
+	&lt;!-- Panel &amp; ListGroups
+================================================== --&gt;
+	&lt;hr /&gt;
+	&lt;h2 id=&quot;panels&quot;&gt;Bootstrap 3 Panels&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;div class=&quot;panel panel-default&quot;&gt;
+				&lt;div class=&quot;panel-heading&quot;&gt;Panel heading&lt;/div&gt;
+
+				&lt;div class=&quot;panel-body&quot;&gt;Hello. This is the Panel content.&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;div class=&quot;panel panel-primary&quot;&gt;
+				&lt;div class=&quot;panel-heading&quot;&gt;Panel primary&lt;/div&gt;
+
+				&lt;div class=&quot;panel-body&quot;&gt;Panels are new in BS3.&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;div class=&quot;panel panel-success&quot;&gt;
+				&lt;div class=&quot;panel-heading&quot;&gt;Panel success&lt;/div&gt;
+
+				&lt;div class=&quot;panel-body&quot;&gt;You can use contextual classes.&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;!-- ListGroups
+================================================== --&gt;
+
+	&lt;hr /&gt;
+	&lt;h2 id=&quot;panels&quot;&gt;Bootstrap 3 List Groups&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;ul class=&quot;list-group&quot;&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;List item 1&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;List item 2&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;Mobile-first&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;Responsive&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;Lightweight&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;ul class=&quot;list-group&quot;&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt; List item 1&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt; List item 2&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt; Mobile-first&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt; Responsive&lt;/li&gt;
+				&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt; Lightweight&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;col-lg-4&quot;&gt;
+			&lt;div class=&quot;list-group&quot;&gt;&lt;a class=&quot;list-group-item active&quot; href=&quot;#&quot;&gt;Linked list group&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Dapibus ac facilisis in&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Morbi leo risus&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Porta ac consectetur ac&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt; &lt;a class=&quot;list-group-item&quot; href=&quot;#&quot;&gt;Vestibulum at eros&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;!-- Well Sizes
+================================================== --&gt;
+
+	&lt;hr /&gt;
+	&lt;h2&gt;Well Sizes&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+			&lt;div class=&quot;well well-sm&quot;&gt;.well-sm&lt;/div&gt;
+
+			&lt;div class=&quot;well&quot;&gt;.well&lt;/div&gt;
+
+			&lt;div class=&quot;well well-lg&quot;&gt;.well-lg&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;hr /&gt;&lt;/section&gt;
+
+	&lt;hr /&gt;&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Thu, 06 Jul 2017 13:46:16 +0200</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[-]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3></item>

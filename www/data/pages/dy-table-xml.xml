@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 27 Dec 2017 09:22:44 +0100</pubDate><title><![CDATA[DY table XML]]></title><url><![CDATA[dy-table-xml]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[DY table XML]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template_DEFAUT_page_SANDBOX.php]]></template><parent><![CDATA[sandbox]]></parent><content><![CDATA[&lt;div class=&quot;table-responsive&quot;&gt;&amp;nbsp;
+	&lt;p&gt;(% dyXMLTable filename:xml/test.xml %)&lt;/p&gt;
+
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+	&lt;p&gt;[[imforms contact]]&lt;/p&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Sun, 24 Dec 2017 04:43:15 +0100</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[-]]></titre><date><![CDATA[-]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Mix Media]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[-]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3><menuOrder><![CDATA[1]]></menuOrder></item>

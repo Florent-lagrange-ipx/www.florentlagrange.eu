@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<pubDate>Fri, 22 Dec 2017 08:28:11 +0100</pubDate>
+	<title>01. Sémiologie graphique</title>
+	<url>01-semiologie-graphique</url>
+	<meta>Diagramme,Topologie, Schémas</meta>
+	<metad>[T1] : Situation
+Dans ce carnet, cette ligne de recherche est la carte comme interface de médiation entre le territoire et l’utilisateur du réseau d’information. 
+[T2] : Objectifs et Problématiques  
+Notre objectif va donc être d’établir les ponts conceptuels entre la métaphore comme une représentation visuelle universelle des connaissances. Nous cartographierons de manière schématique, des ensembles d’objets. Dans un espace en deux dimensions, nous tenterons de projeter les idées préalablement conceptualiser dans les chapitres précédents et les mathématiserons de manière logique.
+ [T3] : Plan – Concept   
+Sur cette base, nous voulons montrer que la topologie, hors contexte géographique, constitue une forme de métaphore visuelle. Ce travail montre l’importance de la visualisation de l’information et de ses représentations spatiales. 
+ [T4] : Méthode   
+La méthode suivie pour le cheminement vu comme un dialogue entre topographie et topologie. Puis la carte sera employée comme un système de visualisation des données. La carte, ensuite expérimentera le modèle interactif comme métaphore spatiale et comme modèle de représentation des connaissances. 
+[T5] : Limites - Ouverture  
+Le diagramme est une esquisse qui se limite à un plan à une esquisse. C’est un schéma d’exploration et d’explication d’un territoire nouveau. Le diagramme n’est pas une œuvre en soi.</metad>
+	<menu>01. Diagrammes</menu>
+	<template>template.php</template>
+	<parent>04-diagrammes</parent>
+	<content>&amp;lt;div class=&amp;quot;row&amp;quot; data-pg-name=&amp;quot;ARTICLE&amp;quot;&amp;gt;
+	&amp;lt;div class=&amp;quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&amp;quot; data-pg-collapsed=&amp;quot;&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/1-logo_web-wwwrosas_01-02.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-md-6 col-sm-6 col-xs-6 col-lg-6&amp;quot; data-pg-collapsed=&amp;quot;&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01a.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&amp;quot;&amp;gt;
+		&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01-02.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01-03.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01-04.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01-05.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01-06.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+	&amp;lt;div class=&amp;quot;col-xs-2 col-sm-2 col-md-2 col-lg-2&amp;quot; data-pg-name=&amp;quot;PUBLICATION&amp;quot;&amp;gt;
+		&amp;lt;div&amp;gt;&amp;lt;img alt=&amp;quot;Vignette Philosophie Carnets de recherches&amp;quot; class=&amp;quot;image carnet_image&amp;quot; src=&amp;quot;http://www.florentlagrange.eu/data/uploads/01-carnets-de-recherches/04-diagrammes/01-semiologie-graphique/logo_web-wwwrosas_01-07.png&amp;quot; style=&amp;quot;width: 100%;&amp;quot; /&amp;gt;
+			&amp;lt;hr /&amp;gt;&amp;lt;/div&amp;gt;
+	&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;</content>
+	<author>admin</author>
+	<creDate>Tue, 27 Jun 2017 16:21:59 +0200</creDate>
+	<user>admin</user>
+	<projet>P000</projet>
+	<titre>titre</titre>
+	<date>26/03/2016</date>
+	<type_d_oeuvre>Photographie</type_d_oeuvre>
+	<techniques>Animation</techniques>
+	<media>Image</media>
+	<version>Version 1.0 (initiale)</version>
+	<format>Format</format>
+	<statut>En cours</statut>
+	<vignettes>Vignettes</vignettes>
+	<tag1>Graphique</tag1>
+	<tag2>Forme</tag2>
+	<tag3>Visuel</tag3>
+	<tag4>Signe</tag4>
+	<tag5>Couleurs</tag5>
+</item>

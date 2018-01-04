@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 18 Dec 2017 12:13:03 +0100</pubDate><title><![CDATA[05. Arborescence]]></title><url><![CDATA[05-arborescences]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[05. Arborescence]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[04-diagrammes]]></parent><content><![CDATA[&lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt; 
+    &lt;div class=&quot;col-md-12 sidebar-introduction&quot; data-pg-collapsed&gt; 
+        &lt;li class=&quot;sidebar_01 consolas sidebar_p000&quot; data-pg-collapsed=&quot;&quot;&gt; 
+            &lt;a href=&quot;http://www.florentlagrange.eu/index_P001.html&quot; class=&quot;sidebar-projet&quot;&gt;&lt;b&gt;INDEX&lt;/b&gt;&lt;/a&gt; 
+            &lt;br&gt; 
+            &lt;br&gt; 
+        &lt;/li&gt;         
+        &lt;table class=&quot;table1&quot;&gt; 
+            &lt;thead&gt; 
+                &lt;tr data-pg-collapsed&gt; 
+                    &lt;th&gt;#&lt;/th&gt; 
+                    &lt;th&gt;No. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt; 
+                    &lt;th&gt;Lignes de Recherches&lt;/th&gt; 
+                &lt;/tr&gt;                 
+            &lt;/thead&gt;             
+            &lt;tbody class=&quot;tableau&quot;&gt; 
+                &lt;tr class=&quot;tableau&quot;&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R1]&amp;nbsp;&lt;/td&gt; 
+                    &lt;td class=&quot;tableau&quot;&gt;&lt;i&gt;No.I&lt;/i&gt;&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/01-philosophies-1/&quot;&gt;Linguistique&lt;/a&gt; 
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+                &lt;tr&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R2]&lt;/td&gt; 
+                    &lt;td&gt;No.2&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/&quot;&gt;Langages informatiques&lt;/a&gt; 
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+                &lt;tr&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R3]&lt;/td&gt; 
+                    &lt;td&gt;&lt;i&gt;No.3&lt;/i&gt;&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/03-codes/&quot;&gt;I&lt;/a&gt;ndex / Lexique
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+                &lt;tr&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R4]&lt;/td&gt; 
+                    &lt;td&gt;&lt;i&gt;No.4&lt;/i&gt;&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/04-diagrammes/&quot;&gt;P&lt;/a&gt;lan de nommage
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+                &lt;tr&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R5]&lt;/td&gt; 
+                    &lt;td&gt;&lt;i&gt;No.5&lt;/i&gt;&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/05-objets/&quot;&gt;A&lt;/a&gt;scii&amp;nbsp;
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+                &lt;tr&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R6]&lt;/td&gt; 
+                    &lt;td&gt;No.6&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/06-architectures/&quot;&gt;Format&lt;/a&gt; 
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+                &lt;tr&gt; 
+                    &lt;td class=&quot;ref&quot;&gt;[R7]&lt;/td&gt; 
+                    &lt;td&gt;&lt;i&gt;No.7&lt;/i&gt;&lt;/td&gt; 
+                    &lt;td&gt; 
+                        &lt;a href=&quot;http://www.florentlagrange.eu/recherches/07-exposition/&quot;&gt;Sémiologie&lt;/a&gt; 
+                    &lt;/td&gt;                     
+                &lt;/tr&gt;                 
+            &lt;/tbody&gt;             
+        &lt;/table&gt;         
+    &lt;/div&gt;     
+    &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12 col-lg-12&quot;&gt; 
+        &lt;div data-pg-name=&quot;SIDEBAR&quot; class=&quot;col-md-12&quot;&gt; 
+            &lt;div data-pg-name=&quot;SIDEBAR&quot; data-pg-collapsed data-pgc=&quot;SIDEBAR No.1&quot; data-pgc-field=&quot;SIDEBAR No.1&quot; class=&quot;col-md-12&quot;&gt; 
+                &lt;div class=&quot;row&quot; title=&quot;TABLE DES MATIERES&quot; data-pg-name=&quot;TABLE DES MATIERES&quot; data-pg-collapsed data-pgc-field=&quot;TABLE_DES_MATIERES&quot;&gt; 
+&lt;/div&gt;                 
+            &lt;/div&gt;             
+        &lt;/div&gt;         
+        &lt;p data-pg-name=&quot;TITRE&quot; data-pg-collapsed=&quot;&quot; class=&quot;couleur_A&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;01. Plan de Nommage&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt; 
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum ac justo a mattis. Etiam aliquet tincidunt elit, ac dictum diam commodo eu. Phasellus hendrerit nec diam vitae lobortis. Quisque eleifend non tellus vitae viverra. Praesent ex velit, tincidunt eget placerat eget, interdum eu nibh. Donec facilisis risus ut dui pulvinar, eget posuere ligula condimentum. Phasellus sit amet erat scelerisque, aliquet mi eget, sodales elit. Etiam hendrerit ultrices tincidunt. Morbi iaculis vestibulum justo. Mauris nulla enim, tempor non rutrum et, malesuada non leo. Pellentesque venenatis, tellus a pharetra interdum, lectus arcu sollicitudin mi, quis vestibulum tellus eros in lorem. Praesent ac ipsum sapien. Fusce dictum, urna quis venenatis fermentum, felis leo vehicula dui, eget dapibus magna velit nec elit. Donec vel rhoncus massa.&amp;nbsp;&lt;/p&gt; 
+        &lt;p data-pg-collapsed&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/?lang=fr&quot;&gt;Accédez à la suite&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt; 
+        &lt;p data-pg-name=&quot;TITRE&quot; data-pg-collapsed=&quot;&quot; class=&quot;couleur_A&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;02. Index&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt; 
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum ac justo a mattis. Etiam aliquet tincidunt elit, ac dictum diam commodo eu. Phasellus hendrerit nec diam vitae lobortis. Quisque eleifend non tellus vitae viverra. Praesent ex velit, tincidunt eget placerat eget, interdum eu nibh. Donec facilisis risus ut dui pulvinar, eget posuere ligula condimentum. Phasellus sit amet erat scelerisque, aliquet mi eget, sodales elit. Etiam hendrerit ultrices tincidunt. Morbi iaculis vestibulum justo. Mauris nulla enim, tempor non rutrum et, malesuada non leo. Pellentesque venenatis, tellus a pharetra interdum, lectus arcu sollicitudin mi, quis vestibulum tellus eros in lorem. Praesent ac ipsum sapien. Fusce dictum, urna quis venenatis fermentum, felis leo vehicula dui, eget dapibus magna velit nec elit. Donec vel rhoncus massa.&amp;nbsp;&lt;br&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/?lang=fr&quot; style=&quot;line-height: 1.42857143;&quot;&gt;Accédez à la suite&lt;/a&gt;&lt;br&gt;&lt;/p&gt; 
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+        &lt;p data-pg-name=&quot;TITRE&quot; data-pg-collapsed=&quot;&quot; class=&quot;couleur_A&quot;&gt;&lt;b class=&quot;etiquette&quot;&gt;&amp;nbsp;03. Lexique&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt; 
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum ac justo a mattis. Etiam aliquet tincidunt elit, ac dictum diam commodo eu. Phasellus hendrerit nec diam vitae lobortis. Quisque eleifend non tellus vitae viverra. Praesent ex velit, tincidunt eget placerat eget, interdum eu nibh. Donec facilisis risus ut dui pulvinar, eget posuere ligula condimentum. Phasellus sit amet erat scelerisque, aliquet mi eget, sodales elit. Etiam hendrerit ultrices tincidunt. Morbi iaculis vestibulum justo. Mauris nulla enim, tempor non rutrum et, malesuada non leo. Pellentesque venenatis, tellus a pharetra interdum, lectus arcu sollicitudin mi, quis vestibulum tellus eros in lorem. Praesent ac ipsum sapien. Fusce dictum, urna quis venenatis fermentum, felis leo vehicula dui, eget dapibus magna velit nec elit. Donec vel rhoncus massa.&amp;nbsp;&lt;br&gt;&lt;a href=&quot;http://www.florentlagrange.eu/recherches/02-langages/?lang=fr&quot; style=&quot;line-height: 1.42857143;&quot;&gt;Accédez à la suite&lt;/a&gt;&lt;/p&gt; 
+    &lt;/div&gt;     
+    &lt;div class=&quot;col-md-12&quot; title=&quot;///////////&quot; data-pg-name=&quot;///////////&quot; data-pgc-lock=&quot;&quot; data-pg-collapsed=&quot;&quot;&gt; 
+        &lt;hr&gt; 
+    &lt;/div&gt;     
+    &lt;div class=&quot;row&quot; data-pg-name=&quot;ARTICLE&quot;&gt; 
+        &lt;div class=&quot;col-md-2&quot; data-pg-collapsed&gt; 
+            &lt;ul class=&quot;list-group&quot;&gt; 
+                &lt;li class=&quot;PPP_meta&quot;&gt; 
+                    &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+                    &lt;b&gt;Introduction générale&lt;/b&gt; 
+                &lt;/li&gt;                 
+                &lt;li class=&quot;PPP_meta&quot;&gt; 
+                    &lt;br&gt; 
+                &lt;/li&gt;                 
+            &lt;/ul&gt;             
+        &lt;/div&gt;         
+        &lt;div class=&quot;modele_meta_description_article meta col-md-10&quot; data-pg-collapsed&gt; 
+            &lt;ul class=&quot;list-group fa-ul&quot; data-pg-collapsed&gt; 
+                &lt;div class=&quot;row&quot;&gt; 
+                    &lt;div class=&quot;col-md-12&quot;&gt; 
+                        &lt;p data-pg-collapsed=&quot;&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h1&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span class=&quot;MsoIntenseEmphasis&quot;&gt;TEXTES&amp;nbsp;&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;mots-cls&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Écriture, traduction&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-begin&#039;&gt;&lt;/span&gt; XE &amp;quot;traduction&amp;quot; &lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-end&#039;&gt;&lt;/span&gt;&lt;![endif]--&gt;, mots, structure, langage,
+vocabulaire, signifiant&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Index01&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h3&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Www &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background:yellow;
+mso-highlight:yellow&quot;&gt;[T1]&amp;nbsp;:&lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;background:yellow;mso-highlight:yellow&quot;&gt; Situation&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Nous nous intéresserons ici à la forme écrite, première étape de
+traduction de la parole. A la limite de la pensée, le&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;logos « parole, discours, raison,
+relation ») est au départ le discours parlé ou écrit.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background:yellow;
+mso-highlight:yellow&quot;&gt;[T2]&amp;nbsp;: &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;background:yellow;mso-highlight:yellow&quot;&gt;Objectifs et
+Problématiques&amp;nbsp; &lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Mettre en place un style d’écriture est une forme de récit pour
+exprimer l’état de ma pensée. Travailler sur la narration et la forme de
+scénario afin de raconter des histoires. L’objet de ce travail est la mise en
+place d’un système pour assembler et stocker des notes rédiger au quotidien. Ce
+travail peut prendre la forme d’une machine d’écriture&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftn1&quot; name=&quot;_ftnref1&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [1]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt;.
+Retranscription d’un propos. Une temporalité exceptionnelle et un temps
+consacré intégralement à cette phase de travail.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Ce dispositif d’écriture permet de supporter un fil de fer dans la
+construction de mon processus plastique et permet d’évacuer toute
+interprétation. Il nécessite une temporalité portée sur une économie de
+l’attention&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftn2&quot; name=&quot;_ftnref2&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [2]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background:yellow;
+mso-highlight:yellow&quot;&gt;[T3]&amp;nbsp;: &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;background:yellow;mso-highlight:yellow&quot;&gt;Plan – Concept&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Cette ligne de recherche est portée sur une analyse de vocabulaire,
+un corpus de texte et d’annotations. De prise de notes et de manuscrit. Cette
+forme produit un outil et une é&lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:10.0pt;
+line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;tude littéraire,
+machine générative de texte, forme de littérature, science-fiction ou oulipien&lt;/span&gt;&lt;/span&gt;.
+Ce chapitre s’appuiera sur le registre de l’écriture&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-begin&#039;&gt;&lt;/span&gt; XE &amp;quot;Écrits&amp;quot; &lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-end&#039;&gt;&lt;/span&gt;&lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-begin&#039;&gt;&lt;/span&gt;&lt;span
+style=&#039;mso-spacerun:yes&#039;&gt; &lt;/span&gt;XE &amp;quot;parole&amp;quot; &lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-end&#039;&gt;&lt;/span&gt;&lt;![endif]--&gt;&amp;nbsp;(Sémantique, sémiologie
+et la linguistique) seront les points d’entrées dans les moyens permet de
+supporter une forme de récit pour exprimer l’état de ma pensée. &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background:yellow;
+mso-highlight:yellow&quot;&gt;[T4]&amp;nbsp;: &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;background:yellow;mso-highlight:yellow&quot;&gt;Méthode&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Concernant le langage, Acquérir et diversifier son vocabulaire
+quotidien afin d’être plus précis dans l’expression de ses sentiments. Créer un
+système transversal de signe, un plan de nommage, un système de classification,
+un index, répertoire de concept. Apprendre à écrire quotidiennement et
+travailler un style personnel. Découvrir ou élaborer un style poétique. Sous le
+régime de micro-écriture, partir d’une pensée (discours) autres, pour se
+l’approprier. &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background:yellow;
+mso-highlight:yellow&quot;&gt;[T5]&amp;nbsp;: &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;background:yellow;mso-highlight:yellow&quot;&gt;Limites -
+Ouverture&amp;nbsp; &lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Limites dans le cadre de la production littéraire. (Destinée sur
+l’écran ou sur le papier. Ecriture dans une langue native.&amp;nbsp; Ne se limite pas dans &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Elaborer un découpage technique et un scénario (pièce de théâtre,
+scénario, histoire). Archiver ces notes&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h3&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Description&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;Mettre en place un
+style d’écriture est une forme de récit pour exprimer l’état de ma pensée.
+Travailler sur la narration et la forme de scénario afin de raconter des
+histoires. L’objet de ce travail est la mise en place d’un système pour
+assembler et stocker des notes rédiger au quotidien. Ce travail peut prendre la
+forme d’une machine d’écriture&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftn3&quot; name=&quot;_ftnref3&quot; title=&quot;&quot;&gt;&lt;span class=&quot;MsoFootnoteReference&quot;&gt;&lt;!--[if !supportFootnotes]--&gt;[3]&lt;!--[endif]--&gt;&lt;/span&gt;&lt;/a&gt;.
+Retranscription d’un propos. Une temporalité exceptionnelle et un temps
+consacré intégralement à cette phase de travail.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;Ce dispositif
+d’écriture permet de supporter un fil de fer dans la construction de mon
+processus plastique et permet d’évacuer toute interprétation. Il nécessite une
+temporalité portée sur une économie de l’attention&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftn4&quot; name=&quot;_ftnref4&quot; title=&quot;&quot;&gt;&lt;span class=&quot;MsoFootnoteReference&quot;&gt;&lt;!--[if !supportFootnotes]--&gt;[4]&lt;!--[endif]--&gt;&lt;/span&gt;&lt;/a&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;Cette ligne de
+recherche est portée sur une analyse de vocabulaire, un corpus de texte et
+d’annotations. De prise de notes et de manuscrit. Cette forme produit un outil
+et une é&lt;/span&gt;&lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:
+10.0pt;line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;tude
+littéraire, machine générative de texte, forme de littérature, science-fiction
+ou oulipien&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h3&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Résumé&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h4&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;C1&amp;nbsp;: Enoncé&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Nous nous intéresserons ici à la forme écrite, première étape de
+traduction de la parole. A la limite de la pensée, le&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;logos « parole, discours, raison,
+relation ») est au départ le discours parlé ou écrit.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h4&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;C2&amp;nbsp;: Références / Situation&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Sous le registre de l’écriture&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-begin&#039;&gt;&lt;/span&gt; XE &amp;quot;Écrits&amp;quot; &lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-end&#039;&gt;&lt;/span&gt;&lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-begin&#039;&gt;&lt;/span&gt;&lt;span
+style=&#039;mso-spacerun:yes&#039;&gt; &lt;/span&gt;XE &amp;quot;parole&amp;quot; &lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-element:field-end&#039;&gt;&lt;/span&gt;&lt;![endif]--&gt;&amp;nbsp;(Sémantique, sémiologie
+et la linguistique) seront les points d’entrées dans les moyens permet de
+supporter une forme de récit pour exprimer l’état de ma pensée. &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;La notion de concept, est le point d’entrée de ce travail qui
+recouvre le champ de la pensée jusqu’au moyen d’expression par un langage. &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;color:#AEAAAA;mso-themecolor:background2;mso-themeshade:
+191&quot;&gt;Ce chapitre s’appuiera sur trois étapes principales dans le processus des
+mutations technologiques. La réflexion s’articulera principalement autour de
+quatre auteurs suivant les thématiques suivantes&amp;nbsp;: &amp;nbsp;Dispositif
+prothétique (Benjamin), Le régime de contrôle (Foucault) et le flux Nomade
+(Deleuze) et la topologie lacanienne.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;color:#AEAAAA;mso-themecolor:background2;mso-themeshade:
+191&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h4&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;C3&amp;nbsp;: Méthode – plan&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;mots-cls&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Linguistique, langage et structure syntaxique&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;mots-cls&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;mots-cls&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Langage&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;1. Acquérir et diversifier son vocabulaire quotidien afin d’être
+plus précis dans l’expression de ses sentiments.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;2. Créer un système transversal de signe, un plan de nommage, un
+système de classification.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;color:#AEAAAA;
+mso-themecolor:background2;mso-themeshade:191&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;color:#AEAAAA;
+mso-themecolor:background2;mso-themeshade:191&quot;&gt;Apprendre à écrire
+quotidiennement et travailler un style personnel&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;2. Découvrir ou élaborer un style poétique.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;3. Sous le régime de micro-écriture, partir d’une pensée (discours)
+autres, pour se l’approprier.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h4&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;C4&amp;nbsp;: Limites&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;Limites dans le cadre de la production littéraire. (Destinée sur
+l’écran ou sur le papier. Ecriture dans un langue native.&amp;nbsp; Ne se limite pas dans &lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;color:#AEAAAA;
+mso-themecolor:background2;mso-themeshade:191&quot;&gt;Créer une partition&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;4. Elaborer un découpage technique et un scénario (pièce de théâtre,
+scénario, histoire).&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;5.&amp;nbsp; Archiver ces notes.&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;h4&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;C5&amp;nbsp;: Références / Situation&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot; style=&quot;margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot;&gt;&lt;!--[if !supportLists]--&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-bidi-font-family:Calibri&quot;&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;!--[endif]--&gt;Oulipien (Pérec, Roubaud, Roussel)&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot; style=&quot;margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot;&gt;&lt;!--[if !supportLists]--&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-bidi-font-family:Calibri&quot;&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;!--[endif]--&gt;JG Ballard&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot; style=&quot;margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot;&gt;&lt;!--[if !supportLists]--&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-bidi-font-family:Calibri&quot;&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;!--[endif]--&gt;François Bon, Lebel&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;&lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;i&gt;&lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:always&quot;&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;h2&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;Développement&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;Dans une perspective communicationnelle, nous proposons de prendre
+le&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;storytelling&lt;/span&gt;&lt;/em&gt;, ou l’art de raconter des
+histoires (Marti et Pélissier, 2012), comme angle d’analyse du discours
+politique des candidats, aux élections présidentielles française et américaine.
+Nous nous interrogeons sur le pourquoi de l’utilisation du récit, mais également
+sur la manière dont le politique le sollicite. Lors du discours de campagne,
+l’orateur se raconte, alternant récits personnel et collectif, et histoires de
+ses concitoyens. Il construit et transmet simultanément sa propre image. Nous
+parlons alors d’ethos (Charaudeau, 2005). Après avoir observé la prépondérance
+de la narration dans la stratégie de communication de Barack Obama lors de la
+campagne à l’élection présidentielle de 2008, nous entreprenons une approche
+comparative avec le discours de Nicolas Sarkozy, durant la campagne de 2007.
+Nous travaillons sur une sélection de discours de meeting des deux candidats,
+analysant ce qui relève du&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;storytelling&lt;/span&gt;&lt;/em&gt;&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;dans l’allocution. Nous éclairons
+notre analyse grâce au logiciel d’analyse de discours Tropes. Les discours de
+Barack Obama et Nicolas Sarkozy ont mobilisé leur peuple usant d’éléments
+fondateurs d’un imaginaire commun (Girardet, 1986). Les récits d’expériences
+personnelles sont imprégnés de récits collectifs et ces derniers nourrissent
+les récits individuels (Bruner, 2010). L’orateur utilise ce que nous appelons
+«&amp;nbsp;un cercle de la narration&amp;nbsp;» au service de l’identité, tant dans sa
+construction que dans sa transmission. La question est de savoir comment la
+présentation de soi permet à un candidat de s’inscrire dans l’Histoire du pays,
+celle-là même qui conduit à l’intronisation de l’homme
+«&amp;nbsp;providentiel&amp;nbsp;», ou «&amp;nbsp;populaire&amp;nbsp;». Nous nous interrogeons
+sur ce qui relie récit et image de soi et posons ainsi la question&amp;nbsp;:
+comment et pourquoi communiquer par l’ethos dans un discours de campagne à
+l’élection présidentielle et plus globalement dans une stratégie de
+communication&amp;nbsp;?&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:
+always&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif;color:black;mso-themecolor:text1&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;h3&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a name=&quot;_Toc468858003&quot;&gt;&lt;/a&gt;&lt;a name=&quot;_Toc468810432&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:107%&quot;&gt;.&lt;/span&gt;&lt;/b&gt; 
+Langage / Littérature&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;Forme de régulation
+du savoir et d’expression. Ecriture dites expérimentale voir machinique.
+Travail selon une structure textuelle constructiviste. Pour emmener vers une
+libération de la forme textuel vers une forme plus poétique. Permettant de
+libérer le sens figer ou déterminer d’un mots clés ou d’un sens trop
+restrictif. Rapport à la société de contrôle&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftn5&quot; name=&quot;_ftnref5&quot; title=&quot;&quot;&gt;&lt;span class=&quot;MsoFootnoteReference&quot;&gt;&lt;!--[if !supportFootnotes]--&gt;[5]&lt;!--[endif]--&gt;&lt;/span&gt;&lt;/a&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;i&gt;&lt;p class=&quot;h3&quot;&gt;&lt;b&gt;&lt;font color=&quot;#337ab7&quot;&gt;2&lt;/font&gt;&lt;span style=&quot;line-height: 17.1200008392334px; font-size: 12pt;&quot;&gt;.&lt;/span&gt;&lt;/b&gt;&amp;nbsp;La forme littéraire, l&#039;écriture de soi&lt;/p&gt;&lt;/i&gt;&lt;p class=&quot;h3&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span class=&quot;A4&quot;&gt;&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;Le paragraphe est une unité de sens, un paquet d&#039;information. Il
+contient en principe quatre éléments : la&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;relation&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;au paragraphe précédent, l&#039;énoncé
+court&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;de l&#039;information (= un&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;thème&lt;/span&gt;&lt;/em&gt;&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;+ un&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;rhème&lt;/span&gt;&lt;/em&gt;), le&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;développement&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;de cette information, sa&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;reprise&lt;span class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;brève.&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;&lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:always&quot;&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:13.5pt;
+line-height:104%;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;color:#5B9BD5;
+mso-themecolor:accent1;mso-fareast-language:FR&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;Niveau02&quot; style=&quot;line-height: 17.142858505249px; margin-left: 1cm;&quot;&gt;3. &lt;b&gt;Ecriture au quotidien&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:
+10.0pt;line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;Mettre des mots
+sur une sensation singulière&lt;/span&gt;&lt;/span&gt;. &lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.0pt;line-height:104%;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;Se détacher de toute forme d’interprétation. Mettre
+en place un dispositif afin d’exprimer le ressenti de la pensée.&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.0pt;line-height:
+104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;Forme littéraire multiple en
+fonction de différentes plateformes&lt;/span&gt;&lt;/span&gt;. &lt;span class=&quot;A4&quot;&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.0pt;line-height:104%;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;Etude de l’épistémè propre à chaque époque &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;line-height:104%&quot;&gt;La pensée se
+transforme et se véhicule ensuite en mot. L’inconscient fonctionne par image.
+Le préconscient émerge en mot isolés qui exprime ces images. Puis la perception
+est surinvestie en formulation logique ou vrai. Le langage à peine à reproduire
+la richesse émergente de l’imaginaire par ce qu’elle se fait d’une manière
+autre que celle du discours. Tout ce qui n’a pas de nom n’existe pas, dès que
+nous conceptualisons quelque chose nous lui donnons un nom. L’écrit s’oppose à
+la langue parlée (discours), la vocation de la langue parlée est une vocation
+«&amp;nbsp;d’appel&amp;nbsp;». D’appeler l’attention sur quelque chose. Concernant la
+langue écrite est de dépasser la pensée afin de projeter vers les autres une
+chose qui à sa vie propre. Le discours (saveurs / Savoir).&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:9.0pt;line-height:104%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:9.0pt;line-height:104%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:9.0pt;line-height:104%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:9.0pt;line-height:104%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:9.0pt;line-height:104%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;mots-cls&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;Logos, Signal, Langue, Donnée, Vocabulaire, Grammaire&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Linguistique&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftn6&quot; name=&quot;_ftnref6&quot; title=&quot;&quot;&gt;&lt;span class=&quot;MsoFootnoteReference&quot;&gt;&lt;!--[if !supportFootnotes]--&gt;[6]&lt;!--[endif]--&gt;&lt;/span&gt;&lt;/a&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Lacan sur la parole et la
+psychanalyse&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;b style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;span style=&quot;font-size:10.0pt;mso-bidi-font-size:13.5pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;
+mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;
+color:#5B9BD5;mso-themecolor:accent1;mso-ansi-language:FR;mso-fareast-language:
+FR;mso-bidi-language:AR-SA&quot;&gt;&lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;
+page-break-before:always&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;p class=&quot;Niveau02&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a name=&quot;_Toc468858004&quot;&gt;&lt;/a&gt;&lt;a name=&quot;_Toc468810433&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:13.5pt;font-family:
+&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class=&quot;Niveau02&quot; style=&quot;line-height: 17.142858505249px; margin-left: 1cm;&quot;&gt;4. Index&amp;nbsp;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-bookmark:_Toc468810433&#039;&gt;&lt;span style=&#039;mso-bookmark:_Toc468858004&#039;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span
+style=&#039;mso-element:field-begin&#039;&gt;&lt;/span&gt;&lt;span style=&#039;mso-bookmark:_Toc468810433&#039;&gt;&lt;span
+style=&#039;mso-bookmark:_Toc468858004&#039;&gt; XE &amp;quot;Index&amp;quot; &lt;/span&gt;&lt;/span&gt;&lt;![endif]--&gt;&lt;!--[if supportFields]&gt;&lt;span
+style=&#039;mso-bookmark:_Toc468810433&#039;&gt;&lt;span style=&#039;mso-bookmark:_Toc468858004&#039;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span
+style=&#039;mso-element:field-end&#039;&gt;&lt;/span&gt;&lt;![endif]--&gt;: Icone et Indice&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;!--[if !supportFootnotes]--&gt;&lt;br clear=&quot;all&quot;&gt;&lt;hr align=&quot;left&quot; size=&quot;1&quot; width=&quot;33%&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;!--[endif]--&gt;&lt;p class=&quot;MsoFootnoteText&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftnref1&quot; name=&quot;_ftn1&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [1]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt; 
+Frédérique Kittler&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoFootnoteText&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftnref2&quot; name=&quot;_ftn2&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [2]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt; 
+Crary Jonathan&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoFootnoteText&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftnref3&quot; name=&quot;_ftn3&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [3]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt; 
+Frédérique Kittler&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoFootnoteText&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftnref4&quot; name=&quot;_ftn4&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [4]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt; 
+Crary Jonathan&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoFootnoteText&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftnref5&quot; name=&quot;_ftn5&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [5]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt; 
+Foucault, Surveiller et Punir&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;p class=&quot;MsoFootnoteText&quot; style=&quot;line-height: 17.142858505249px;&quot;&gt;&lt;a href=&quot;file:///D:/03.%20%E2%93%95/TEXTE_Master_Florent_02.docx#_ftnref6&quot; name=&quot;_ftn6&quot; title=&quot;&quot;&gt; 
+                                    &lt;!--[if !supportFootnotes]--&gt;                                                                                                                                                                                                                                                                    [6]
+                                    &lt;!--[endif]--&gt;                                     
+                                &lt;/a&gt; 
+De Saussure, cours sur la linguistique générale&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;&lt;/i&gt; 
+                        &lt;p&gt;&lt;/p&gt; 
+                    &lt;/div&gt;                     
+                &lt;/div&gt;                 
+                &lt;li class=&quot;PPP_meta_texte sidebar_introduction sidebar-introduction&quot;&gt; 
+                    &lt;li class=&quot;PPP_meta_texte sidebar_introduction sidebar-introduction&quot;&gt;                                            &amp;nbsp;&amp;nbsp;
+                        &lt;br&gt; 
+                        &lt;p class=&quot;p&quot;&gt;Un Icone est un signe qui fait référence à l&#039;Objet qu&#039;il dénote
+simplement en vertu de ses caractères propres, lesquels il possède, qu&#039;un tel
+Objet existe réellement ou non. (...) N&#039;importe quoi, que ce soit une qualité,
+un existant individuel, ou une loi, est un icone de n&#039;importe quoi, dans la
+mesure où il ressemble à cette chose et en est utilisé comme le signe. &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;Un Indice est un signe qui fait référence à l&#039;Objet qu&#039;il dénote en
+vertu du fait qu&#039;il est réellement affecté par cet Objet. (...) Dans la mesure
+où l&#039;Indice est affecté par l&#039;Objet, il a nécessairement certaines qualités en
+commun avec cet Objet, et c&#039;est sous ce rapport qu&#039;il réfère à l&#039;Objet. Il
+implique, par conséquent, une certaine relation iconique à l&#039;Objet, mais un
+icone d&#039;un genre particulier ; et ce n&#039;est pas la simple ressemblance à son
+Objet, même sous ces rapports, qui en font un signe mais les modifications
+réelles qu&#039;il subit de la part de l&#039;Objet. &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:always&quot;&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;a name=&quot;_Toc468858005&quot;&gt;&lt;/a&gt;&lt;a name=&quot;_Toc468810434&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:13.5pt;line-height:
+104%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;
+mso-fareast-language:FR&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Niveau02&quot; style=&quot;margin-left:1.0cm&quot;&gt;5. Annotations &lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;La première phase de conduite du projet utilise la signification
+textuelle comme matériau d’étude. Cette introduction de travail met en évidence
+les enjeux linguistiques, étymologiques et poétiques du langage. Ce temps de
+calibrage cible les stratégies et leurs influences sur le codex des œuvres par
+les nouveaux langages depuis les fondements de la cybernétique jusqu’à
+l’analyse du flux des médias en temps réel.&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;Extension de la pensée&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:always&quot;&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;a name=&quot;_Toc468858006&quot;&gt;&lt;/a&gt;&lt;a name=&quot;_Toc468810435&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:13.5pt;line-height:
+104%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;
+mso-fareast-language:FR&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Niveau02&quot; style=&quot;margin-left:1.0cm&quot;&gt;6. Digital literacy&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;pre style=&quot;background: white;&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+font-family:&amp;quot;Garamond&amp;quot;,serif;color:#212121&quot;&gt;L&#039;alphabétisation numérique est la connaissance, les compétences et les comportements utilisés dans une large gamme d&#039;appareils numériques tels que les smartphones, tablettes, ordinateurs portables et ordinateurs de bureau, qui sont tous considérés comme un réseau plutôt que des périphériques informatiques. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/pre&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Aucunstyledeparagraphe&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;mso-fareast-font-family:Utsaah;mso-bidi-font-family:
+Utsaah&quot;&gt;Note #4 : &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;
+mso-fareast-font-family:Utsaah;mso-bidi-font-family:Utsaah&quot;&gt;Principe
+d&#039;observation, d’analyse Objectif est de pouvoir prélever des éléments (cf
+invariant / Célestin Freinet) que je délimite le process par la méthode du
+reverse engineering (cf&amp;nbsp;:&lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Monolithe
+I &lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;à la fois comme angle
+d&#039;attaque et sujet.&lt;i&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Rompre
+avec la tradition&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;
+color:maroon&quot;&gt;Figure&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;
+color:maroon&quot;&gt; Monolithique. Temps messianique : Épiphanie / &lt;i&gt;Découverte&lt;/i&gt;,&lt;i&gt;Sélection, Choix et situation&lt;b&gt;.&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&lt;span style=&quot;font-family:
+&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;
+color:maroon&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Monolithe comme un bloc de données
+refermant un processus.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;C&#039;est
+le rapport hardware – Software, Support – Surface, media-médiums. &lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;color:#00CCFF&quot;&gt;[1]&lt;/span&gt;&lt;i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Premier
+Volume massif de manière à avoir un grand angle d&#039;observation sur cet
+événement.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Figure
+du monolithique me semble intéressant pour ouvrir, découverte de fossile à
+l’intérieur ou rebondissement ailleurs.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;L&#039;utilisation
+du terme&lt;i&gt; Monolithe&lt;/i&gt; permet de créer une jonction, un lien entre le fond
+et la forme dans un rapport direct sans phase, processus venant altérer.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;Question
+que je viendrais situer entre les divergences des problématiques entres le
+minimalisme et le post-minimalisme sur le statut de la matière et de l&#039;objet.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;
+color:maroon&quot;&gt;Une coordonnée sur une cartographie, une balise dans une feuille
+de code, un pixel sur un écran, une tache de couleur (voir un pigment) sur une
+toile de peinture, une jante de voiture, un pied de table dans une cuisine, Une
+arbre dans une forêt, un caillou dans une clairière,&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Standard&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Garamond&amp;quot;,serif;
+color:maroon&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:always&quot;&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;a name=&quot;_Toc468858007&quot;&gt;&lt;/a&gt;&lt;a name=&quot;_Toc468810436&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:13.5pt;line-height:
+104%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;
+mso-fareast-language:FR&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Niveau02&quot; style=&quot;margin-left:1.0cm&quot;&gt;7. Grille (et support)&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:
+Arial&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;À partir de la &lt;span style=&quot;font-size:10.0pt;line-height:104%&quot;&gt;terminologie&lt;/span&gt; su mot &lt;b&gt;Site&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:
+Arial&quot;&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:
+Arial&quot;&gt;Espace strié et espace lisse (L’espace omniprésent de la strie dans les
+champs de vision et de perception)&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:
+Arial&quot;&gt;La grille comme repère de valeur, coordonnée topologique.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Paragraphestandard&quot;&gt;&lt;span style=&quot;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:Arial&quot;&gt;Fonction de la grille : &lt;i&gt;Spatiale&lt;/i&gt; 
+/ &lt;i&gt;temporelle&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;Adobe Garamond Pro&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Paragraphestandard&quot;&gt;&lt;span style=&quot;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:Arial&quot;&gt;Organisation du chaos /
+Cosmos&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Paragraphestandard&quot;&gt;&lt;span style=&quot;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:Arial&quot;&gt;Le terme de grille
+renvoi à la notion de matérialisme. La grille est une manière d’étouffer la
+prétention qu’ont les objets naturels d’avoir un ordre propre. La question
+posée est celle des modalités de l’exposition de l’art numérique en ce qu’elle
+relève de différents registres : la culture, le savoir et la constitution de la
+« valeur d’exposition » Benjamin habitude d’appréhender une œuvre d’art comme
+un objet témoignant de lui-même d’un certain état.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Paragraphestandard&quot;&gt;&lt;span style=&quot;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:Arial&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Paragraphestandard&quot;&gt;&lt;span style=&quot;font-family:
+&amp;quot;Adobe Garamond Pro&amp;quot;,serif;mso-bidi-font-family:Arial&quot;&gt;Déplacement du statut
+artistique et de la fonction sociale de l’art. Définir les formes d’art et les
+concepts esthétiques et mettre en place la restauration symbolique de la valeur
+de l’art. (Le devenir de l’art). Définir ou se situe le terme, les limites de
+l’expérimentation / en termes de nouvelle posture adoptée face aux nouveaux
+médias. / en termes de marchandisation de l’œuvre d’art / et quelles
+conséquences en termes de pratiques sociales.&amp;nbsp;
+La base ou le Sas de sécurité serait de sélectionner une œuvre pour
+chaque artiste. Afin de créer une base de sécurité.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;mots-cls&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;br clear=&quot;all&quot; style=&quot;mso-special-character:line-break;page-break-before:always&quot;&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Calibri Light&amp;quot;,sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-theme-font:major-latin;
+mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:major-bidi;
+color:#1F4D78;mso-themecolor:accent1;mso-themeshade:127&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;Niveau02&quot;&gt;&lt;a name=&quot;_Toc468858008&quot;&gt;&lt;/a&gt;&lt;a name=&quot;_Toc468810437&quot;&gt;8. Discours&lt;/a&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;p&quot;&gt;Tropes&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                        &lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;
+line-height:104%;font-family:&amp;quot;Garamond&amp;quot;,serif&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt; 
+                    &lt;/li&gt;                                                                                                                                                                                                        &amp;nbsp;&amp;nbsp;
+                    &lt;br&gt; 
+                    &lt;br&gt;DTD et XML&amp;nbsp;
+                    &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt; 
+                    &lt;br&gt; 
+                    &lt;br&gt; 
+                    &lt;i class=&quot;fa fa-lg fa-crosshairs&quot;&gt;&amp;nbsp;&lt;/i&gt;Site Mirroir de la page&amp;nbsp;
+                    &lt;i style=&quot;line-height: 17.142858505249px;&quot;&gt;&amp;nbsp;(En cours d&#039;installation)&lt;/i&gt; 
+                    &lt;br&gt; 
+                    &lt;br&gt; 
+                    &lt;i class=&quot;fa fa-lg fa-check&quot;&gt;&amp;nbsp;&lt;/i&gt;Ajouter à la sélection
+                    &lt;i&gt; (En cours d&#039;installation)&lt;/i&gt; 
+                    &lt;br&gt; 
+                &lt;/li&gt;                 
+            &lt;/ul&gt;             
+        &lt;/div&gt;         
+        &lt;div class=&quot;row&quot;&gt; 
+            &lt;div class=&quot;col-md-12&quot;&gt; 
+                &lt;ul class=&quot;list-group&quot;&gt; 
+                    &lt;li class=&quot;PPP_meta&quot;&gt; 
+                        &lt;b&gt;&lt;br&gt;&lt;/b&gt; 
+                        &lt;b&gt;Introduction générale&lt;/b&gt; 
+                    &lt;/li&gt;                     
+                    &lt;li class=&quot;PPP_meta&quot;&gt; 
+                        &lt;br&gt; 
+                    &lt;/li&gt;                     
+                &lt;/ul&gt;                 
+            &lt;/div&gt;             
+            &lt;div class=&quot;col-md-2&quot;&gt; 
+                &lt;ul class=&quot;list-group&quot;&gt; 
+                    &lt;li class=&quot;PPP_meta&quot;&gt; 
+                        &lt;br&gt; 
+                    &lt;/li&gt;                     
+                &lt;/ul&gt;                 
+                &lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/01-philosophie/figure_01-1.jpg&quot; width=&quot;100%&quot; id=&quot;image&quot; /&gt; 
+            &lt;/div&gt;             
+            &lt;div class=&quot;col-md-2&quot;&gt; 
+                &lt;ul class=&quot;list-group&quot;&gt; 
+                    &lt;li class=&quot;PPP_meta&quot;&gt; 
+                        &lt;br&gt; 
+                    &lt;/li&gt;                     
+                &lt;/ul&gt;                 
+                &lt;img src=&quot;http://www.florentlagrange.eu/data/uploads/recherches/01-philosophie/figure_01-2.jpg&quot; width=&quot;100%&quot; id=&quot;image&quot; /&gt; 
+            &lt;/div&gt;             
+            &lt;div class=&quot;col-md-2&quot;&gt; 
+&lt;/div&gt;             
+        &lt;/div&gt;         
+        &lt;div class=&quot;col-md-12&quot; data-pg-collapsed=&quot;&quot; data-pg-name=&quot;///////////&quot; title=&quot;///////////&quot;&gt; 
+            &lt;hr class=&quot;hr_titre&quot;&gt; 
+            &lt;hr&gt; 
+        &lt;/div&gt;         
+    &lt;/div&gt;     
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><creDate>Tue, 27 Jun 2017 22:02:05 +0200</creDate><user><![CDATA[admin]]></user><projet><![CDATA[P000]]></projet><titre><![CDATA[titre]]></titre><date><![CDATA[26/03/2016]]></date><type_d_oeuvre><![CDATA[Photographie]]></type_d_oeuvre><techniques><![CDATA[Animation]]></techniques><media><![CDATA[Image]]></media><version><![CDATA[Version 1.0 (initiale)]]></version><format><![CDATA[Format]]></format><statut><![CDATA[En cours]]></statut><vignettes><![CDATA[Vignettes]]></vignettes><tag1><![CDATA[]]></tag1><tag2><![CDATA[]]></tag2><tag3><![CDATA[]]></tag3><tag4><![CDATA[]]></tag4><tag5><![CDATA[]]></tag5><table1><![CDATA[]]></table1><table2><![CDATA[]]></table2><table3><![CDATA[]]></table3><menuOrder><![CDATA[15]]></menuOrder></item>
